@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<books title="A list of books">
- <book code="abcdef" />
- <book code="ghijklm">
-  Some text contents
- </book>
-</books>
