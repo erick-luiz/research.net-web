@@ -1,0 +1,1833 @@
+<?xml version='1.0' encoding='UTF-8'?><grafo>
+	<titulo>GEPEFES - GRUPO DE ESTUDO E PESQUISA EM FAMILIA, ENFERMAGEM E SAÚDE </titulo>
+	<numeroDeProducoesUnicas>300</numeroDeProducoesUnicas>
+	<numeroDeNodos>8</numeroDeNodos>
+	<numeroDeArestas>1</numeroDeArestas>
+	<anos>
+		<ano valor="">
+			<numero-producoes>4</numero-producoes>
+		</ano>
+		<ano valor="1995">
+			<numero-producoes>2</numero-producoes>
+		</ano>
+		<ano valor="1996">
+			<numero-producoes>1</numero-producoes>
+		</ano>
+		<ano valor="1997">
+			<numero-producoes>4</numero-producoes>
+		</ano>
+		<ano valor="1998">
+			<numero-producoes>6</numero-producoes>
+		</ano>
+		<ano valor="1999">
+			<numero-producoes>7</numero-producoes>
+		</ano>
+		<ano valor="2000">
+			<numero-producoes>11</numero-producoes>
+		</ano>
+		<ano valor="2001">
+			<numero-producoes>7</numero-producoes>
+		</ano>
+		<ano valor="2002">
+			<numero-producoes>17</numero-producoes>
+		</ano>
+		<ano valor="2003">
+			<numero-producoes>28</numero-producoes>
+		</ano>
+		<ano valor="2004">
+			<numero-producoes>22</numero-producoes>
+		</ano>
+		<ano valor="2005">
+			<numero-producoes>14</numero-producoes>
+		</ano>
+		<ano valor="2006">
+			<numero-producoes>18</numero-producoes>
+		</ano>
+		<ano valor="2007">
+			<numero-producoes>23</numero-producoes>
+		</ano>
+		<ano valor="2008">
+			<numero-producoes>31</numero-producoes>
+		</ano>
+		<ano valor="2009">
+			<numero-producoes>23</numero-producoes>
+		</ano>
+		<ano valor="2010">
+			<numero-producoes>16</numero-producoes>
+		</ano>
+		<ano valor="2011">
+			<numero-producoes>19</numero-producoes>
+		</ano>
+		<ano valor="2012">
+			<numero-producoes>10</numero-producoes>
+		</ano>
+		<ano valor="2013">
+			<numero-producoes>14</numero-producoes>
+		</ano>
+		<ano valor="2014">
+			<numero-producoes>7</numero-producoes>
+		</ano>
+		<ano valor="2015">
+			<numero-producoes>8</numero-producoes>
+		</ano>
+		<ano valor="2016">
+			<numero-producoes>1</numero-producoes>
+		</ano>
+		<ano valor="2017">
+			<numero-producoes>7</numero-producoes>
+		</ano>
+	</anos>
+	<nodos>
+		<nodo>
+			<id>6256051381068430</id>
+			<label>Alessandro Marques dos Santos</label>
+			<dataAtualizacao>17052018</dataAtualizacao>
+			<numeroDeProducoes>40</numeroDeProducoes>
+			<numeroDeProducoesPorAno>
+				<ano value="2006">2</ano>
+				<ano value="2008">2</ano>
+				<ano value="1999">1</ano>
+				<ano value="2010">1</ano>
+				<ano value="2011">6</ano>
+				<ano value="2013">9</ano>
+				<ano value="2012">8</ano>
+				<ano value="2014">2</ano>
+				<ano value="2015">2</ano>
+				<ano value="2017">7</ano>
+			</numeroDeProducoesPorAno>
+			<producoes>
+				<producao>
+					<titulo>Feridas Traumáticas. In: NURSING - 4º Congresso Brasileiro, 2006, São Paulo.NURSING - 4º Congresso Brasileiro - 2006 (ANAIS). 2006.</titulo>
+					<ano>2006</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Mulheres Alcoolistas: O Significado do Alcoolismo para os Familiares. In: NURSING - 4º Congresso Brasileiro, 2006, São Paulo.NURSING - 4º Congresso Brasileiro - 2006. 2006.</titulo>
+					<ano>2006</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SANTOS, A. M.;Silva, Mara R. S.;FILHO, Wilson Lunardi;LUNARDI, Valéria.?Cuidado à Mulher Alcoolista Internada em Hospital Geral: A Percepção das Enfermeiras?. In: 17º Congresso de Iniciação Cientifica, 7º Mostra de Pós-graduação e 4º Mostra de Extensão, 2008, Pelotas.17º Congresso de Iniciação Cientifica, 7º Mostra de Pós-graduação e 4º Mostra de Extensão. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>NUNES, Márcia Helena;SANTOS, A. M.;BOLKE, Maristela.Desempenho do Centro de Referência em Nefrologia do Hospital São Francisco de Paula. In: 17º Congresso de Iniciação Cientifica, 7º Mostra de Pós-graduação e 4º Mostra de Extensão, 2008, Pelotas.17º Congresso de Iniciação Cientifica, 7º Mostra de Pós-graduação e 4º Mostra de Extensão. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LANGE, Celmira;SCHWONKE, Camila;SANTOS, A. M.;MEDEIROS, Adriane.Quando a Solidariedade esta Presente no Cuidado Domiciliar. In: 51º Congresso Brasileiro de Enfermagem e 10º Congreso Panamericano de Enfermería, 1999, Florianópolis.Resumos dos Trabalhos de Tema Livre. 1999.</titulo>
+					<ano>1999</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SANTOS, A. M.;FAGUNDES, R. F.;BRUM, Ivana;Canabarro, J.;DOMINGUES, Eliana S.Consumo de Materiais Leves Produzidos no CME de um Hospital Universitário de Médio Porte no Ano de 2009. In: 11º Congresso Mundial de Esterilização e 7º Simpósio Internacional de Esterilização e Controle de Infecção Hospitalar, 2010, São Paulo-SP."Anais" Annals/Anales. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SANTOS, A. M.;FREITAS, A. I. de;BRUM, Ivana;PEREIRA, E. M.;Padilha, T.;BARCELOS, V.Perfil dos Pacientes que Foram a Óbito por Parada Cardiorespiratória no Hospital Universitário São Francisco de Paula e Pronto Socorro em 2010. In: 20º Congresso de Iniciação Científica, 10ª Mostra de Pós-Graduação e 3º Congresso de Extensão, 2011, Pelotas.20º Congresso de Iniciação Científica, 10ª Mostra de Pós-Graduação e 3º Congresso de Extensão - Salão Universitário. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SANTOS, A. M.;DOMINGUES, E.;FERREIRA, A.;MACIEL, C. A.Relação da Sindrome de Burnout com o Profissional da Saúde. In: 20º Congresso de Iniciação Científica, 10ª Mostra de Pós-Graduação e 3º Congresso de Extensão, 2011, Pelotas.20º Congresso de Iniciação Científica, 10ª Mostra de Pós-Graduação e 3º Congresso de Extensão - Salão Universitário. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SANTOS, A. M.;UGOSKI, I. D.;TIMM, B. G.Treinamento da Segregação Correta dos Resíduos de Saúde numa Unidade de Terapia Intensiva. In: 20º Congresso de Iniciação Científica, 10ª Mostra de Pós-Graduação e 3º Congresso de Extensão, 2011, Pelotas.20º Congresso de Iniciação Científica, 10ª Mostra de Pós-Graduação e 3º Congresso de Extensão - Salão Universitário. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SANTOS, A. M.;FONSECA, AT;FONSECA, C. T.;SOARES, D. C.;BARBOZA, MCN.Apoio Familiar à Mulher no Período Puerperal. In: XX Congresso de Iniciação Científica e III Mostra Científica da Universidade Federal de Pelotas, 2011, Pelotas.XX Congresso de Iniciação Científica e III Mostra Científica da Universidade Federal de Pelotas. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SANTOS, A. M.;FONSECA, AT;FONSECA, C. T.;SOARES, D. C.;BARBOZA, MCN.As Fragilidades da Mulher na Vivência do Puerpério. In: XX Congresso de Iniciação Científica e III Mostra Científica da Universidade Federal de Pelotas, 2011, Pelotas.XX Congresso de Iniciação Científica e III Mostra Científica da Universidade Federal de Pelotas. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>GARCIA, A. F. P.;PAVULACK, F. E.;DOMINGUES, E. S.;ARRIEIRA, I. C. O.;Santos, Alessandro Marques dos.A sala de recuperação pós-anestésica como ambiente de cuidado em enfermagem. In: 11º Congresso Brasileiro de Enfermagem em Centro Cirúrgico, Recuperação Anestésica e Centro de Material e Esterelização, 2013, São Paulo.Teoria e Prática Perioperatória: cuidado, gestão e desenvolvimento pessoal e profissional. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>ALVES, A. M.;PALMEIRA, R. D. P.;BUENO, J. F.;Santos, Alessandro Marques dos;GOMES, C. B.A segurança do paciente em centro cirúrgico. In: 11º Congresso Brasileiro de Enfermagem em Centro Cirúrgico, Recuperação Anestésica e Centro de Material e Esterelização, 2013, São Paulo.Teoria e Prática Perioperatória: cuidado, gestão e desenvolvimento pessoal e profissional. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FAGUNDES, R. F.;SANTOS, A. M.;TEIXEIRA, R. H. L.;DOMINGUES, Eliana S.;JORNADA, F. S.Treinamento em serviço: investigando conhecimentos no CME. In: 11º Congresso Brasileiro de Enfermagem em Centro Cirúrgico, Recuperação Anestésica e Centro de Material e Esterelização, 2013, São Paulo.Teoria e Prática Perioperatória: cuidado, gestão e desenvolvimento pessoal e profissional. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>PALMEIRA, R. D. P.;SOARES, J.;SANTOS, A. M.;DOMINGUES, Eliana S.;MAAGH, Samanta.Registros de enfermagem em sala de recuperação pós-anestésica: cuidando em enfermagem. In: 11º Congresso Brasileiro de Enfermagem em Centro Cirúrgico, Recuperação Anestésica e Centro de Material e Esterelização, 2013, São Paulo.Teoria e Prática Perioperatória: cuidado, gestão e desenvolvimento pessoal e profissional. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>CUNHA, M. O.;SANTOS, A. M.;PALMEIRA, R. D. P.;MAAGH, Samanta;PEREIRA, L.Jaleco hospitalar: uso consciente. In: 11º Congresso Brasileiro de Enfermagem em Centro Cirúrgico, Recuperação Anestésica e Centro de Material e Esterelização, 2013, São Paulo.Teoria e Prática Perioperatória: cuidado, gestão e desenvolvimento pessoal e profissional. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>CUNHA, M. O.;AMARAL, P. S.;SANTOS, A. M.;MORAES, C. L.;DOMINGUES, Eliana S.A vivência acadêmica no CME de um hospital universitário. In: 11º Congresso Brasileiro de Enfermagem em Centro Cirúrgico, Recuperação Anestésica e Centro de Material e Esterelização, 2013, São Paulo.Teoria e Prática Perioperatória: cuidado, gestão e desenvolvimento pessoal e profissional. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>OLIVEIRA, A. V.;SANTOS, A. M.;DOMINGUES, Eliana S.;SOARES, L. N.;TEIXEIRA, R. H. L.Implementação do Processo de Enfermagem no transoperatório num centro cirúrgico de hospital universitário. In: 11º Congresso Brasileiro de Enfermagem em Centro Cirúrgico, Recuperação Anestésica e Centro de Material e Esterelização, 2013, São Paulo.Teoria e Prática Perioperatória: cuidado, gestão e desenvolvimento pessoal e profissional. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>TEIXEIRA, R. H. L.;PALMEIRA, R. D. P.;ALVES, A. M.;Santos, Alessandro Marques dos;TIMM, B. G.A importância dos registros de dados no centro cirúrgico: cirurgias seguras salvam vidas. In: 11º Congresso Brasileiro de Enfermagem em Centro Cirúrgico, Recuperação Anestésica e Centro de Material e Esterelização, 2013, São Paulo.Teoria e Prática Perioperatória: cuidado, gestão e desenvolvimento pessoal e profissional. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SILVA, P. A.;SILVA, M. R. S.;SCHEK, G.;NUNES, M. P.;BARROS, C. C.;SANTOS, A. M.REFORMA PSIQUIÁTRICA: UM OLHAR DA ENFERMAGEM FRENTE A ESSE NOVO MODELO DE ATENÇÃO A SAÚDE MENTAL. In: IIº Congresso Internacional Saúde Mental e Reabilitação Psicossocial, 2012, Porto Alegre.Iº Congresso Internacional Saúde Mental e Reabilitação Psicossocial. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SILVA, P. A.;SILVA, M. R. S.;SCHEK, G.;NUNES, M. P.;SANTOS, A. M.;BUENO, M. E.A SAÚDE MENTAL E O TRABALHO DE ENFERMAGEM COM FAMÍLIAS: EM BUSCA DA INTEGRALIDADE DO CUIDADO. In: IIº Congresso Internacional Saúde Mental e Reabilitação Psicossocial, 2012, Porto Alegre.IIº Congresso Internacional Saúde Mental e Reabilitação Psicossocial. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SANTOS, A. M.;CUNHA, M. O.;SOARES, J.;MORAES, C. L.A IMPORTÂNCIA DO PROCESSO DE ENFERMAGEM EM SAÚDE MENTAL. In: IIº Congresso Internacional Saúde Mental e Reabilitação Psicossocial, 2012, Porto Alegre.IIº Congresso Internacional Saúde Mental e Reabilitação Psicossocial. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>VASCONCELOS, H. L. B.;FARIAS, D. C. S.;SANTOS, A. M.O PROCESSO DE TRABALHO DO ENFERMEIRO EM CENTRO DE ATENÇÃO PSICOSSOCIAL - CAPS. In: IIº Congresso Internacional Saúde Mental e Reabilitação Psicossocial, 2012, Porto Alegre.IIº Congresso Internacional Saúde Mental e Reabilitação Psicossocial. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>VASCONCELOS, H. L. B.;FARIAS, D. C. S.;SANTOS, A. M.RELATO DE EXPERIÊNCIA - CAPS AD. In: IIº Congresso Internacional Saúde Mental e Reabilitação Psicossocial, 2012, Porto Alegre.IIº Congresso Internacional Saúde Mental e Reabilitação Psicossocial. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>NUNES, M. P.;SILVA, M. R. S.;SILVA, P. A.;SANTOS, A. M.;LUZ, G. S.REDUÇÃO DE DANOS: PERCORRENDO CAMINHOS NA SAÚDE PRISIONAL. In: IIº Congresso Internacional Saúde Mental e Reabilitação Psicossocial, 2012, Porto Alegre.IIº Congresso Internacional Saúde Mental e Reabilitação Psicossocial. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>NUNES, M. P.;SILVA, M. R. S.;SILVA, P. A.;SANTOS, A. M.;BUENO, M. E.HISTÓRIA DE VIDA: REFLEXÕES SOBRE SUA CONTRIBUIÇÃO NA SAÚDE MENTAL. In: IIº Congresso Internacional Saúde Mental e Reabilitação Psicossocial, 2012, Porto Alegre.IIº Congresso Internacional Saúde Mental e Reabilitação Psicossocial. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FERREIRA, A. L. C.;MACIEL, C. A. P.;DOMINGUES, E.;SANTOS, A. M.A EXPERIÊNCIA DE CUIDAR EM SAÚDE MENTAL: OS VÍNCULOS APROXIMADOS NO PROCESSO DE ENFERMAGEM. In: IIº Congresso Internacional Saúde Mental e Reabilitação Psicossocial, 2012, Porto Alegre.IIº Congresso Internacional Saúde Mental e Reabilitação Psicossocial. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SANTOS, A. M.;SOARES, L. N.;PRIMO, L. S.;GRALA, A. P.;QUEVEDO, V. W.Cuidados de Enfermagem para fasceíte necrosante: relato de caso. In: 9º Simpósio Internacional de Esterilização e Controle de Infecção Relacionada a Assistência à Saúde, 2014, São Paulo.Inovação e Liderança: os rumos da Enfermagem no Centro de Material e Esterilização. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>DALLAQUA, E. J. F.;SEDREZ, J. H. K.;SANTOS, A. M.Burnout em Acadêmicos de Medicina: uma Síndrome inerente ao jaleco. In: Salão Universitário 2015 ? 27 a 30 de outubro de 2015., 2015, Pelotas.Salão Universitário 2015 Universidade Católica de Pelotas. 2015.</titulo>
+					<ano>2015</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>PONTES, E. R.;ZILLI, R.;SANTOS, A. M.;HALAL, G. A.;MORAES, C. L.Atenção Primária e Saúde Mental: As Práticas de Cuidados do Enfermeiro. In: Salão Universitário 2015, 2015, Pelotas.Salão Universitário 2015. 2015.</titulo>
+					<ano>2015</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SANTOS, A. M.;TEIXEIRA, L.;LEON, P. B.Adesão a higienização das mãos por profissionais da área da saúde na UTI adulto do HUSFP em Pelotas - RS. In: IX Encontro Nacional de Gerenciamento em Enfermagem, 2013, Gramado.Anais IX Encontro Nacional de Gerenciamento em Enfermagem. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>DELIBERALLI, IVANIA;BITTENCOURT, NAJARA CARNEIRO;SANTOS, A. M.;YAMANAKA, E. U.;BLUM-MENEZES, DULCINEA.Análise molecular no auxílio de diagnóstico microbiológico de listeriose em caso de abortamento precoce. In: 26º Congresso Brasileiro de Microbiologia, 2011, Foz do Iguaçu.26º Congresso Brasileiro de Microbiologia. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>CORRAL, M. V.;SILVA, C. D.;PEREIRA, C. J.;FERREIRA, N. C. B.;SANTOS, A. M.;DOMINGUES, Eliana S.Aleitamento materno exclusivo, inovações no cuidado de enfermagem: um relato de experiência. In: Salão Universitário - Universidade Católica de Pelotas, 2017, PELOTAS.Salão Universitário - 2017. 2017.</titulo>
+					<ano>2017</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SANTOS, A. M.;SOUZA, A. Q.;ZIEBELL, M. M.;GONCALVES, D. L.;SANTOS, S. R.;VIANA, F. S.;CORRAL, M. V.DST/AIDS na voz de adolescentes: percepções dos acadêmicos de enfermagem. In: Salão Universitário - 2017, 2017, PELOTAS.Salão Universitário 2017. 2017.</titulo>
+					<ano>2017</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SANTOS, A. M.;SILVA, C.;RIBEIRO, C. R.;SOARES, T. P.;SAIS, M. G. G.;OLIVEIRA, J. F.A experiência acadêmica nas questões da sexualidade na adolescência. In: Salão Universitário Universidade Católica de Pelotas 2017, 2017, PELOTAS.Salão Universitário 2017. 2017.</titulo>
+					<ano>2017</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SANTOS, A. M.;NUNES, D. B.;GONCALVES, M. R. P.;SILVA, A. M.;OLIVEIRA, J. F.A importância de uma liga acadêmica para o ensino e pesquisa no desenvolvimento do conhecimento acadêmico. In: Salão Universitário - Universidade Católica de Pelotas 2017, 2017, PELOTAS.Salão Universitário 2017. 2017.</titulo>
+					<ano>2017</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SANTOS, A. M.;FERNANDES, T. P.;NUNES, Márcia Helena;DOMINGUES, Eliana S.O cuidado de enfermagem como prática assistencial em hemodiálise. In: Salão Universitário - Universidade Católica de Pelotas 2017, 2017, PELOTAS.Salão Universitário 2017. 2017.</titulo>
+					<ano>2017</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>OLIVEIRA, J. F.;SANTOS, A. M.;PRIMO, L. S.;Silva, Mara R. S.;MOREIRA, F. P.;WIENER, C.Satisfação profissional e sobrecarga de trabalho dos enfermeiros atuantes em centro de atenção psicossociais. In: Iº congresso Internacional de Pesquisa em Enfermagem e Saúde, 2017, Pelotas.Anais do Iº Congresso Internacional de Pesquisa em Enfermagem e Saúde. 2017.</titulo>
+					<ano>2017</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>ZIEBELL, M. M.;CARRASCO, M. L.;SANTOS, A. M.;PONTES, E. R.;ARRIEIRA, I. C. O.;DOMINGUES, E. S.Atuação dos enfermeiros frente às famílias de pacientes com conduta suicída. In: Iº Congresso Internacional de Pesquisa em Enfermagem e Saúde, 2017, PELOTAS.Iº Congresso Internacional de Pesquisa em Enfermagem e Saúde. 2017.</titulo>
+					<ano>2017</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Gomes, J.B.;Hassan, I. F.K.;SANTOS, A. M.SÍNDROME DE FOURNIER: UMA REVISÃO BIBLIOGRÁFICA ACERCA DO NHECIMENTO DE FATORES ASSOCIADOS?. In: XV Congresso de Medicina ? ?As Controvérsias da Atualidade?, 2014, Pelotas.XV Congresso de Medicina ? ?As Controvérsias da Atualidade?. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta></idAresta>
+				</producao>
+			</producoes>
+		</nodo>
+		<nodo>
+			<id>7957994674919011</id>
+			<label>deMontigny Francine</label>
+			<dataAtualizacao>11102010</dataAtualizacao>
+			<numeroDeProducoes>0</numeroDeProducoes>
+			<numeroDeProducoesPorAno>
+			</numeroDeProducoesPorAno>
+			<producoes>
+			</producoes>
+		</nodo>
+		<nodo>
+			<id>3124165737602160</id>
+			<label>Francisca Lucélia Ribeiro de Farias</label>
+			<dataAtualizacao>06042018</dataAtualizacao>
+			<numeroDeProducoes>99</numeroDeProducoes>
+			<numeroDeProducoesPorAno>
+				<ano value="1999">4</ano>
+				<ano value="2000">9</ano>
+				<ano value="2002">13</ano>
+				<ano value="2003">16</ano>
+				<ano value="2004">11</ano>
+				<ano value="1998">1</ano>
+				<ano value="2005">4</ano>
+				<ano value="2008">5</ano>
+				<ano value="2009">3</ano>
+				<ano value="2010">4</ano>
+				<ano value="2006">3</ano>
+				<ano value="2007">3</ano>
+				<ano value="2011">7</ano>
+				<ano value="2013">5</ano>
+				<ano value="2014">5</ano>
+				<ano value="2015">6</ano>
+			</numeroDeProducoesPorAno>
+			<producoes>
+				<producao>
+					<titulo>Representação social de familiares de pacientes psiquiátricos sobre doença mental. In: Congresso Brasileiro de Enfermagem, 1999, Florianópolis.51° Congresso Brasileiro de Enfermagem. 1999.</titulo>
+					<ano>1999</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Representação Social de mulheres sobre sua sexualidade. In: Congresso Brasileiro de Enfermagem, 1999, Florianópolis.51° Congresso Brasileiro de Enfermagem. 1999.</titulo>
+					<ano>1999</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Representação social de alunos do curso de pós graduação sobre drogas e usuários. In: v Encontro de Enfermagem da Região Centro-Oeste, 1999, Cuiabá-MT.Representação social de alunos do curso de pós graduação sobre drogas e usuários. 1999.</titulo>
+					<ano>1999</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LAMBERT, Áurea de Assis;FARIAS, F. L. R.Hospital Dia de Cuiabá MT: Caracterização dos Usuários Atendidos nos seis anos de Funcionamento. In: IX Jornada de Psiquiatria do Centro Oeste e V Jornada Mato Grossense de Psiquiatria, 2000, Cuiabá - MT. 2000.</titulo>
+					<ano>2000</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MUZZI, Maritza;FARIAS, F. L. R.Mulheres Acometidas de Violência Cujos Agressores Estavam sob efeito de Substâncias Psicoativas. In: IX Jornada de Psiquiatria do Centro Oeste e V Jornada Mato Grossense de Psiquiatria, , Cuiabá Mato Grosso -MT. 2000.</titulo>
+					<ano>2000</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FARIAS, F. L. R.;ARAÚJO, Michell Ângelo Marques;BASTOS, Raquel Gabriel.Cuidar de Adolescentes: Uma atividade tão perto, uma prática tão longe. In: VII Encontro de Pesquisadores em Saúde Mental e VI Encontro de Especialistas em Enfermagem Psiquiátrica, 2002, Ribeirão Preto - SP.VII Encontro de Pesquisadores em Saúde Mental e VI Encontro de Especialistas em Enfermagem Psiquiátrica. 2002.</titulo>
+					<ano>2002</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SANFORD, Fátima de Maria Sales;FARIAS, F. L. R.Cuidando da Comunidade: Um epaço a ser construído pelo enfemeiro psiquiátrico para a reiserção do doente mental. In: VII Encontro de Pesquisadores em Saúde Mental e VI Encontro de Especialistas em Enfermagem Psiquiátrica, , Ribeirão Preto -SP.VII Encontro de Pesquisadores em Saúde Mental e VI Encontro de Especialistas em Enfermagem Psiquiátrica. 2002.</titulo>
+					<ano>2002</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>ALVES, Érika Vasconcelos Justino;FARIAS, F. L. R.Características dos idosos que vivem em uma instituição asilar de Fortaleza. In: VII Encontro de Iniciação a Pesquisa - UNIFOR, 2002, Fortaleza-CE.VII Encontro de Iniciação a Pesquisa. 2002.</titulo>
+					<ano>2002</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>BASTOS, Rachel Gabriel;FARIAS, F. L. R.Percepção do cuidador sobre o Cuidar de portadores da doença de Alzheimer. In: 54° Congresso Brasileiro de Enfermagem, 2002, Fortaleza-CE.54° Congresso Brasileiro de Enfermagem. 2002.</titulo>
+					<ano>2002</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>ALVES, Érika Vasconcelos Justino;MARQUES, Michell Ângelo;FARIAS, F. L. R.Uma Proposta de Educação em saúde para as Mães do Projeto Canguru. In: 54° Congresso Brasileiro de Enfermagem, 2002, Fortaleza-CE.54° Congresso Brasileiro de Enfermagem. 2002.</titulo>
+					<ano>2002</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>REBOUÇAS, Ana Valeska;FARIAS, F. L. R.Alterações Psicossociais do Cliente Portador de Hanseníase. In: 54° Congresso Brasileiro de Enfermagem, 2002, Fortaleza-CE. 2002.</titulo>
+					<ano>2002</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FARIAS, F. L. R.;RABOUÇAS, Janaina Farias.Conhecimento dos Alunos do Curso de Graduação Enfermagem sobre Sexualidade. In: 12° SENPE, 2003, Porto Seguro-Ba.12° SENPE. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SAISHO, Myflower Weyne;FARIAS, F. L. R.Aplicação do processo de enfermagem na assistência ao portador da síndrome de Guillian-Barré: um estudo de caso. In: VIII Jornada Universitária da Universidade Estadual do Ceará, 2003, Fortaleza.Anais da VII Jornada Universitária. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FARIAS, F. L. R.;SAISHO, Myflower Weyne.Reflexões acerca da importância do cuidado prestado ao idoso pela família. In: II Encontro Norte-Nordeste de Enfermagem em Saúde da Família e I Congresso Cearense de Enfermagem em Saúde da Família, 2003, Fortaleza.Anais do II Encontro Norte-Nordeste de Enfermagem em Saúde da Família. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FARIAS, F. L. R.;S, Evencio F.Cuidando do Cuidador: informando professores para trabalharem com alunos na prevenção de doenças sexualmente transmissíveis. In: VII Encontro de Pesquisadores em Saúde Mental e VI Encontro de Especialistas em Enfermagem Psiquiátrica, 2002, Ribeirão Preto - SP.VII Encontro de Pesquisadores em Saúde Mental e VI Encontro de Especialistas em Enfermagem Psiquiátrica. 2002.</titulo>
+					<ano>2002</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FARIAS, F. L. R.;ARAÚJO, Michell Ângelo Marques de.Como funciona os novos serviços de atendimento psiquiátrico de Fortaleza sob o ponto de vista do paciente. In: IV Encontro de Pós- Graduação e Pesquisa da UNIFOR, 2004, Fortaleza.IV Encontro de Pós- Graduação e Pesquisa. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>O Conhecimento dos Adolescentes sobre os Métodos de Prevenção da Gravidez. In: 55º Congresso Brasileiro de Enfermagem, , Rio de Janeiro.55º Congresso Brasileiro de Enfermagem. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>O Cuidado Humanizado para com o Paciente com Trauma de Tórax: Estudo de caso. In: 55º Congresso Brasileiro de Enfermagem, 2003, Rio de Janeiro.55º Congresso Brasileiro de Enfermagem. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Perfil do Portador de Alzheimer e os Sentimentos do Cuidador Familiar. In: 55º Congresso Brasileiro de Enfermagem, 2003, Rio de Janeiro.55º Congresso Brasileiro de Enfermagem. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Perfil das Mulheres Portadoras de Osteoporose em uma Clínica Particular na Cidade de Fortaleza - CE. In: 55º Congresso Brasileiro de Enfermagem, 2003, Rio de Janeiro.55º Congresso Brasileiro de Enfermagem. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Assistencia de Enfermagem Diante dos maus tratos com o idoso: Estudo de Caso. In: 6º Congresso Brasileiro dos Conselhos de Enfermagem, , Florianopólis-SC.6º Congresso Brasileiro dos Conselhos de Enfermagem. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Estudo Avaliativo do Nível de Adesão ao tratamento e complicações de pacientes diabéticos tipo II. In: 6º Congresso Brasileiro dos Conselhos de Enfermagem, 2003, Florianopólis-SC.6º Congresso Brasileiro dos Conselhos de Enfermagem. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SANTOS, Rinalda Lima dos;FARIAS, F. L. R.Vivências de Mulheres Portadoras de Cãncer de Mama: Subsídios para uma prposta de Intervenção Educativa. In: 6º Congresso Brasileiro dos Conselhos de Enfermagem, , Florianópolis-SC.6º Congresso Brasileiro dos Conselhos de Enfermagem. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>A Comunicação como Instrumento dos Processos de Cuidar e Gerenciar em Enfermagem. In: 6º Congresso Brasileiro dos Conselhos de Enfermagem, 2003, Florianópolis-SC.6º Congresso Brasileiro dos Conselhos de Enfermagem. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>O Comportamento do Idoso diante do Surgimento da Diabete mellittus Tipo II na sua vida. In: 7º Congresso Brasileiro dos Conselhos de Enfermagem, 2004, Fortaleza-CE.7º Congresso Brasileiro dos Conselhos de Enfermagem. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FARIAS, F. L. R.;BASTOS, Lya Araujo Costa;BARREIRA, Kamila Sindeaux;RODRIGUES, Maristela Gomes;SILVA, Vanina Teresa Barbosa Lopes.Sentimentos do idoso acerca da institulização. In: X Encontro de Iniciação a Pesquisa, 2004, Fortaleza.Anais X Encontro de Iniciação a Pesquisa. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FARIAS, F. L. R.;RODRIGUES, Maristela Gomes;XIMENES, Celiane Parente;COSTA, Marcelid Berto da;LIMA, Helder de Pádua.Caracteristicas dos idosos que vivem em uma instituiçãso asilar de Fortaleza. In: X Encontro de Iniciação a Pesquisa, 2004, Fortaleza.Anais X Encontro de Iniciação a Pesquisa. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FARIAS, F. L. R.;LIMA, Helder de Pádua;RODRIGUES, Maristela Gomes;FREIRE, Nathália Vilde Souza;SANTOS, Vitor Emanuel F Apolônio dos.Conhecimento do familiar cuidador sobre as alterações afetivas e biológicas apresentadas pelo idoso. In: X Encontro de Iniciação a Pesquisa, 2004, Fortaleza.Anais X Encontro de Iniciação a Pesquisa. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FARIAS, F. L. R.;SILVA, D.;SANTOS, Cristina Maria dos.O uso do chá e do cigarro de arapiá pela população da grande Cuiabá. In: Simpósio sobre saúde e ambiente na amazônia, 1999, Cuiabá. 1999.</titulo>
+					<ano>1999</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Utilização da Técnica projetiva para indentificar as representações sociais dos usuários de drogas acerca de seus comportamentos. In: Jornada Internacional sobre Representações Sociais: Teorias de Campo de Aplicação, 1998, Natal.Anais da jornada Internacional sobre Representações Sociais. 1998.</titulo>
+					<ano>1998</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Cuidado de Enfermagem para o Dependente Químico. In: VI Encontro de Pesquisadores em Saúde Mental e V Encontro de Especialistas em Enfermagem Psiquiátrica, 2000, Ribeirão Preto -SP. 2000.</titulo>
+					<ano>2000</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FARIAS, F. L. R.;RODRIGUES, Antônia Regina Furegato.O Dito e o Não Dito Expresso pelo Usuário de DrogasAtrvés da Tecnica Projetiva. In: VI Encontro de Pesquisadores em Saúde Mental e V Encontro de Especialistas em Enfermagem Psiquiátrica, 2000, Ribeirão Preto - SP. 2000.</titulo>
+					<ano>2000</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>A Comunicação do Enfermeiro com Familiares de Pacientes Psiquiátricos sobre a doença Mental. In: IX Jornada de Psiquiatria do Centro Oeste e V Jornada Mato Grossense de Psiquiatria, , Cuiabá - MT. 2000.</titulo>
+					<ano>2000</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Conhecimento de Enfermeiros sobre Usuários de Drogas. In: IV Encontro de Enfermagem de Mato Grosso, 2000, Cuiabá - MT. 2000.</titulo>
+					<ano>2000</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Sentimentos Apresentados por Mulheres Portadoras de Câncer de Mama. In: 52° Congresso Brasileiro de Enfermagem, 2000, Recife-PE. 2000.</titulo>
+					<ano>2000</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Sentimentos expressos por estudantes sobre o uso do tabaco. In: 52° Congresso Brasileiro de Enfermagem, 2000, Recife-PE. 2000.</titulo>
+					<ano>2000</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Trabalho Grupal com Dependentes Químicos: Relato de Exeriência. In: 52° Congresso Brasileiro de Enfermagem, 2000, Recife-PE.52° Congresso Brasileiro de Enfermagem. 2000.</titulo>
+					<ano>2000</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Educação em Saúde: Reflexões acerca da construção de uma prática social na comunidade do Dendê. In: 6° Seminário Nacional de Diretrizes para Educação em Enfermagem, 2002, Teresina-PI.6° Seminário Nacional de Diretrizes para Educação em Enfermagem. 2002.</titulo>
+					<ano>2002</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MAIA, Ana Cristina Donato;FARIAS, F. L. R.A Jovem vítima de Estupro Familiar:Um estudo de caso. In: VII Encontro de Iniciação a Pesquisa, 2002, Fortaleza-CE. 2002.</titulo>
+					<ano>2002</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>NASCIMENTO, Janaína Freitas;FARIAS, F. L. R.Reflexões sobre a Reforma Psiquiátrica Brasileira. In: VII Encontro de Iniciação a Pesquisa, 2002, Fortaleza-CE. 2002.</titulo>
+					<ano>2002</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>NEVES, Sinara Mota;FARIAS, F. L. R.;SOUSA, Francisco Ivan de.Educação para saúde nas DST/AIDS: Instrumentalizando professores de uma escola de ensino fundamental do municipio de Fortaleza. In: III Conferência Regional Latino Americana de Promoção da Saúde e Educção para saúde, 2002, São Paulo-SP. 2002.</titulo>
+					<ano>2002</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MORAIS, José Maria Bonfim de;FARIAS, F. L. R.A hipertensão Arterial na população de Guanacés-Ce: Uma proposta de Intervenção Educativa. In: III Encontro de Pós Graduação e Pesquisa, 2003, Fortaleza.III Encontro de Pós Graduação e Pesquisa. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FURTADO, Elenilce Nobrega;FARIAS, F. L. R.Protese Dental total: A necessidade da educação em saúde para um estilo de vida melhor. In: III Encontro dde Pós Graduação e Pesquisa, 2003, Fortaleza -CE. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SAISHO, Myflower Weyne;FARIAS, F. L. R.Revisão bibliográfica sobre a reinserção social do portador de transtorno psíquico. In: VIII Jornada Universitária da Universidade Estadual do Ceará, 2003, Fortaleza.Anais da VIII Jornada Universitária. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FARIAS, F. L. R.;ARAÚJO, Michell Ângelo Marques;LIMA, Fernanda Farias;JORGE, Js.A Reforma Psiquiátrica e o trabalho desnvolvido pela equipe interdisciplinar de um Centro de Atenção Psicossocial - CAPS de Fortaleza - CE. In: VIII Encontro de Pesquisadores em Saúde Mental e VII Encontro de Especialistas em Enfermagem Psiquiátrica, 2004, Ribeirão Preto - SP.VIII Encontro de Pesquisadores em Saúde Mental e VII Encontro de Especialistas em Enfermagem Psiquiátrica. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FARIAS, F. L. R.;NEVES, Sinara Mota;ALENCAR, Maristela Lage;CATRIB, Ana Maria Fontenelle.Educação Sexual e Reprodutiva no Município de Fortaleza: Dilemas e Desafios. In: VII Congresso Galaico-Portuguêsde Psicopedagogia, 2003, Espanha.VII Congresso Galaico-Portuguêsde Psicopedagogia. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LOPES, Germana Néri;FARIAS, F. L. R.;ALVES, Érika Vasconcelos Justino.Características de idosos institucionalizados: Ações educativas do enfermeiro para essa clientela. In: 54° Congresso Brasileiro de Enfermagem, 2002, Fortaleza.54° Congresso Brasileiro de Enfermagem. 2002.</titulo>
+					<ano>2002</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FARIAS, F. L. R.;SANFORD, Fátima de Maria Sales.Educação em saúde; Um novo Modelo de Abordagem para a Reinserção do doente mental na Comunidade. In: III Conferência Regional Latino Americana de Promoção da Saúde e Educção para saúde, 2002, São paulo.III Conferência Regional Latino Americana de Promoção da Saúde e Educção para saúde. 2002.</titulo>
+					<ano>2002</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>A Percepção do Portador de Hanseníase sobre a Doença. In: 55º Congresso Brasileiro de Enfermagem, 2003, Rio de Janeiro.55º Congresso Brasileiro de Enfermagem. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Violencia contra Mulheres Praticadas por Doentes Mentais Alcolizados. In: IV Congresso Internacional Salud Mental y Derechos Humanos, 2005, Buenos Aires.IV Congresso Internacional Salud Mental y Derechos Humanos. 2005.</titulo>
+					<ano>2005</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SOBRAL, Maria Gyslany Vasconcelos;FARIAS, F. L. R.;LIMA, Helder de Pádua;RODRIGUES, Maristela Gomes;MEDONÇA, Francisco Antônio da Cruz.Dependente Quimico: Motivos Referidos pra sua Depedência. In: XI Encontro de Iniciação à Pesquisa da UNIFOR, 2005, Fortaleza-CE.XI Encontro de Iniciação à Pesquisa da UNIFOR. 2005.</titulo>
+					<ano>2005</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>ANTUNES, Jeanette Klein;FARIAS, F. L. R.;SANFORD, Fátima de Maria Sales.Programa Tutorial Acadêmico do Centro de Ciências da Saúde da Universidade de Fortaleza: Quem Somos e o que Fazemos. In: 9º SENADEn, 2005, Natal-RN.9º SENADEn. 2005.</titulo>
+					<ano>2005</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FARIAS, F. L. R.;OLIVEIRA, Taís Brito;OLIVEIRA, Tatiana Brito.Opinião de crianças da comunidade do Dendê sobre alcoolismo. In: X ENCONTRO DE INICIAÇÃO À PESQUISA DA UNIFOR, 2004, FORTALEZA.X ENCONTRO DE INICIAÇÃO À PESQUISA DA UNIFOR. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FARIAS, F. L. R.;OLIVEIRA, Louise Barros de;SAMPAIO, Lia Mesquita;DINIZ, Rita de Cássia Moura.Reflexões acerca do tratamento Farmacológico para o mal de Alzheimer. In: XVII SEMANA DE ENFERMAGEM DA UNIFOR, 2005, .XVII SEMANA DE ENFERMAGEM DA UNIFOR. 2005.</titulo>
+					<ano>2005</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FARIAS, F. L. R.;LIMA, F. F.;FREIRE, Nathália Vilde Souza;REGIS, A. T. D.;OLIVEIRA, D. A.Aspectos emocionais apresentados por cuidadores familiares de pacientes com a doença de Alzheimer. In: VI Congresso Brasileiro de Alzheimer, 2008, Recife.Anais do VI Congresso Brasileiro de Alzheimer. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FARIAS, F. L. R.;LIMA, F. F.;FREIRE, Nathália Vilde Souza.Grupo de sala de espera da Associação Brasileira de Alzheimer (ABRAz-CE): estratégia de Educação em Saúde. In: VI Congresso Brasileiro de Alzheimer, 2008, Recife.Anais do VI Congresso Brasileiro de Alzheimer. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Sistematização da assistência de enfermagem ao portador de Esquizofrenia do tipo Paranóide: estudo de caso. In: 11º Congresso Brasileiro dos Conselhos de Enfermagem e do 5º Congresso Nacional de Residência em Enfermagem, 2008, Belém.11º Congresso Brasileiro dos Conselhos de Enfermagem e do 5º Congresso Nacional de Residência em Enfermagem. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Assistência de Enfermagem a um paciente portador de AVC do tipo Hemorrágico: estudo de caso. In: 11º Congresso Brasileiro dos Conselhos de Enfermagem e do 5º Congresso Nacional de Residência em Enfermagem, 2008, Belém.Anais do 11º Congresso Brasileiro dos Conselhos de Enfermagem e do 5º Congresso Nacional de Residência em Enfermagem. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SOARES, D. K. M.;FARIAS, F. L. R.Considerações teóricas sobre Esquizofrenia Hebefrênica. In: V Congresso Cearense de Enfermagem, V Mostra de Enfermagem, Talentos e Arte e a 20ª Convenção Interiorana de Enfermagem, 2008, Tianguá.Anais do V Congresso Cearense de Enfermagem, V Mostra de Enfermagem, Talentos e Arte e a 20ª Convenção Interiorana de Enfermagem. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MOREIRA, K. A. P.;ARAÚJO, Michell Ângelo Marques;FARIAS, F. L. R.;BRAGA, V. A. B.;OLIVEIRA, M. R.;FERNADES, A. F. C.2º Simpósio Ibero-Americano da História da Enfermagem Preservar a memória porque? Para quê?. In: 2º Simpósio Ibero-Americano da História da Enfermagem Preservar a memória porque? Para quê?, 2009, Lisboa.2º Simpósio Ibero-Americano da História da Enfermagem Preservar a memória porque? Para quê?. 2009.</titulo>
+					<ano>2009</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MELO, C. R.;FARIAS, F. L. R.;FERREIRA, A. B.;GOMES, R. B. N.;CAVALCANTE, I. P.Pacientes com transtorno Bipolar acompanhadas em um Centro de Atenção Psico-Social CAPS. In: 13º Congresso Brasileiro dos Conselhos de Enfermagem, 2010, Natal - RN.13º Congresso Brasileiro dos Conselhos de Enfermagem. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>VASCONCELOS, S. P.;BEZERRA, K. P.;TIMBO, D. K.;FARIAS, F. L. R.;SANFORD, Fátima de Maria Sales.Como o Líder Comunitário indentifica uma pessoa com sofrimento mental. In: 13º Congresso Brasileiro dos Conselhos de Enfermagem, 2010, .13º Congresso Brasileiro dos Conselhos de Enfermagem. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SAISHO, Myflower Weyne;FARIAS, F. L. R.IX Semana Universitária da UECE. In: IX Semana Universitária, 2004, Fortaleza.Aplicação do processo de Enfermagem na Assistência ao portador de Lupo Erimatoso Sistêmico. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SAISHO, Myflower Weyne;FARIAS, F. L. R.IX Semana Universitária da UECE. In: IX Semana Universitária, 2004, Fortaleza.Revisão Bibliográfica sobre a Prevalência e Fatores de risco ao uso de Álcool e Tabaco entre Escolares. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SAISHO, Myflower Weyne;FARIAS, F. L. R.IX Semana Universitária da UECE. In: IX Semana Universitária, 2004, Fortaleza.Aplicação do processo de Enfermagem no Paciente Depressivo: Um estudo de caso. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREIRE, Nathália Vilde Souza;FARIAS, F. L. R.XII Encontro de Iniciação à Pesquisa da UNIFOR. In: XII Encontro de Iniciação à Pesquisa, 2006, Fortaleza.Conhecimento dos Cuidadores sobre os Medicamentos ultilizados no Tratamento Farmacológico dos Portadores do Mal de Alzheimer. 2006.</titulo>
+					<ano>2006</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>CHAGAS JUNIOR, J. I. O.;FARIAS, F. L. R.XII Encontro de Iniciação à Pesquisa da UNIFOR. In: XII Encontro de Iniciação à Pesquisa, 2006, Fortaleza.Conhecimento sobre Métodos Contraceptivos entre um Grupo de Adolescentes. 2006.</titulo>
+					<ano>2006</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREIRE, Nathália Vilde Souza;LIMA, A. L. A.;ARAUJ, M. M.;FARIAS, F. L. R.XII Encontro de Iniciação à Pesquisa da UNIFOR. In: XII Encontro de Iniciação à Pesquisa, 2006, Fortaleza.A Importância do Treinamento do Cuidador da Doença de Alzheimer. 2006.</titulo>
+					<ano>2006</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREIRE, Nathália Vilde Souza;FARIAS, F. L. R.XIII Encontro de Iniciação à Pesquisa da UNIFOR. In: XIII Encontro de Iniciação à Pesquisa, 2007, Fortaleza.Visita Domiciliar para os Familiares e Cuidadores dos Pacientes com Alzheimer. 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREIRE, Nathália Vilde Souza;ALENCAR, A.;SANFORD, Fátima de Maria Sales;CAMPOS, M. L. P.;FARIAS, F. L. R.XIII Encontro de Iniciação à Pesquisa da UNIFOR. In: XIII Encontro de Iniciação à Pesquisa, 2007, Fortaleza.Sentimentos referido pelo Idoso sobre a Morte. 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SOUSA, D. P.;SILVA, Ana Carine Goersch;FREIRE, Nathália Vilde Souza;FARIAS, F. L. R.XIII Encontro de Iniciação à Pesquisa da UNIFOR. In: XIII Encontro de Iniciação à Pesquisa, 2007, Fortaleza.Diagnóstico de Enfermagem no contexto das Ações de Enfermagem na Doença de Alzheimer. 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LIMA, L. F.;FARIAS, F. L. R.XV Encontro de Iniciação à Pesquisa da UNIFOR. In: XV Encontro de Iniciação à Pesquisa, 2009, Fortaleza.O Uso de Mercenários como meio de Violação ao Direito da Autodeterminação dos Povos. 2009.</titulo>
+					<ano>2009</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SOARES, D. K. M.;PEREIRA, G. K.;FARIAS, F. L. R.Considerações Teóricas sobre Doenças de Alzheimer. In: VI congresso Cearense de Enfermagem, VI Mostra de Enfermagem, Talento e Arte e 21ª Convenção Interiorana de Enfermagem, 2009, Fortaleza.VI Mostra de Enfermagem, Talento e Arte e 21ª Convenção Interiorana de Enfermagem. 2009.</titulo>
+					<ano>2009</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>ALVES, C. R. C.;SILVA, V. B.;FARIAS, F. L. R.Opinião de Ingressantes no Curso de Enfermagem sobre a Importância da Monitoria Voluntária. In: X Encontro de Iniciação à Docência da UNIFOR, 2010, Fortaleza.X Encontro de Iniciação à Docência da UNIFOR. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>COSTA, G. C.;OLIVEIRA, A. R. F.;LIMA, Helder de Pádua;FARIAS, F. L. R.Expectativas do Estudantes de Enfermagem em Conclusão do Curso e as Repercussões na Saúde Mental. In: XVI Encontro de Iniciação à Pesquisa da UNIFOR, 2010, Fortaleza.XVI Encontro de Iniciação à Pesquisa. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FERREIRA, A. B.;CARNEIRO, I. C. T.;FARIAS, F. L. R.Opinião dos Usuários de Crack sobre sua Dependência. In: XVII Encontro de Iniciação à Pesquisa da UNIFOR, 2011, Fortaleza.XVII Encontro de Iniciação à Pesquisa. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>QUEZADO, A. E. N.;FARIAS, F. L. R.Conhecimento de Criança de uma Escola de Aplicação sobre Drogas. In: XVII Encontro de Iniciação à Pesquisa da UNIFOR, 2011, Fortaleza.XVII Encontro de Iniciação à Pesquisa. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREIRE, W. B. S.;SILVA, I. A.;PINHEIRO, M. T. R.;FARIAS, F. L. R.Prevenindo o Uso e Abuso de Drogas. In: XVII Encontro de Iniciação à Pesquisa da UNIFOR, 2011, Fortaleza.XVII Encontro de Iniciação à Pesquisa. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MELO, C. R.;CAVALCANTE, I. P.;BEZERRA, A. C.;FARIAS, F. L. R.Assistência de Enfermagem ao Portador de Queimadura: Um Processo Doloroso. In: XVII Encontro de Iniciação à Pesquisa da UNIFOR, 2011, Fortaleza.XVII Encontro de Iniciação à Pesquisa. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SOUSA, A. M.;DIAS, L. M.;TEIXEIRA, P. E. G.;FARIAS, F. L. R.;ABREU, R. N. D. C.Caracteristicas Clínicas das Pessoas em Abstinência Álcooólica Atendidas em um Hospital Psiquiátrico. In: XVII Encontro de Iniciação à Pesquisa da UNIFOR, 2011, Fortaleza.XVII Encontro de Iniciação à Pesquisa. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>GOMES, R. B. N.;FARIAS, F. L. R.Porque escolhi fazer Enfermagem: Relato de Alunos Ingressantes. In: XVII Encontro de Iniciação à Pesquisa da UNIFOR, 2011, Fortaleza.XVII Encontro de Iniciação à Pesquisa. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SOUSA, P. C. S. E.;SALOMAO, C. F.;SANFORD, Fátima de Maria Sales;LIRA, D. L.;FARIAS, F. L. R.Enfermagem Psiquiátrica: Sentimentos dos Estudantes. In: XVII Encontro de Iniciação à Pesquisa da UNIFOR, 2011, Fortaleza.XVII Encontro de Iniciação à Pesquisa. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FARIAS, F. L. R.;CATRIB, Ana Maria Fontenelle;LOURINHO, L. A.Uso de drogas entre alunos do Ensino Fundamental de uma escola pública de Fortaleza-CE. In: 2º Congresso Brasileiro de Políticas, Planejamento e Gestão em Saúde., 2013, Belo Horizonte.Universidade, Igualdade e Integridade da Saúde: Um projeto possível. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FARIAS, F. L. R.;FRANZEN, T. L.;SILVA, P. F.Assistência de Enfermagem a um paciente com penfigóide bolhoso: Relato de Experiência. In: XIX Encontro de Iniciação à Pesquisa da UNIFOR, 2013, Fortaleza.XIX Encontro de Iniciação à Pesquisa da UNIFOR. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FARIAS, F. L. R.;FRANZEN, T. L.Atividades desenvolvidas pelo o Enfermeiro no Centro de Atenção Psicossocial para usuário de Álcool e outras drogas: Uma revisão integrativa. In: XIX Encontro de Iniciação à Pesquisa da UNIFOR, 2013, Fortaleza.XIX Encontro de Iniciação à Pesquisa da UNIFOR. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FARIAS, F. L. R.;CATRIB, Ana Maria Fontenelle;ARAUJO, P. F.;FELIX, A. R. F.Uso de Substâncias Psicoativas na Adolescência e sua Relação com problemas Familiares. In: XIX Encontro de Iniciação à Pesquisa da UNIFOR, 2013, Fortaleza.XIX Encontro de Iniciação à Pesquisa da UNIFOR. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>QUEIROZ, P. P.;FARIAS, F. L. R.;CATRIB, Ana Maria Fontenelle;ARAUJO, P. F.;PESSOA, D. P. R.Violência doméstica relacionada ao uso de drogas ilícitas entre estudantes do ensino médio. In: Encontros Científicos 2013, 2013, Fortaleza.Encontros Científicos. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SANFORD, Fátima de Maria Sales;FARIAS, F. L. R.;RIOS, M. Q.;AMARAL, T. F. R.;PAIVA, P. C.;DANTAS, M. A.A relevância da higienização como prática de uma instituição de longa permanência para idosos. In: IV Congresso Piauiense de saúde pública e IV Seminário de ensino na saúde, 2014, Parnaíba - PI.IV Congresso Piauiense de saúde pública. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SANFORD, Fátima de Maria Sales;FARIAS, F. L. R.;RIOS, M. Q.;AMARAL, T. F. R.;PAIVA, P. C.;OPSTAD, M. A. D.Interação entre profissionais e ambiente institucionalizado como práticas facilitadoras no cuidado ao idoso. In: IV Congresso Piauiense de saúde pública e IV Seminário de ensino na saúde, 2014, Parnaíba - PI.IV Congresso Piauiense de saúde pública e IV Seminário de ensino na saúde. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LIMA, N. B. R.;FREITAS, J. S.;SANTOS, C. M. A.;UCHOA, A. F. C.;FARIAS, F. L. R.O Trabalho de grupo no tratamento de Dependentes Químicos: Um relato de experiência. In: XXI Encontro de Iniciação à Pesquisa da UNIFOR, 2015, Fortaleza.XXI Encontro de Iniciação à Pesquisa da UNIFOR. 2015.</titulo>
+					<ano>2015</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>RODRIGUES, N. J.;SILVA, I. N. R.;HOLANDA, A. M. A.;GOMES, N. L. A.;FARIAS, F. L. R.A Importância da Assistência de Enfermagem ao Paciente com SIDA. In: XXI Encontro de Iniciação à Pesquisa da UNIFOR, 2015, Fortaleza.XXI Encontro de Iniciação à Pesquisa da UNIFOR. 2015.</titulo>
+					<ano>2015</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SALES, R. O.;CAVALCANTE, R. C.;MARQUES, A. D. B.;BRANCO, J. G. O.;LOPES, M. F.;FARIAS, F. L. R.O Uso da Música no Trabalho do Enfermeiro com Dependentes Químicos: Uma Tecnologia em Saúde. In: III Semana de Enfermagem, 2015, Fortaleza.III Semana de Enfermagem da Unichristus. 2015.</titulo>
+					<ano>2015</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SALES, R. O.;LOPES, M. F.;CAVALCANTE, R. C.;BRANCO, J. G. O.;MARQUES, A. D. B.;FARIAS, F. L. R.Depressão e Dependência Química: Um relato de Experiência. In: III Semana de Enfermagem, 2015, Fortaleza.III Semana de Enfermagem da Unichristus. 2015.</titulo>
+					<ano>2015</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>AMARAL, T. F. R.;VASCONCELOS, S. P.;FARIAS, F. L. R.A importância da Interdisciplinaridade na atenção a saúde do idoso. In: XX Encontro de Iniciação à Pesquisa da UNIFOR, 2014, Fortaleza.XX Encontro de Iniciação à Pesquisa da UNIFOR. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>PAIVA, K. T. O.;MILHOME, M. S.;FARIAS, F. L. R.Consumo de Álcool entre Adolescente de Ensino Médio Profissionalizante. In: XX Encontro de Iniciação à Pesquisa da UNIFOR, 2014, Fortaleza.XX Encontro de Iniciação à Pesquisa da UNIFOR. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>PAIVA, K. T. O.;MILHOME, M. S.;FARIAS, F. L. R.Aspectos Psicológicos de Gestantes Postadoras de HIVS. In: XX Encontro de Iniciação à Pesquisa da UNIFOR, 2014, Fortaleza.XX Encontro de Iniciação à Pesquisa da UNIFOR. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>ARAUJO, P. F.;FARIAS, F. L. R.;RODRIGUES, F. J.;CATRIB, Ana Maria Fontenelle;FELICIANO, O. B. B.;MARIANO, M. A.;SALES, D. S.Educação Sexual no contexto escolar: A visão do Educador frente aos Desafios. In: XXI Congresso Brasileiro de Saúde Coletiva, 2015, Goiânia.XXI Congresso Brasileiro de Saúde Coletiva. 2015.</titulo>
+					<ano>2015</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>ARAUJO, P. F.;FARIAS, F. L. R.;RODRIGUES, F. J.;CATRIB, Ana Maria Fontenelle;SALES, D. S.;FELICIANO, O. B. B.;MARIANO, M. A.;ARAUJO, F. J. F.Percepção de Professores sobre a Educação Sexual no contexto Escolar: Um desafio para os Educadores e Alunos Adolescentes. In: XXI Congresso Brasileiro de Saúde Coletiva, 2015, Goiânia.XXI Congresso Brasileiro de Saúde Coletiva. 2015.</titulo>
+					<ano>2015</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FARIAS, F. L. R.;ARAÚJO, Michell Ângelo Marques;SANFORD, Fátima de Maria Sales.O trabalho desenvolvido pela equipe interdiscplinar em um centro de atenção Psicossocial-CAPS de Fortaleza. In: IV Encontro de dePós Graduação e Pesquisa, 2004, Fortaleza.IV Encontro de dePós Graduação e Pesquisa. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta></idAresta>
+				</producao>
+			</producoes>
+		</nodo>
+		<nodo>
+			<id>8406155884440148</id>
+			<label>Gabriele Schek</label>
+			<dataAtualizacao>14032018</dataAtualizacao>
+			<numeroDeProducoes>4</numeroDeProducoes>
+			<numeroDeProducoesPorAno>
+				<ano value="">4</ano>
+			</numeroDeProducoesPorAno>
+			<producoes>
+				<producao>
+					<titulo>. In: , , . .</titulo>
+					<ano></ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>. In: , , . .</titulo>
+					<ano></ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>. In: , , . .</titulo>
+					<ano></ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>. In: , , . .</titulo>
+					<ano></ano>
+					<idAresta></idAresta>
+				</producao>
+			</producoes>
+		</nodo>
+		<nodo>
+			<id>5678785916481593</id>
+			<label>Geisa dos Santos Luz</label>
+			<dataAtualizacao>30102017</dataAtualizacao>
+			<numeroDeProducoes>51</numeroDeProducoes>
+			<numeroDeProducoesPorAno>
+				<ano value="2001">5</ano>
+				<ano value="2002">4</ano>
+				<ano value="2003">10</ano>
+				<ano value="2004">8</ano>
+				<ano value="2007">3</ano>
+				<ano value="2008">3</ano>
+				<ano value="2005">4</ano>
+				<ano value="2009">4</ano>
+				<ano value="2006">1</ano>
+				<ano value="2011">5</ano>
+				<ano value="2010">3</ano>
+				<ano value="2016">1</ano>
+			</numeroDeProducoesPorAno>
+			<producoes>
+				<producao>
+					<titulo>Trabalhar com famílias: um aprendizado constante. In: 53º Congresso Brasileiro de Enfermagem, 2001, Curitiba.53º Congresso Brasileiro de Enfermagem. 2001.</titulo>
+					<ano>2001</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LUZ, G. S.;TONOLLI, E. A.;PINI, J. S.;FERRARI, I.Experiência acadêmicas no Aniversário de 20 anos do Curso de Enfermagem da UEM: relato do projeto de ensino. In: 53º Congresso Brasileiro de Enfermagem, 2001, Curitiba.53º Congresso Brasileiro de Enfermagem. 2001.</titulo>
+					<ano>2001</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LUZ, G. S.;TONOLLI, E. A.;FERRARI, I.;PINI, J. S.O corpo docente de Enfermagem na implantação do bacharelado na UEM ? relato de projeto de ensino. In: 53º Congresso Brasileiro de Enfermagem, 2001, .53º Congresso Brasileiro de Enfermagem. 2001.</titulo>
+					<ano>2001</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LUZ, G. S.;TONOLLI, E. A.;FERRARI, I.;PINI, J. S.Memórias dos Enfermeiros graduados ? história dos 20 anos do bacharelado na UEM ? relato de projeto de ensino. In: 53º Congresso Brasileiro de Enfermagem, 2001, Curitiba/PR.53º Congresso Brasileiro de Enfermagem. 2001.</titulo>
+					<ano>2001</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LUZ, G. S.;WAIDMAN, M. A. P.;OLIVEIRA, A. M.;CLILIATO, D. M.Atividades educativas e recreativas com crianças: relatando a experiência em um projeto de extensão na Vila Esperança. In: Visita a UEM: Divulgar para Integrar, Integrar para conhecer?, 2002, Maringá.Visita a UEM: Divulgar para Integrar, Integrar para conhecer?. 2001.</titulo>
+					<ano>2001</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LUZ, G. S.;WAIDMAN, M. A. P.;OLIVEIRA, A. M.;CLILIATO, D. M.Promover a vida é muito mais que promover a saúde: relatando uma experiência em comunidade. In: Visita a UEM: Divulgar para Integrar, Integrar para conhecer?, 2002, Maringá.Visita a UEM: Divulgar para Integrar, Integrar para conhecer?. 2002.</titulo>
+					<ano>2002</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LUZ, G. S.;WAIDMAN, M. A.;MARCON, S. S.Assistência à família: uma experiência compartilhada com a comunidade. In: 12º Encontro de Enfermagem Região Sul, 2002, Porto Alegre.12º Encontro de Enfermagem Região Sul. 2002.</titulo>
+					<ano>2002</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LUZ, G. S.;OLIVEIRA, A. M.;CLILIATO, D. M.;WAIDMAN, M. A. P.Educação para saúde com crianças em idade escolar relatando a experiência de trabalho em comunidade. In: 54º Congresso Brasileiro de Enfermagem, 2002, Fortaleza.54º Congresso Brasileiro de Enfermagem. 2002.</titulo>
+					<ano>2002</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LUZ, G. S.;FERRARI, I.;PINI, J. S.;TONOLLI, E. A.O envelhecimento na perspectiva dos idosos com base na sua história de vida. In: 54º Congresso Brasileiro de Enfermagem, 2002, Fortaleza.54º Congresso Brasileiro de Enfermagem. 2002.</titulo>
+					<ano>2002</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Mercado de Trabalho em Enfermagem e inserção profissional na região do Norte do Paraná. In: 12º Seminário Nacional de Pesquisa em Enfermagem, 2003, Porto Seguro/BA.12º Seminário Nacional de Pesquisa em Enfermagem. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>PELLOSO, S. M.;LUZ, G. S.;CARVALHO, M. D. B.Mortalidade Materna: realidade e perspectivas. In: VI Seminário Estadual ?Qualidade da assistência ao Parto: contribuições de Enfermagem?, 2003, Curitiba.VI Seminário Estadual ?Qualidade da assistência ao Parto: contribuições de Enfermagem?. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>CARVALHO, M. D. B.;LUZ, G. S.;PELLOSO, S. M.Detecção precoce da Fibrose cística: uma proposta educativa. In: VI Seminário Estadual ?Qualidade da assistência ao Parto: contribuições de Enfermagem?, 2003, Curitiba/PR.VI Seminário Estadual ?Qualidade da assistência ao Parto: contribuições de Enfermagem?. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>ROCHA, E. C. U.;LUZ, G. S.;RADOVANOVIC, C. A. T.;WAIDMAN, M. A. P.Atividades recreativas com crianças visando a melhoria da qualidade de vida. In: lº Congresso Internacional de Psicologia, 2003, Maringá/PR.lº Congresso Internacional de Psicologia. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LUZ, G. S.;CARVALHO, M. D. B.;PELLOSO, S. M.Fibrose cística: um problema de Saúde Pública. In: ° Congresso Internacional de Psicologia, 2003, Maringá.° Congresso Internacional de Psicologia. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LUZ, G. S.;CARVALHO, M. D. B.;PELLOSO, S. M.;HIGARASHI, I. H.Convivendo com uma família de fibrocístico em fase diagnóstica: um relato de experiência. In: I Jornada Interdisciplinar: ?A família como foco do ensino da pesquisa e da assistência? e VII Encontro LEIFANS ? Laboratório de estudos Interdisciplinares de família e saúde, 2003, Maringá.I Jornada Interdisciplinar: ?A família como foco do ensino da pesquisa e da assistência? e VII Encontro LEIFANS ? Laboratório de estudos Interdisciplinares de família e saúde. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LUZ, G. S.;CARVALHO, M. D. B.;PELLOSO, S. M.;HIGARASHI, I. H.Reflexões sobre a prática de Enfermagem na Triagem Neonatal. In: 55º Congresso Brasileiro de Enfermagem e 11º Congreso Panamericano de Profissionales de Enfermería, 2003, Rio de Janeiro.55º Congresso Brasileiro de Enfermagem e 11º Congreso Panamericano de Profissionales de Enfermería. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LUZ, G. S.;MARTINS, D. A.A atuação de Enfermagem frente à ameaça da Enterocolite Necrotizante na UTI Neonatal. In: 55º Congresso Brasileiro de Enfermagem e 11º Congreso Panamericano de Profissionales de Enfermería, 2003, Rio de Janeiro.55º Congresso Brasileiro de Enfermagem e 11º Congreso Panamericano de Profissionales de Enfermería. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LUZ, G. S.;ROCHA, E. C. U.;RADOVANOVIC, C. A. T.;WAIDMAN, M. A. P.Buscando a melhoria da qualidade de vida familiar através de atividades educacionais e recreativas com crianças. In: 55º Congresso Brasileiro de Enfermagem e 11º Congreso Panamericano de Profissionales de Enfermería, 2003, Rio de Janeiro.55º Congresso Brasileiro de Enfermagem e 11º Congreso Panamericano de Profissionales de Enfermería. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LUZ, G. S.;CARVALHO, M. D. B.;PELLOSO, S. M.;HIGARASHI, I. H.A vivência da mãe de um filho portador de fibrose cística. In: IV Seminário Científico do CCS e XII Semana Acadêmica de Enfermagem, 2003, Maringá.IV Seminário Científico do CCS e XII Semana Acadêmica de Enfermagem. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LUZ, G. S.;CARVALHO, M. D. B.;PELLOSO, S. M.;HIGARASHI, I. H.Coleta do Teste do Pezinho: o papel dos profissionais de saúde no contexto da triagem neonatal. In: VI Jornada de Enfermagem Pediátrica da UNICAMP, 2004, Campinas.VI Jornada de Enfermagem Pediátrica da UNICAMP. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>HIGARASHI, I. H.;LUZ, G. S.;PELLOSO, S. M.;CARVALHO, M. D. B.A problemática da deficiência e a assistência pediátrica hospitalar: uma abordagem no processo ensino-aprendizagem em enfermagem. In: VI Jornada de Enfermagem Pediátrica da UNICAMP, 2004, Campinas.VI Jornada de Enfermagem Pediátrica da UNICAMP. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LUZ, G. S.;HERNANDES, J. P.;FONSECA, A.Cuidando de RN portador de Fissura lábio-palatal e de sua família: uma experiência acadêmica. In: VI Jornada de Enfermagem Pediátrica da UNICAMP, 2004, Campinas.VI Jornada de Enfermagem Pediátrica da UNICAMP. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LUZ, G. S.;CARVALHO, M. D. B.;PELLOSO, S. M.Mídia: Saúde ou Violência?. In: V Simpósio da APADEC, 2004, Maringá.V Simpósio da APADEC. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LUZ, G. S.;ROSA, O. G.;BERTOLINI, G. B.;PEREIRA, M. O.A atividade física para idosos portadores de doenças crônico- degenerativas. In: V Simpósio da APADEC, 2004, Maringá.V Simpósio da APADEC. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LUZ, G. S.;CARVALHO, M. D. B.;PELLOSO, S. M.;HIGARASHI, I. H.Teste do Pezinho: nível de conhecimentos dos profissionais sobre a coleta de material. In: 56º Congresso Brasileiro de Enfermagem, 2004, Gramado.56º Congresso Brasileiro de Enfermagem. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>CARVALHO, M. D. B.;LUZ, G. S.;PELLOSO, S. M.;HIGARASHI, I. H.Conhecimento dos Profissionais e acadêmicos sobre a Triagem Neonatal. In: 56º Congresso Brasileiro de Enfermagem, 2004, Gramado.56º Congresso Brasileiro de Enfermagem. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>TIBERIO, B. A.;LUZ, G. S.;MATOS, J. C.O cuidar na prática de Enfermagem. In: 56º Congresso Brasileiro de Enfermagem, 2004, Gramado.56º Congresso Brasileiro de Enfermagem. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LUZ, G. S.;JUSSANI, N. C.;FUENTES, F. D.;NONOSE, E. R. S.;WAIDMAN, M. A. P.O Nascimento de um portador de Fenilcetonúria: relato da família. In: II Congresso Internacional de Saúde, 2006, Maringá.CD room. 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LUZ, G. S.;PELLOSO, S. M.;HIGARASHI, I. H.Diagnóstico e Terapêutica precoce na Fibrose Cística: uma revisão bibliográfica. In: II Congresso Brasileiro de Enfermagem em Genética, 2007, Rio de Janeiro/RJ.II Congresso Brasileiro de Enfermagem em Genética. 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LUZ, G. S.;MATOS, J. C.;CARVALHO, M. D. B.Prevalência das doenças diagnosticadas no Programa de Triagem no municpio de Maringá, 2001-2006. In: II Congresso Brasileiro de Enfermagem em Genética, 2007, Rio de janeiro.II Congresso Brasileiro de Enfermagem em Genética. 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>CARVALHO, M. D. B.;LUZ, G. S.;PELLOSO, S. M.;HIGARASHI, I. H.Fibrose Cística: contribuições para enfermagem. In: XX Congresso Brasileiro de Genética Médica/ III Congresso Brasileiro de Enfermagem em Genética, 2008, Gramado/RS.Anais do XX Congresso Brasileiro de Genética Médica/ III Congresso Brasileiro de Enfermagem em Genética. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>PIMENTEL, E.D.;LUZ, G. S.;CARVALHO, M. D. B.;PELLOSO, S. M.;HIGARASHI, I. H.A prática da Triagem Neoantal em um hospital de ensino: dificuldades e possibilidades. In: XX Congresso Brasileiro de Genética Médica e III Congresso Brasileiro de Enfermagem em Genética, 2008, Gramado/RS.Anais XX Congresso Brasileiro de Genética Médica e III Congresso Brasileiro de Enfermagem em Genética. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>CARVALHO, M. D. B.;PELLOSO, S. M.;MATOS, J. C.;MARCOLINO, J.S.;LUZ, G. S.O ensino de teorias de enfermagem nas escolas de ensino superior do Estado do Paraná - Brasil, 2007. In: 60º Congresso Brasileiro de Enfermagem, 2008, Belo Horizonte - MG.60º Congresso Brasileiro de Enfermagem. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MATOS, J. C.;LUZ, G. S.;ANTONELO, D.O Movimento Estudantil da Área da Saúde promovendo a vivência no SUS. In: I Congresso Internacional de Saúde, 2005, Maringá/PR.I Congresso Internacional de Saúde. 2005.</titulo>
+					<ano>2005</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MATOS, J. C.;LUZ, G. S.;ARAÚJO, M.S.Adolescer com Hiperplasia Adrenal Congênita: relato de experiência. In: I Congresso Internacional de Saúde, 2005, Maringá/PR."Olhares sobre a Saúde: comprometimento multiprofissional". 2005.</titulo>
+					<ano>2005</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LUZ, G. S.;MATOS, J. C.;ARAÚJO, M.S.A vivência de um portador de Hiperplasia de Adrenal Congênita. In: II Congresso Brasileiro de Triagem Neonatal, 2005, São Paulo.Revista Mèdica de Minas Gerais. 2005.</titulo>
+					<ano>2005</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LUZ, G. S.;CARVALHO, M. D. B.;PELLOSO, S. M.;HIGARASHI, I. H.Avaliação da Triagem Neonatal sob a responsabilidade da equipe de enfermagem no hospital Universitário de Maringá. In: II Congresso Brasileiro de Triagem Neonatal, 2005, São Paulo/SP.Revista Médica de Minas Gerais. 2005.</titulo>
+					<ano>2005</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LUZ, G. S.;PIMENTEL, E.D.;CARVALHO, M. D. B.;PELLOSO, S. M.Fibrose Cística: des-velando o significado da famíia. In: II CONGRESSO INTERNACIONAL DE SAÚDE, 2009, MARINGÁ (PR).III CONGRESSO INTERNACIONAL DE SAÚDE. 2009.</titulo>
+					<ano>2009</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LUZ, G. S.;PIMENTEL, E.D.;CARVALHO, M. D. B.;PELLOSO, S. M.O significado da rede de apoio às famílias com portadores de Fibrose Cística. In: III CONGRESSO INTERNACIONAL DE SAÚDE - CCS/UEM, 2009, MARINGÁ (PR).II CONGRESSO INTERNACIONAL DE SAÚDE. 2009.</titulo>
+					<ano>2009</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>PIMENTEL, E.D.;SCHIAVON, G.;LUZ, G. S.;CARVALHO, M. D. B.;PELLOSO, S. M.Avaliação das crianças com diagnóstico das doenças triadas pelo Teste do Pezinho cadastradas na Secretaria de Saúde de Maringá (PR) ? entre 2001 ? 2007. In: III CONGRESSO INTERNACIONAL DE SAÚDE, 2009, MARINGÁ (PR).III CONGRESSO INTERNACIONAL DE SAÚDE - CCS/UEM. 2009.</titulo>
+					<ano>2009</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SANTOS, H.G.;PINTO, F.C.;LUZ, G. S.ANEMIA FALCIFORME: PRÁTICAS EDUCATIVAS EM SAÚDE COLETIVA. In: VI ENCONTRO INTERNACIONAL DE INICIAÇÃO CIENTÍFICA, 2009, MARINGÁ - PR.VI ENCONTRO INTERNACIONAL DE INICIAÇÃO CIENTÍFICA - CESUMAR. 2009.</titulo>
+					<ano>2009</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MATOS, J. C.;LUZ, G. S.;TORRES, M. N.MORTALIDADE POR ABORTO NO ESTADO DO PARANÁ: 1998 A 2004. In: II CONGRESSO INTERDISCIPLINARIDADE DE SAÚDE - Avanços e novas descobertas em saúde, 2006, Maringá-PR.ANAIS DO II CONGRESSO INTERDISCIPLINAR DE SAÚDE. 2006.</titulo>
+					<ano>2006</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LUZ, G. S.;SILVA, P. A.;SILVA;CEZAR-VAZ, MR;RIBEIRO, J.P.;SILVA, B.T.A família no contexto da doença genética diagnosticada pela triagem neonatal. In: Seminário Latino Americano de Pesquisa e Assistência de Enfermagem à Família e 13º. LEIFAMS, 2011, Maringa.Seminário Latino Americano de Pesquisa e Assistência de Enfermagem à Família e 13º. LEIFAMS. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SILVA, B.T.;SILVA;RIBEIRO, J.P.;SILVA, P. A.;LUZ, G. S.Distribuição de cuidado ao (s) filho (s) na perspectiva dos homens. In: Seminário Latino Americano de Pesquisa e Assistência de Enfermagem à Família e 13º. LEIFAMS, 2011, Maringa.Seminário Latino Americano de Pesquisa e Assistência de Enfermagem à Família e 13º. LEIFAMS. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SILVA, P. A.;SILVA;LUZ, G. S.;RIBEIRO, J.P.;SILVA, B.T.Famílias em contextos adversos: um estudo das trajetórias de filhos de alcoolistas. In: Seminário Latino Americano de Pesquisa e Assistência de Enfermagem à Família e 13º. LEIFAMS, 2011, Maringa-PR.Seminário Latino Americano de Pesquisa e Assistência de Enfermagem à Família e 13º. LEIFAMS. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>RIBEIRO, J.P.;SILVA;SILVA, B.T.;LUZ, G. S.;SILVA, P. A.Perspectivas da enfermagem acerca da paternidade: uma revisão integrativa de literatura. In: 63º Congresso Brasileiro de Enfermagem, 2011, Maceio.63º Congresso Brasileiro de Enfermagem: (Re)Criação e Inovação do Cuidado de Enfermagem. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SILVA;LUZ, G. S.;RIBEIRO, J.P.;SILVA, P. A.;CEZAR-VAZ, MR.Distribuição desejada do trabalho familiar entre cônjuges. In: 62º Congresso Brasileiro de Enfermagem, 2010, Florianópolis - SC.62º Congresso Brasileiro de Enfermagem. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>RIBEIRO, J.P.;SILVA;CEZAR-VAZ, MR;LUZ, G. S.;SILVA, P. A.Compreendendo o exercício das competências parentais na família monoparental. In: 62º Congresso Brasileiro de Enfermagem, 2010, Florianópolis - SC.62º Congresso Brasileiro de Enfermagem. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SILVA, P. A.;MEDEIROS, G.L.;SILVA;LUZ, G. S.;RIBEIRO, J.P.;MIRCO, DP.Saúde Mental e Enfermagem: A importância de uma forma sistemática no cuidado com famílias. In: 9ª Mostra da Produção Universitária - MPU, 2010, Rio Grande-RS.9ª Mostra da Produção Universitária - MPU. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LUZ, G. S.;KARAM, S. M.;DUMITH, S. C.ANÁLISE DAS ANOMALIAS CONGÊNITAS NO ESTADO DO RIO GRANDE DO SUL EM 2013. In: XXVIII CONGRESSO BRASILEIRO DE GENÉTICA MÉDICA, 2016, BELÉM-PR.XXVIII CONGRESSO BRASILEIRO DE GENÉTICA MÉDICA. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>RIBEIRO, J.P.;SILVA;SILVA, B.T.;LUZ, G. S.;SILVA, P. A.Satisfação dos usuários de serviços de proteção às vítimas de violência intrafamiliar em relação ao acesso e resolutividade das ações. In: 63º Congresso Brasileiro de Enfermagem, 2011, Maceio.63º Congresso Brasileiro de Enfermagem: (Re)Criação e Inovação do Cuidado de Enfermagem. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+			</producoes>
+		</nodo>
+		<nodo>
+			<id>1428352044973024</id>
+			<label>Mara Regina Santos da Silva</label>
+			<dataAtualizacao>28032018</dataAtualizacao>
+			<numeroDeProducoes>44</numeroDeProducoes>
+			<numeroDeProducoesPorAno>
+				<ano value="1998">4</ano>
+				<ano value="1997">4</ano>
+				<ano value="1995">2</ano>
+				<ano value="2000">2</ano>
+				<ano value="1999">2</ano>
+				<ano value="2001">2</ano>
+				<ano value="2003">2</ano>
+				<ano value="2004">3</ano>
+				<ano value="2005">3</ano>
+				<ano value="2006">4</ano>
+				<ano value="2009">6</ano>
+				<ano value="2011">5</ano>
+				<ano value="2010">4</ano>
+				<ano value="1996">1</ano>
+			</numeroDeProducoesPorAno>
+			<producoes>
+				<producao>
+					<titulo>Silva, Mara Regina Santos;BERNARDI NETO, C.Os caminhos da Institucionalização da Doença Mental. In: Congresso Brasileiro dos Conselhos em Enfermagem, 1998, Natal - Rio Grande do Norte.Livro de Resumos do Congresso Brasileiro dos Conselhos em Enfermagem. 1998.</titulo>
+					<ano>1998</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Silva, Mara Regina Santos;ALVES, A. R.Alcoolismo entre profissionais da saúde: concepções e vivências. In: Congresso Brasileiro de Enfermagem, 1997, Minas Gerais.Livro de Resumos. 1997.</titulo>
+					<ano>1997</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>A vivência do alcoolismo no contexto familiar. In: I SEMANA INTERINSTITUCIONAL DE ENFERMAGEM, 1998, Rio Grande.Livro de Resumos: O cotidiano na prática de enfermagem. 1998.</titulo>
+					<ano>1998</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>O trabalho de enfermagem com famílias de alcoolistas. In: Jornada Rio Grandina de Enfermagem, 1997, Rio Grande. 1997.</titulo>
+					<ano>1997</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Rescatando el conocimiento sobre la família y el alcoolismo. In: Conferência Internacional de Enfermeria Familiar, 1997, Valdívia / Chile.Livro de Resumos. 1997.</titulo>
+					<ano>1997</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Família e Alcoolismo: em busca do conhecimento. In: Colóquio Pan-Americano de Investigação em Enfermagem, 1998, Ribeirão Preto.Livro de Resumos. 1998.</titulo>
+					<ano>1998</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Assistência de Enfermagem a Filhos de Pais Portadores da Síndrome de Dependência Alcoólica. In: III Conferência Ibero-Americana sobre Família, 1995, Porto Alegre.Livro de Resumos. 1995.</titulo>
+					<ano>1995</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Silva, Mara Regina Santos;BERNARDI NETO, C.A trajetória Percorrida pelas Famílias que vivenciam a Doença Mental em Busca de Recursos. In: Congresso Brasileiro de Enfermagem, 1997, Belo Horizonte.Livro de Resumos. 1997.</titulo>
+					<ano>1997</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Família e alcoolismo: por onde anda o enfermeiro nesta relação silenciosa e esquecida. In: 8º Seminário Nacional de Pesquisa em Enfermagem, 1995, Ribeirão Preto.Livro de Resumos. 1995.</titulo>
+					<ano>1995</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Silva, Mara Regina Santos;ELSEN, I.The view health professionals have on the family to promote resilience. In: International Family Nursing Conference, 2000, Chicago.Livro de Resumos. 2000.</titulo>
+					<ano>2000</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Silva, Mara Regina Santos;ELSEN, I.Violencia na Familia: o conhecimento produzido pela enfermagem Sulbrasileira, nos últimos dez anos. In: CONGRESSO MUNDIAL DE EDUCACION INTERNACIONAL, INTEGRACION Y DESARROLLO, 1999, Buenos Aires.Livros de Resumos. 1999.</titulo>
+					<ano>1999</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Silva, Mara Regina Santos;OLIVEIRA, A.M.N. de.La trajectoire parcourie par les familles dont un des membres reçoit des soins de sante mentale dans une région du sud du Brésil. In: VI Symposium Québécois de Recherche sur la Famille, 2001, Québec.Comprendre la Famille. 2001.</titulo>
+					<ano>2001</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Silva, Mara Regina Santos;LACHARITÉ, Carl;TARABULSY, George.La résilience développementale chez les enfants des mères adolescentes: le rôle de la sensibilité maternel et du soutien social. In: Congés International Bientratancer dans des Cultures Différentes, 2003, Leuven.Livro de resumos. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Silva, Mara Regina Santos;OLIVEIRA, A.M.N. de.A Familia como Foco da Consulta de Enfermagem em Saúde Mental. In: I Encontro Interdisciplinar Sobre Família, 2002, Pelotas.A multidimensionalidade do Cuidado. 2001.</titulo>
+					<ano>2001</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>BORBA, M. R.;ZAPPAS, S.;Silva, Mara Regina Santos;CESTARI, M. E.Especialização em enfermagem: experiências vivenciadas na construção e desenvolvimento do curso. In: 52 Congresso Brasilieiro de Enfermagem, 2000, Olinda.Anais do 52 Congresso Brasileiro de Enfermagem. 2000.</titulo>
+					<ano>2000</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Silva, Mara Regina Santos;SCHUARTZ, Eda;SIQUEIRA, Edi Crescência Heckler de.Uma reflexão teórico-filosófica sobre o viver indígena. In: Seminário de Pesquisa em Enfermagem, 2003, Porto Seguro.CD-room. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Silva, L.C.;Eickhoff, M.L.;Garcia, R.Q.;Silva, Mara Regina Santos.Violência intra familiar a luz do modelo bio ecológico. In: Simpósio Internacional Famílias em Situação de Risco, 2004, Rio Grande.Revista Ciência, Cuidado e Saúde. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Silva, Mara Regina Santos;NUNES, Karina da Silva.Reinserção familiar e social: um desafio para os profissionais e os egressos de casas de passagem. In: Simpósio Internacional Famílias em Situação de Risco, 2004, Rio Grande.Revista Ciência, Cuidado e Saúde. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Silva, Mara Regina Santos;NUNES, Karina da Silva.Avaliação e diagnóstico do processo de reinserção familiar e social de egressos de uma casa de passagem. In: Cogresso Brasileiro de Enfermagem, 2004, Gramado.Livro resumo. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Silva, Mara Regina Santos;LACHARITÉ, Carl;BIASOLI-ALVES, Z. M. M.Les processus sur lesquels repose la résilience familiale: une étude de cas. In: X Congreso Internacional de Educación Familiar, 2005, Las Palmas de Gran Canaria.X Congreso Internacional de Educación Familiar. 2005.</titulo>
+					<ano>2005</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Silva, Mara Regina Santos;ALVES, A. R.Alcoolismo entre profissionais da saúde: concepções e vivências. In: I Congresso Brasileiro dos Conselhos de Enfermagem, 1998, Natal / Rio Grande do Norte.livro de Resumos e Programa. 1998.</titulo>
+					<ano>1998</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Silva, Mara Regina Santos;ALVES, A. R.Concepções acerca do alcoolismo entre profissionais da saúde. In: 10 SENPE, 1999, Gramado / Rio Grande do Sul.Livro de Resumos e Programa. 1999.</titulo>
+					<ano>1999</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Silva, Mara Regina Santos;CARLLACHARITÉ;BIASOLI-ALVES, Z. M. M.Brésil et Canada : Partager les connaissances, les expériences et les technologies de promotion de la santé des familles vivant en situation de risque psychosocial. In: VIII Congresso Internacional da Associação Brasileira de Estudos Canadenses, 2006, Gramado.Anais. 2006.</titulo>
+					<ano>2006</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>VETTORELLO, J. S.;RIBEIRO, D.;Silva, Mara Regina Santos;BORBA, M. R.Cuidando de famílias: ênfase nos diagnósticos de enfermagem. In: I Encontro Brasileiro de Enfermagem e Família - construindo caminhos para o ensino de graduação e pós-graduação, 2005, São Paulo.I Encontro Brasileiro de Enfermagem e Família. 2005.</titulo>
+					<ano>2005</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Silva, Mara Regina Santos;SVALDI, J. S. D.A família como foco da consulta de enfermagem em saúde mental. In: I Encontro Brasileiro de Enfermagem e Família - construindo caminhos para o ensino de graduação e pós-graduação, 2005, São Paulo.Encontro Brasileiro de Enfermagem e Família -. 2005.</titulo>
+					<ano>2005</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>A construção de uma trajetória resiliente durante as primeiras etapas do desenvolvimento da criança. In: 58 Congresso Brasileiro de Enfermagem, 2006, Salvador.Resumos do 58 Congresso Brasileiro de Enfermagem. 2006.</titulo>
+					<ano>2006</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Silva, Mara Regina Santos;BIASOLI-ALVES, Z. M. M.RESILIENCIA Y LA FAMILIA: BASES TEÓRICAS y OPERACIONALES PARA LA PRÁCTICA PROFESIONAL, EN EL ÁREA DE LA SALUD. In: JORNADA INTERDISCIPLINAR DE FAMILIA, 2006, Santiago Del Estero.ANAIS DA JORNADA INTERDISCIPLINAR DE FAMILIA. 2006.</titulo>
+					<ano>2006</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Silva, Mara Regina Santos;Silveira, R.S.Responsabilidade Social e Formação Profissional. In: 15 Encontro de Enfermagem da Região Sul - ENF-SUL, 2006, Porto Alegre.ANAIS do 15 Encontro de Enfermagem da Região Sul. 2006.</titulo>
+					<ano>2006</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Botelho, Luciana Rodrigues Botelho;Silva, Mara Regina Santos;LUNARDI FILHO, Wilson Danilo;LUNARDI, V. L.;Tarouco da Silva, Barbara.Vida familiar e profissional: em busca da conciliaçao frente as mudanças na sociedade contemporânea. In: 15 Seminario Nacional de Pesquisa em Enfermagem, 2009, Rio de Janeiro.Anais do 15 Seminario Nacional de Pesquisa em Enfermagem - CD Room. 2009.</titulo>
+					<ano>2009</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Silva, Mara Regina Santos;SILVA, Priscila. A.;MEDEIROS, Gabriela L.;Tarouco da Silva, Barbara;Botelho, Luciana Rodrigues Botelho.Necessidades das Familias e as praticas profissionais no contexto da violência intrafamiliar. In: 15 Seminario Nacional de Pesquisa em enfermagem, 2009, Rio de Janeiro.15 Seminario Nacional de Pesquisa em enfermagem. 2009.</titulo>
+					<ano>2009</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Tarouco da Silva, Barbara;Silva, Mara Regina Santos;MEDEIROS, Gabriela L.;SILVA, Priscila. A.;Botelho, Luciana Rodrigues Botelho.O pai no contexto da família contemporâna: revisão de literatura. In: 15 Seminario Nacional de Pesquisa em Enfermagem, 2009, Rio de Jane4iro.Anais do 15 Seminario Nacional de Pesquisa em Enfermagem - CD Room. 2009.</titulo>
+					<ano>2009</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SILVA, Priscila. A.;MEDEIROS, Gabriela L.;OLIVEIRA, A.M.N. de;Silva, Mara Regina Santos;DIAS, A. B.;Tarouco da Silva, Barbara.A importância do exame físico na identificação da violência contra a criança: um relato de experiência. In: I Simpósio Internacional do NEPEN, 2009, Pelotas.Anais do I Simpósio Internacional do NEPEN - CD-Room. 2009.</titulo>
+					<ano>2009</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SILVA, Priscila. A.;MEDEIROS, Gabriela L.;Silva, Mara Regina Santos;OLIVEIRA, A.M.N. de;Botelho, Luciana Rodrigues Botelho;Tarouco da Silva, Barbara.Ações desenvolvidas por acadêmicas de enfermagem nos serviços de saúde mental em um município da região sul: um relato de experiência. In: I simpósio Internacional do NEPEN, 2009, Pelotas.Anais do I simpósio Internacional do NEPEN. 2009.</titulo>
+					<ano>2009</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>DIAS, A. B.;Silva, Mara Regina Santos;SILVA, Priscila. A.;MEDEIROS, Gabriela L.;Tarouco da Silva, Barbara;Botelho, Luciana Rodrigues Botelho.Informática como ferramenta para a qualificação do cuidado. In: I Simpósio Internacional do NEPEN, 2009, Pelotas.Anais do I Simpósio Internacional do NEPEN. 2009.</titulo>
+					<ano>2009</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Luz, Geisa dos Santos;Silva, Mara Regina Santos;VAZ, Marta Regina Cezar;SILVA, Priscila. A.;Ribeiro, Juliane Portella;Tarouco da Silva, Barbara.A família no contexto da doença genética diagnosticada pela triagem neonatal. In: Seminário Latino Americano de Pesquisa e Assistência de Enfermagem à Família e 13º. LEIFAMS, 2011, Maringá - PR.Seminário Latino Americano de Pesquisa e Assistência de Enfermagem à Família e 13º. LEIFAMS. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta>4</idAresta>
+				</producao>
+				<producao>
+					<titulo>Tarouco da Silva, Barbara;Silva, Mara Regina Santos;Ribeiro, Juliane Portella;Luz, Geisa dos Santos;SILVA, Priscila. A.Distribuição de cuidado ao (s) filho (s) na perspectiva dos homens. In: Seminário Latino Americano de Pesquisa e Assistência de Enfermagem à Família e 13º. LEIFAMS, 2011, Maringá - PR.Seminário Latino Americano de Pesquisa e Assistência de Enfermagem à Família e 13º. LEIFAMS. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta>5</idAresta>
+				</producao>
+				<producao>
+					<titulo>SILVA, Priscila. A.;Silva, Mara Regina Santos;Luz, Geisa dos Santos;Ribeiro, Juliane Portella;Tarouco da Silva, Barbara.Famílias em contextos adversos: um estudo das trajetórias de filhos de alcoolistas. In: Seminário Latino Americano de Pesquisa e Assistência de Enfermagem à Família e 13º. LEIFAMS, 2011, Maringá - PR.Seminário Latino Americano de Pesquisa e Assistência de Enfermagem à Família e 13º. LEIFAMS. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta>6</idAresta>
+				</producao>
+				<producao>
+					<titulo>Ribeiro, Juliane Portella;Silva, Mara Regina Santos;Tarouco da Silva, Barbara;Luz, Geisa dos Santos;SILVA, Priscila. A.Perspectivas da enfermagem acerca da paternidade: uma revisão integrativa de literatura. In: 63º Congresso Brasileiro de Enfermagem, 2011, Maceió.63º Congresso Brasileiro de Enfermagem: (Re)Criação e Inovação do Cuidado de Enfermagem. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta>7</idAresta>
+				</producao>
+				<producao>
+					<titulo>Ribeiro, Juliane Portella;Silva, Mara Regina Santos;Tarouco da Silva, Barbara;Luz, Geisa dos Santos;SILVA, Priscila. A.Satisfação dos usuários de serviços de proteção às vítimas de violência intrafamiliar em relação ao acesso e resolutividade das ações. In: 63º Congresso Brasileiro de Enfermagem, 2011, Maceió.63º Congresso Brasileiro de Enfermagem: (Re)Criação e Inovação do Cuidado de Enfermagem. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta>8</idAresta>
+				</producao>
+				<producao>
+					<titulo>Silva, Mara Regina Santos;Luz, Geisa dos Santos;Ribeiro, Juliane Portella;SILVA, Priscila. A.;VAZ, Marta Regina Cezar.Distribuição desejada do trabalho familiar entre cônjuges. In: 62º Congresso Brasileiro de Enfermagem, 2010, Florianópolis - SC.62º Congresso Brasileiro de Enfermagem. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta>1</idAresta>
+				</producao>
+				<producao>
+					<titulo>Ribeiro, Juliane Portella;Silva, Mara Regina Santos;VAZ, Marta Regina Cezar;Luz, Geisa dos Santos;SILVA, Priscila. A.Compreendendo o exercício das competências parentais na família monoparental. In: 62º Congresso Brasileiro de Enfermagem, 2010, Florianópolis - SC.62º Congresso Brasileiro de Enfermagem. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta>2</idAresta>
+				</producao>
+				<producao>
+					<titulo>SILVA, Priscila. A.;MEDEIROS, Gabriela L.;Silva, Mara Regina Santos;Luz, Geisa dos Santos;Ribeiro, Juliane Portella;Mirco, Pâmela.Saúde Mental e Enfermagem: A importância de uma forma sistemática no cuidado com famílias. In: 9ª Mostra da Produção Universitária - MPU, 2010, Rio Grande.9ª Mostra da Produção Universitária - MPU. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta>3</idAresta>
+				</producao>
+				<producao>
+					<titulo>Botelho, Luciana Rodrigues Botelho;Silva, Mara Regina Santos;LANGLOIS, C.;SILVA, Priscila. A.;MEDEIROS, Gabriela L.;Luz, Geisa dos Santos.Conciliação entre vida profissional e familiar: um desafio para as mulheres contemporâneas. In: XII colóquio Panamericano de Investigación en Enfermeria, 2010, Florianópolis - SC.Anais do XII colóquio Panamericano de Investigación en Enfermeria. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Meninos de rua: uma experiência de aprendizagem. In: Jornada Rio Grandina de enfermagem, 1996, Rio Grande.Resumos. 1996.</titulo>
+					<ano>1996</ano>
+					<idAresta></idAresta>
+				</producao>
+			</producoes>
+		</nodo>
+		<nodo>
+			<id>6034588548733448</id>
+			<label>Maria da Penha da Rosa Silveira Nunes</label>
+			<dataAtualizacao>30032015</dataAtualizacao>
+			<numeroDeProducoes>5</numeroDeProducoes>
+			<numeroDeProducoesPorAno>
+				<ano value="1998">1</ano>
+				<ano value="2008">1</ano>
+				<ano value="2005">2</ano>
+				<ano value="2009">1</ano>
+			</numeroDeProducoesPorAno>
+			<producoes>
+				<producao>
+					<titulo>BUEIRA, Rafaela Campela;NUNES, Maria da Penha da Rosa Silveira.Diabetes no Contexto Educação e Saúde: Para Melhoria da Qualidade de Vida. In: I Semana Interinstitucional de Enfermagem, 1998, Rio Grande.Livreto do Própio Evento. 1998.</titulo>
+					<ano>1998</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Juliano, A.S;Arejano, C.B;Fraga, J.;Galarraga, S.;Gomes, T.;Santos, F.;Valadão, L.;NUNES, Maria da Penha da Rosa Silveira.Rede de apoio interprofissional em saúde mental da ESF - Rede Gaivota municipio de Rio Grande. In: III Mostra Nacional de Produção em Saúde da Família, 2008, Brasília.III Mostra Nacional de Produção em Saúde da Família. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Representação social de mulheres acerca da histerectomia. In: II Seminário corpo, gênero e sexualidade: problematizando práticas educativas e culturais, 2005, Rio Grande.II seminário corpo, gênero e sexualidade. 2005.</titulo>
+					<ano>2005</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Feminilização do envelhecimento no Brasil. In: II seminário Corpo, gênero e sexualidade: problematizando práticas educativas e culturais, 2005, Rio Grande.II seminário Corpo, gênero e sexualidade: problematizando práticas educativas e culturais. 2005.</titulo>
+					<ano>2005</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>GOMES, V. L. O.;NUNES, Maria da Penha da Rosa Silveira.Expectativas e vivências em relação à histerectomia. In: 4º seminário Corpo, Gênero e sexualidade, 2009, Rio Grande.4º Seminário Corpo, Gênero e Sexualidade. 2009.</titulo>
+					<ano>2009</ano>
+					<idAresta></idAresta>
+				</producao>
+			</producoes>
+		</nodo>
+		<nodo>
+			<id>4404701659988571</id>
+			<label>Maria Emilia Nunes Bueno</label>
+			<dataAtualizacao>23032018</dataAtualizacao>
+			<numeroDeProducoes>65</numeroDeProducoes>
+			<numeroDeProducoesPorAno>
+				<ano value="2005">1</ano>
+				<ano value="2006">8</ano>
+				<ano value="2008">20</ano>
+				<ano value="2007">17</ano>
+				<ano value="2009">9</ano>
+				<ano value="2010">7</ano>
+				<ano value="2011">1</ano>
+				<ano value="2012">2</ano>
+			</numeroDeProducoesPorAno>
+			<producoes>
+				<producao>
+					<titulo>FEIJO, A. M.;Bueno, M. E. N.;NASCENTE, P. S.;COIMBRA, H. S.Candida sp. isolada da microbiota oral em crianças. In: XIV Congresso de Iniciação Científica da UCPel, 2005, Pelotas.Candida sp. isolada da microbiota oral em crianças. 2005.</titulo>
+					<ano>2005</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Bueno, M. E. N.;FEIJO, A. M.;COIMBRA, H. S.;NASCENTE, P. S.Pesquisa de Candida spp. na Microbiota Oral de Crianças. In: XIV Congresso de Iniciação Cientifica, 2006, Pelotas.XIV Congresso de Iniciação Cientifica VII Encontro de Pós Graduação. 2006.</titulo>
+					<ano>2006</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Bueno, M. E. N.;FEIJO, A. M.;NASCENTE, P. S.;COIMBRA, H. S.Relação entre tempo de amamentação e isolamento de Candida spp na cavidade oral de crianças. In: Encontro Gaucho de Estudantes de Enfermagem, 2006, Pelotas.Relação entre tempo de amamentação e isolamento de Candida spp na cavidade oral de crianças. 2006.</titulo>
+					<ano>2006</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FEIJO, A. M.;Bueno, M. E. N.;NASCENTE, P. S.;COIMBRA, H. S.Candida spp isolada da microbiota oral de crianças em diferentes faixas etárias. In: Encontro Gaucho de Estudantes de Enfermagem, 2006, Pelotas.Candida spp isolada da microbiota oral de crianças em diferentes faixas etárias. 2006.</titulo>
+					<ano>2006</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Bueno, M. E. N.;Guimarães, S. R.L.;Gallo, C.M.C;ZILLMER, 	J. G. V.;Schwartz, E.;FEIJO, A. M.;BURILLE, A.Consulta de Enfermagem na Radioterapia: percepção dos acadêmicos de Enfermagem. In: 3º Salão de Extensão e Cultura - 1º Semana de Ensino e Extensão, , Pelotas.Consulta de Enfermagem na Radioterapia: percepção dos acadêmicos de Enfermagem. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Bueno, M. E. N.;Rozado, L.M. da S.;FEIJO, A. M.;BURILLE, A.;ZILLMER, 	J. G. V.;GONCALVES, B.;Schwartz, E.;Lange, C.;Gallo, C.M.C;Santos, E. B.Estudo Retrospectivo: produtos resultantes do Internato em Enfermagem Nefrológica. In: 3º Salão de Extensão e Cultura - 1º Semana de Ensino e Extensão, 2008, Pelotas.Estudo Retrospectivo: produtos resultantes do Internato em Enfermagem Nefrológica. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FEIJO, A. M.;BURILLE, A.;ZILLMER, 	J. G. V.;Bueno, M. E. N.;Schwartz, E.;Lange, C.;Gallo, C.M.C;Santos, E. B;Rozado, L.M. da S.Consulta de Enfermagem: um diferencial na assistencia ao paciente em tratamento dialítico. In: 3º Salão de Extensão e Cultura - 1º Semana de Ensino e Extensão, 2008, Pelotas.Consulta de Enfermagem: um diferencial na assistencia ao paciente em tratamento dialítico. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FEIJO, A. M.;BURILLE, A.;ZILLMER, 	J. G. V.;Bueno, M. E. N.;Schwartz, E.;Lange, C.;Gallo, C.M.C;Santos, E. B;Rozado, L.M. da S.Sistematização da Assistência de Enfermagem: percepção de academicos de enfermagem. In: 3º Salão de Extensão e Cultura - 1º Semana de Ensino e Extensão, 2008, Pelotas.Sistematização da Assistência de Enfermagem: percepção de academicos de enfermagem. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>BURILLE, A.;TESSELE, M. C.;ZILLMER, 	J. G. V.;Schwartz, E.;Lange, C.;Bueno, M. E. N.;FEIJO, A. M.;Gallo, C.M.C;Santos, E. B;Rozado, L.M. da S.Educação em saúde: atuação de acadêmicos de enfermagem com pacientes em tratamento dialítico. In: 3º Salão de Extensão e Cultura - 1º Semana de Ensino e Extensão, 2008, Pelotas.Educação em saúde: atuação de acadêmicos de enfermagem com pacientes em tratamento dialítico. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>BURILLE, A.;ZILLMER, 	J. G. V.;Bueno, M. E. N.;FEIJO, A. M.;Schwartz, E.;Lange, C.;Gallo, C.M.C;Santos, E. B;Rozado, L.M. da S.Internato Enfermagem Nefrológica: 13 anos de ensino e cuidado. In: 3º Salão de Extensão e Cultura - 1º Semana de Ensino e Extensão, 2008, Pelotas.Internato Enfermagem Nefrológica: 13 anos de ensino e cuidado. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>ZILLMER, 	J. G. V.;DIAS, A. B.;FEHN, L. A. C.;Bueno, M. E. N.;OLIVEIRA, N. A.;FEIJO, A. M.A IMPORTÂNCIA DA INFORMAÇÃO NA PERCEPÇÃO DO PACIENTE ONCOLÓGICO DURANTE TRATAMENTO RADIOTERÁPICO. In: XVI Congresso de Iniciação Cientifica da Universidade Federal de Pelotas, 2007, Pelotas.XVI CIC pesquisa e responsabilidade ambiental. 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FEIJO, A. M.;Bueno, M. E. N.;Schwartz, E.;VARGAS, C.MUDANÇAS RELACIONADAS À SEXUALIDADE NOS PACIENTES ONCOLÓGICOS SUBMETIDOS AO TRATAMENTO RADIOTERÁPICO. In: XVI Congresso de Iniciação Cientifica da Universidade Federal de Pelotas, 2007, Pelotas.XVI CIC pesquisa e responsabilidade ambiental. 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FEIJO, A. M.;SOUZA, A. C.;PAZ, C. T.;NEVES, C. R. C.;PEREIRA, C. A. B.;Bueno, M. E. N.;MAGNI, C. T.A CULTURA POPULAR SOBRE O USO DOS FITOTERÁPICOS. In: XVI Congresso de Iniciação Cientifica da Universidade Federal de Pelotas, 2007, Pelotas.XVI CIC pesquisa e responsabilidade ambiental. 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>ZILLMER, 	J. G. V.;DIAS, A. B.;FEHN, L. A. C.;FEIJO, A. M.;Santos, E. B;Bueno, M. E. N.;OLIVEIRA, N. A.A FAMÍLIA ENFRENTANDO A DOENÇA RENAL CRÔNICA: O ENFERMEIRO COMO MEDIADOR. In: XVI Congresso de Iniciação Cientifica da Universidade Federal de Pelotas, 2007, Pelotas.A FAMÍLIA ENFRENTANDO A DOENÇA RENAL CRÔNICA: O ENFERMEIRO COMO MEDIADOR. 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FEHN, L. A. C.;Bueno, M. E. N.;FEIJO, A. M.;OLIVEIRA, N. A.A RELIGIOSIDADE E A ESPIRTUALIDADE COMO INSTRUMENTOS DE APOIO PARA O PACIENTE ONCOLÓGICO. In: XVI Congresso de Iniciação Cientifica da Universidade Federal de Pelotas, 2007, Pelotas.A ESPIRTUALIDADE COMO INSTRUMENTOS DE APOIO PARA O PACIENTE ONCOLÓGICO. 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Bueno, M. E. N.;LINCK, C. L.;AZEVEDO, M.;BARBOZA, R. R.Prevenção e promoção da saúde: vivências em um grupo de gestantes e puérperas. In: XVI Congresso de Iniciação Cientifica da Universidade Federal de Pelotas, 2007, .XVI CIC pesquisa e responsabilidade ambiental. 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Bueno, M. E. N.;BURILLE, A.;SILVA, D. A.;MACAGNAN, K. L.;ZILLMER, 	J. G. V.;Schwartz, E.Espiritualidade como ferramenta de apoio no tratamento diálitico. In: Simpósio Internacional de Estratégias de Cuidados a Indivíduos, Grupos e Famílias e as Doenças Crônicas - 12° Encontro Do Leifams, 2008, Pelotas.Anais da Revista Ciência,Cuidado e Saúde-Setembro 2008. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>NEVES, C. R. C.;Bueno, M. E. N.;FEIJO, A. M.;MULLER, M. L.;SANTANA, M. G.Dificuldades de mobilidade da pessoa idosa. In: I Seminário Internacional de Saude Mental e Gerontologia, 2006, Ijui.Anais do I Seminário Internacional de Saúde Mental e Gerontologia. 2006.</titulo>
+					<ano>2006</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FEIJO, A. M.;Bueno, M. E. N.;COIMBRA, H. S.;NASCENTE, P. S.Rhodotorula spp. isolada da cavidade oral de criança. In: XV Congresso de iniciação científica da Ufpel, 2006, .Anais do XV Congresso de iniciação científica da Ufpel. 2006.</titulo>
+					<ano>2006</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FEIJO, A. M.;LUNDI, R. G.;NASCENTE, P. S.;SERPA, R.;Bueno, M. E. N.;Ribeiro, G. A.;FREITAG, R. A.;DEL PINO,F.A.B.Estudo do efeito antimicrobiano dos extratos etanólicos de menthe arvensis L. sobre patogenos orais. In: XV Congresso de iniciação científica da Ufpel, 2006, Pelotas.Anais XV Congresso de iniciação científica da Ufpel. 2006.</titulo>
+					<ano>2006</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Bueno, M. E. N.;FEIJO, A. M.;NASCENTE, P. S.Identificação de leveduras do genero candida isoladas da mucosa oral de pacientes hospitalizados na clinica médica do hospital universitário-Ufpel. In: XV Congresso de iniciação científica da Ufpel, 2006, Pelotas.XV Congresso de iniciação científica da Ufpel. 2006.</titulo>
+					<ano>2006</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>TEIXERA,J.M.;LUNDI, R. G.;Bueno, M. E. N.;FEIJO, A. M.;NASCENTE, P. S.;DEL PINO,F.A.B.Espécies do gênero Candida isoladas da cavidade oral de crianças. In: Brazilian oral research, 2007, .Brazilian Oral Research (Impresso). 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>NASCENTE, P. S.;LUNDI, R. G.;FEIJO, A. M.;Bueno, M. E. N.;DEL PINO,F.A.B.;MEIRELES, M. C. A.Isolamento e identificação de Candida sp. na mucosa oral de pacientes internados no hospital universitário da UFPel. In: Brazilian oral research, 2007, .Brazilian Oral Research (Impresso). 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>AZEVEDO, M.;Bueno, M. E. N.;LINCK, C. L.;BARBOZA, R. R.Grupo de Gestantes e Mães que Participam da Puericultura. In: 2ºSalão de Extensão e Cultura, 2007, Pelotas.Expressa Extensão (UFPel). 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FEIJO, A. M.;GONCALVES, B.;Bueno, M. E. N.;Santos, E. B;Schwartz, E.Atuação do Academico de Enfermagem na Assistência do Paciente Renal Cronico. In: 2ºSalão de Extensão e Cultura, 2007, Pelotas.Expressa Extensão (UFPel). 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>NEVES, C. R. C.;FEIJO, A. M.;Bueno, M. E. N.;BORGES, Z.Projeto Sala de Espera da Fundação de Apoio Universitário(FAU). In: 2ºSalão de Extensão e Cultura, 2007, Pelotas.Expressa Extensão (UFPel). 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Bueno, M. E. N.;FEIJO, A. M.;NEVES, C. R. C.;SANTANA, M. G.Vivência em Enfermagem: A importancia do Vinculo Profissional. In: 2ºSalão de Extensão e Cultura, 2007, .2ºSalão de Extensão e Cultura. 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>GONCALVES, B.;Bueno, M. E. N.;Santos, E. B;Schwartz, E.;FEIJO, A. M.;DIAS, A. B.;ZILLMER, 	J. G. V.;FAGUNDES, R.;Marcelo Dias Neves.O histórico de enfermagem no contexto de uma unidade de nefrologia. In: 2ºSalão de Extensão e Cultura, 2007, Pelotas.Expressa Extensão (UFPel). 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Bueno, M. E. N.;FEIJO, A. M.;NASCENTE, P. S.Relação entre o uso de antifungicos e a presença de candica spp. na mucosa oral de pacientes internados na clínica médica do hospital universitário-UFPel. In: 14º Seminário Nacional de Pesquisa em enfermagem, 2007, .14º Seminário Nacional de Pesquisa em enfermagem. 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Schwartz, E.;FEIJO, A. M.;GONCALVES, B.;Bueno, M. E. N.;Santos, E. B.A importância do trabalho humanizado da equipe de enfermagem com os pacientes renais crônicos. In: Seminário enfermagem à família: a produção científica, tecnológica e artística, 2007, Florianópolis.Seminário enfermagem à família: a produção científica, tecnológica e artística. 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>NASCENTE, P. S.;SANTIM, R.;LUNDI, R. G.;Bueno, M. E. N.;FEIJO, A. M.;CLEFF, M. B.;MEIRELES, M. C. A.Leveduras isoladas em ambiente de Uti. In: 5º Congresso Brasileiro de Micologia, 2007, Recife.5º Congresso Brasileiro de Micologia. 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Bueno, M. E. N.;FEIJO, A. M.;NASCENTE, P. S.Isolamento de Candida spp na microbiota oral de crianças em relação ao uso de antibiótico e antifúngicos. In: 15º Congresso de Iniciação Científica - UCPel, 2006, Pelotas.15º Congresso de Iniciação Científica. 2006.</titulo>
+					<ano>2006</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Bueno, M. E. N.;FEIJO, A. M.;SANTIM, R.;LUNDI, R. G.;CLEFF, M. B.;MEIRELES, M. C. A.;NASCENTE, P. S.M. Pachydermatis e outras leveduras em ambiente de Uti. In: XVI CIC Pesquisa e responsabilidade ambiental, 2007, .Anais do XVI CIC Pesquisa e responsabilidade ambiental. 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FEIJO, A. M.;Schwartz, E.;ZILLMER, 	J. G. V.;Bueno, M. E. N.;Gallo, C.M.C;Lange, C.;LINCK, C. L.;OLIVEIRA, N. A.;FAES, A. D. R.A Região Sul do Brasil e o Câncer: Perfil dos Clientes em Tratamento Radioterapico. In: XVIII Congresso Mundial de Epidemiologia-Epi 2008, 2008, .XVIII Congresso Mundial de Epidemiologia-Epi 2008. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FEIJO, A. M.;Schwartz, E.;Lange, C.;Gallo, C.M.C;ZILLMER, 	J. G. V.;LINCK, C. L.;Bueno, M. E. N.;OLIVEIRA, N. A.;FAES, A. D. R.Caracterização da Dependência de Tecnologias em Clientes de um Serviço de Radioterapia. In: XVIII Congresso Mundial de Epidemiologia-Epi 2008, 2008, Porto Alegre.XVIII Congresso Mundial de Epidemiologia-Epi 2008. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Bueno, M. E. N.;Lange, C.;Schwartz, E.;Gallo, C.M.C;ZILLMER, 	J. G. V.;LINCK, C. L.;FEIJO, A. M.;FEHN, L. A. C.;TAROUCO, R.Fatores de Risco para o Câncer na Região Sul do Brasil. In: XVIII Congresso Mundial de Epidemiologia-Epi 2008, 2008, .XVIII Congresso Mundial de Epidemiologia-Epi 2008. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Gallo, C.M.C;Schwartz, E.;Lange, C.;ZILLMER, 	J. G. V.;LINCK, C. L.;Bueno, M. E. N.;FEIJO, A. M.;BURILLE, A.Caracterização da população feminina em tratamento radioterápico no Sul do Brasil. In: XVIII Congresso Mundial de Epidemiologia-Epi 2008, 2008, .XVIII Congresso Mundial de Epidemiologia-Epi 2008. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FEIJO, A. M.;Schwartz, E.;JARDIM, V. R.;LINCK, C. L.;Bueno, M. E. N.;ZILLMER, 	J. G. V.O Itinerário Terapêutico das Mulheres com Câncer de Mama em Tratamento Radioterápico. In: Simpósio Internacional de Estratégias de Cuidados a Indivíduos, Grupos e Famílias e as Doenças Crônicas e 12º do Laboratório de Ensino Interdisciplinar de Familias e Saúde-LEIFAMS, 2008, Pelotas.Ciência, Cuidado Eh Saúde. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SANTOS, F.;Gallo, C.M.C;Lange, C.;GONCALVES, B.;LOPES, C. V.;FEIJO, A. M.;Bueno, M. E. N.;ZILLMER, 	J. G. V.;LINCK, C. L.;Schwartz, E.Educação em saúde: programa de treinamentos de primeiros socorros á comunidade. In: 3º Salão de extensão e cultura, 2008, Pelotas.3º Salão de extensão e cultura. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FEIJO, A. M.;Bueno, M. E. N.;PEREIRA, C. A. B.;COSTA, M. H.;CAMPOS,N.L.;Schwartz, E.Sistematização da assistência de enfermagem a uma usuária com transtorno psíquico. In: Seminário de avaliação em atenção psicossocial, 2008, .Seminário de avaliação ematenção psicossocial. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FEIJO, A. M.;MUNIZ, R. M.;Schwartz, E.;ZILLMER, 	J. G. V.;Bueno, M. E. N.;Lange, C.;LINCK, C. L.;BURILLE, A.;SILVA, D. A.;Guimarães, S. R.L.Geração de conhecimentos a partir de pesquisas realizadas em um ambulatório de radioterapia da região sul do Brasil. In: XVII Congresso de iniciação científica e X Enpós da UFPel, 2008, .XVII Congresso de iniciação científica e X Enpós da UFPel. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FEIJO, A. M.;Bueno, M. E. N.;BURILLE, A.;SILVA, D. A.;ZILLMER, 	J. G. V.;Schwartz, E.;Gallo, C.M.C.A utilização de terapias alternativas por clientes oncológicos em tratamento radioterápico. In: XVII Congresso de iniciação científica e X Enpós da UFPel, 2008, .XVII Congresso de iniciação científica e X Enpós da UFPel. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>BURILLE, A.;MACAGNAN, K. L.;SILVA, D. A.;Gallo, C.M.C;Schwartz, E.;LEMES, S.;FEIJO, A. M.;Bueno, M. E. N.A importância da família junto ao paciente com câncer hospitalizado. In: XVII Congresso de iniciação científica e X Enpós da UFPel, 2008, .XVII Congresso de iniciação científica e X Enpós da UFPel. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>ZILLMER, 	J. G. V.;Schwartz, E.;Lange, C.;LINCK, C. L.;Bueno, M. E. N.;FEIJO, A. M.Conhecimento dos clientes renais crônicos e suas famílias sobre doença renal crônica, terapia dialítica e transplante renal. In: Simpósio Internacional de Estratégias de Cuidados a Indivíduos, Grupos e Famílias e as Doenças Crônicas - 12° Encontro Do Leifams, 2008, .Ciência, Cuidado Eh Saúde. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MENDES, J. F.;NASCENTE, P. S.;SANTIM, R.;FEIJO, A. M.;Bueno, M. E. N.;LUNDI, R. G.;MEIRELES, M. C. A.ISOLAMENTO DE RHODOTORULA SP. DE MÃOS DE PROFISSIONAIS DA SAÚDE. In: XVII Congresso de Iniciação Científica e X Encontro de Pós-Graduação, 2008, Pelotas.XVII Congresso de Iniciação Científica e X Encontro de Pós-Graduação. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Bueno, M. E. N.;FEIJO, A. M.;Schwartz, E.;ZILLMER, 	J. G. V.;BURILLE, A.;SILVA, D. A.TIPOS DE CÂNCER MAIS FREQÜENTES ENTRE AS MULHERES EM TRATAMENTO RADIOTERÁPICO NO SUL DO BRASIL. In: XVII Congresso de Iniciação Científica e X Encontro de Pós-Graduação, 2008, Pelotas.XVII Congresso de Iniciação Científica e X Encontro de Pós-Graduação. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MONTEIRO, R. F. C.;MEINCKE, S.;ROSA, L. D.;EIDAM, N.;Bueno, M. E. N.;SOARES, M. C.Paternidade na Adolescencia: construindo redes de apoio. In: I SIMPÓSIO INTERNACIONAL DO NEPEn I SIMPÓSIO INTERNACIONAL DA PÓS-GRADUAÇÃO DA ENFERMAGEM/UFPel, 2009, Pelotas.I SIMPÓSIO INTERNACIONAL DO NEPEn I SIMPÓSIO INTERNACIONAL DA PÓS-GRADUAÇÃO DA ENFERMAGEM/UFPel. 2009.</titulo>
+					<ano>2009</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>BOROWSKI, D. M.;RIBEIRO, C. V.;MIRAPALHETE, I. M. C.;ESCOBAL, A. P. L.;Bueno, M. E. N.;SOARES, M. C.Grupos de Gestantes e Puérperas: um espaço para prevençao e promoçao da saude. In: I SIMPÓSIO INTERNACIONAL DO NEPEn I SIMPÓSIO INTERNACIONAL DA PÓS-GRADUAÇÃO DA ENFERMAGEM/UFPel, 2009, Pelotas.I SIMPÓSIO INTERNACIONAL DO NEPEn I SIMPÓSIO INTERNACIONAL DA PÓS-GRADUAÇÃO DA ENFERMAGEM/UFPel. 2009.</titulo>
+					<ano>2009</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>ALBARNAZ, M. D.;MEINCKE, S.;Bueno, M. E. N.;SOARES, M. C.Relato de Experiencia: Participação de Acadêmico na Realização de uma Pesquisa. In: I SIMPÓSIO INTERNACIONAL DO NEPEn I SIMPÓSIO INTERNACIONAL DA PÓS-GRADUAÇÃO DA ENFERMAGEM/UFPel, 2009, Pelotas.I SIMPÓSIO INTERNACIONAL DO NEPEn I SIMPÓSIO INTERNACIONAL DA PÓS-GRADUAÇÃO DA ENFERMAGEM/UFPel. 2009.</titulo>
+					<ano>2009</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>ROMERO, S. S.;Bueno, M. E. N.;ZILLMER, 	J. G. V.;MEINCKE, S.Refletindo a Paternidade na Adolescencia. In: I SIMPÓSIO INTERNACIONAL DO NEPEn I SIMPÓSIO INTERNACIONAL DA PÓS-GRADUAÇÃO DA ENFERMAGEM/UFPel, 2009, Pelotas.I SIMPÓSIO INTERNACIONAL DO NEPEn I SIMPÓSIO INTERNACIONAL DA PÓS-GRADUAÇÃO DA ENFERMAGEM/UFPel. 2009.</titulo>
+					<ano>2009</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>ESLABAO, A. D.;BURILLE, A.;ZILLMER, 	J. G. V.;Schwartz, E.;FEIJO, A. M.;Bueno, M. E. N.Doença Renal Crônica: conhecendo as mudanças no cotidiano de um cliente. In: I SIMPÓSIO INTERNACIONAL DO NEPEn I SIMPÓSIO INTERNACIONAL DA PÓS-GRADUAÇÃO DA ENFERMAGEM/UFPel, 2009, Pelotas.I SIMPÓSIO INTERNACIONAL DO NEPEn I SIMPÓSIO INTERNACIONAL DA PÓS-GRADUAÇÃO DA ENFERMAGEM/UFPel. 2009.</titulo>
+					<ano>2009</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FEIJO, A. M.;Bueno, M. E. N.;ZILLMER, 	J. G. V.;Schwartz, E.;Lange, C.A informaçao como alicerce para o autocuidado dos clientes em tratamento radioterápico. In: I SIMPÓSIO INTERNACIONAL DO NEPEn I SIMPÓSIO INTERNACIONAL DA PÓS-GRADUAÇÃO DA ENFERMAGEM/UFPel, 2009, Pelotas.I SIMPÓSIO INTERNACIONAL DO NEPEn I SIMPÓSIO INTERNACIONAL DA PÓS-GRADUAÇÃO DA ENFERMAGEM/UFPel. 2009.</titulo>
+					<ano>2009</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Bueno, M. E. N.;MEINCKE, S.;ROMERO, S. S.;EIDAM, N.;ZILLMER, 	J. G. V.;MONTEIRO, R. F. C.Paternidade na Adolescencia: Revisão Sistematizada. In: I SIMPÓSIO INTERNACIONAL DO NEPEn I SIMPÓSIO INTERNACIONAL DA PÓS-GRADUAÇÃO DA ENFERMAGEM/UFPel, 2009, Pelotas.I SIMPÓSIO INTERNACIONAL DO NEPEn I SIMPÓSIO INTERNACIONAL DA PÓS-GRADUAÇÃO DA ENFERMAGEM/UFPel. 2009.</titulo>
+					<ano>2009</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Bueno, M. E. N.;MEINCKE, S. M. K.;SOUZA, P. L.;SOARES, M. C.;VITACA, S. S.;EIDAM, N.Perfil do pai adolescente em uma cidade do Rio Grande do Sul. In: XII Coloquio Panamericano de Investigación en Enfermeria, 2010, Florianopolis.anais 62 Congresso Brasileiro de enfermagem. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Bueno, M. E. N.;MEINCKE, S. M. K.;MONTEIRO, R. F. C.;SOARES, M. C.;PADILHA, M. A.;EIDAM, N.Perfil das puérperas adolescentes participantes da pesquisa RAPAD. In: XII Coloquio Panamericano de Investigación en Enfermeria, 2010, Florianopolis.anais 62 Congresso Brasileiro de enfermagem. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>NASCENTE, P. S.;Bueno, M. E. N.;FEIJÓ, A. M.;LUNDI, R. G.Yeasts Isolated in children Assisted by the Brazilian Health System. In: 38 General Session Eh Exhibition of the IADR 5 General Session of the PAn European Region of the IADR, 2010, Espanha.Advancing Oral Health Worldwide. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Côrrea, A.C.L;Bueno, M. E. N.;EIDAM, N.;MEINCKE, S. M. K.;SOARES, M. C.Atenção às Gestantes Adolescentes no Pré-Parto e Parto no Sul do Brasil. In: I Simpósio Internacional de Humanização da Atenção Obstétrica e Neonatal, 2010, Rio Grande.SIHATON Simposio Internacional de Humanização da Atenção Obstétrica e Neonatal. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SOUZA, P. L.;EIDAM, N.;ROSA, L. D.;MEINCKE, S. M. K.;SOARES, M. C.;Bueno, M. E. N.Assistência pré-natal às mães adolescentes de uma cidade no interior do Rio Grande do Sul. In: I Simpósio Internacional de Humanização da Atenção Obstétrica e Neonatal, 2010, Rio Grande.SIHATON Simposio Internacional de Humanização da Atenção Obstétrica e Neonatal. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>PADILHA, M. A.;MEINCKE, S. M. K.;SOARES, M. C.;Bueno, M. E. N.;EIDAM, N.Escolaridade de mães adolescentes de uma maternidade pública no sul do Brasil. In: XII Coloquio Panamericano de Investigación en Enfermeria, 2010, Florianopolis.anais 62 Congresso Brasileiro de enfermagem. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>PADILHA, M. A.;MEINCKE, S. M. K.;SOARES, M. C.;Bueno, M. E. N.;Côrrea, A.C.L;EIDAM, N.Família como Rede Apoiadora: Escolaridade de Mães Adolescentes de uma Maternidade no Sul do Brasil. In: Seminário Latino Americano de Pesquisa e Assistência de Enfermagem á Família, 2011, Maringá.Seminário Latino Americano de Pesquisa e Assistência de Enfermagem à Família e 13º. LEIFAMS. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Côrrea, A.C.L;Bueno, M. E. N.;SOARES, M. C.;MONTEIRO, R. F. C.;MEINCKE, S. M. K.Prevalência dos tipos de partos em gestantes adolescentes no sul do Brasil. In: XIX Congresso de Iniciação Cientifica, 2010, Pelotas.XIX Congresso de Iniciação Cientifica. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SOUZA, P. L.;MEINCKE, S. M. K.;Bueno, M. E. N.;SOARES, M. C.Traçando redes de apoio: um novo olhar sob a paternidade na adolescência. In: III Congresso Brasileiro de Enfermagem Pediátrica e Neonatal/XVI Encontro Catarinense de Enfermagem Pediátrica, 2009, Florianópolis.Anais do III Congresso Brasileiro de Enfermagem Pediátrica e Neonatal/XVI Encontro Catarinense de Enfermagem Pediátrica. 2009.</titulo>
+					<ano>2009</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Bueno, M. E. N.;SILVA, M. R. S.;RIBEIRO, J. P.;SCHECK, G.;NUNES, M. P. R. S.A enfermagem contemporânea nas relações pai/filho(s). In: 64º Congresso Brasileiro de Enfermagem, 2012, Porto Alegre.Empoderamento da Enfermagem na Aliança com o usuário. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SILVA, P. A.;SILVA, M. R. S.;Bueno, M. E. N.;LUZ, G. S.;OST, A. S.Empoderamento das familias que convivem com o transtorno mental: um desafio para a enfermagem. In: 64º Congresso Brasileiro de Enfermagem, 2012, Porto Alegre.Empoderamento da Enfermagem na Aliança com o usuário. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SILVA, T. M.;LOPES, C. V.;PADILHA, M. A.;Bueno, M. E. N.;SOARES, M. C.;LEITE, M. C. L.Relato de Experiencia: O desafio do Aleitamento Materno em um Hospital de Ensino. In: I SIMPÓSIO INTERNACIONAL DO NEPEn I SIMPÓSIO INTERNACIONAL DA PÓS-GRADUAÇÃO DA ENFERMAGEM/UFPel, 2009, Pelotas.I SIMPÓSIO INTERNACIONAL DO NEPEn I SIMPÓSIO INTERNACIONAL DA PÓS-GRADUAÇÃO DA ENFERMAGEM/UFPel. 2009.</titulo>
+					<ano>2009</ano>
+					<idAresta></idAresta>
+				</producao>
+			</producoes>
+		</nodo>
+	</nodos>
+		<arestas>
+			<aresta>
+				<autor1>5678785916481593</autor1>
+				<autor2>1428352044973024</autor2>
+				<anos>
+				<ano valor="2010">
+					<duplicatas>
+						<duplicata>
+						<id>1</id>
+						<indice>1</indice>
+						<titulo1>SILVA;LUZ, G. S.;RIBEIRO, J.P.;SILVA, P. A.;CEZAR-VAZ, MR.Distribuição desejada do trabalho familiar entre cônjuges. In: 62º Congresso Brasileiro de Enfermagem, 2010, Florianópolis - SC.62º Congresso Brasileiro de Enfermagem. 2010.</titulo1>
+						<titulo2>Silva, Mara Regina Santos;Luz, Geisa dos Santos;Ribeiro, Juliane Portella;SILVA, Priscila. A.;VAZ, Marta Regina Cezar.Distribuição desejada do trabalho familiar entre cônjuges. In: 62º Congresso Brasileiro de Enfermagem, 2010, Florianópolis - SC.62º Congresso Brasileiro de Enfermagem. 2010.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>2</id>
+						<indice>0.99</indice>
+						<titulo1>RIBEIRO, J.P.;SILVA;CEZAR-VAZ, MR;LUZ, G. S.;SILVA, P. A.Compreendendo o exercício das competências parentais na família monoparental. In: 62º Congresso Brasileiro de Enfermagem, 2010, Florianópolis - SC.62º Congresso Brasileiro de Enfermagem. 2010.</titulo1>
+						<titulo2>Ribeiro, Juliane Portella;Silva, Mara Regina Santos;VAZ, Marta Regina Cezar;Luz, Geisa dos Santos;SILVA, Priscila. A.Compreendendo o exercício das competências parentais na família monoparental. In: 62º Congresso Brasileiro de Enfermagem, 2010, Florianópolis - SC.62º Congresso Brasileiro de Enfermagem. 2010.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>3</id>
+						<indice>1</indice>
+						<titulo1>SILVA, P. A.;MEDEIROS, G.L.;SILVA;LUZ, G. S.;RIBEIRO, J.P.;MIRCO, DP.Saúde Mental e Enfermagem: A importância de uma forma sistemática no cuidado com famílias. In: 9ª Mostra da Produção Universitária - MPU, 2010, Rio Grande-RS.9ª Mostra da Produção Universitária - MPU. 2010.</titulo1>
+						<titulo2>SILVA, Priscila. A.;MEDEIROS, Gabriela L.;Silva, Mara Regina Santos;Luz, Geisa dos Santos;Ribeiro, Juliane Portella;Mirco, Pâmela.Saúde Mental e Enfermagem: A importância de uma forma sistemática no cuidado com famílias. In: 9ª Mostra da Produção Universitária - MPU, 2010, Rio Grande.9ª Mostra da Produção Universitária - MPU. 2010.</titulo2>
+						</duplicata>
+					</duplicatas>
+					<peso>3</peso>
+				</ano>
+				<ano valor="2011">
+					<duplicatas>
+						<duplicata>
+						<id>4</id>
+						<indice>0.99</indice>
+						<titulo1>LUZ, G. S.;SILVA, P. A.;SILVA;CEZAR-VAZ, MR;RIBEIRO, J.P.;SILVA, B.T.A família no contexto da doença genética diagnosticada pela triagem neonatal. In: Seminário Latino Americano de Pesquisa e Assistência de Enfermagem à Família e 13º. LEIFAMS, 2011, Maringa.Seminário Latino Americano de Pesquisa e Assistência de Enfermagem à Família e 13º. LEIFAMS. 2011.</titulo1>
+						<titulo2>Luz, Geisa dos Santos;Silva, Mara Regina Santos;VAZ, Marta Regina Cezar;SILVA, Priscila. A.;Ribeiro, Juliane Portella;Tarouco da Silva, Barbara.A família no contexto da doença genética diagnosticada pela triagem neonatal. In: Seminário Latino Americano de Pesquisa e Assistência de Enfermagem à Família e 13º. LEIFAMS, 2011, Maringá - PR.Seminário Latino Americano de Pesquisa e Assistência de Enfermagem à Família e 13º. LEIFAMS. 2011.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>5</id>
+						<indice>0.99</indice>
+						<titulo1>SILVA, B.T.;SILVA;RIBEIRO, J.P.;SILVA, P. A.;LUZ, G. S.Distribuição de cuidado ao (s) filho (s) na perspectiva dos homens. In: Seminário Latino Americano de Pesquisa e Assistência de Enfermagem à Família e 13º. LEIFAMS, 2011, Maringa.Seminário Latino Americano de Pesquisa e Assistência de Enfermagem à Família e 13º. LEIFAMS. 2011.</titulo1>
+						<titulo2>Tarouco da Silva, Barbara;Silva, Mara Regina Santos;Ribeiro, Juliane Portella;Luz, Geisa dos Santos;SILVA, Priscila. A.Distribuição de cuidado ao (s) filho (s) na perspectiva dos homens. In: Seminário Latino Americano de Pesquisa e Assistência de Enfermagem à Família e 13º. LEIFAMS, 2011, Maringá - PR.Seminário Latino Americano de Pesquisa e Assistência de Enfermagem à Família e 13º. LEIFAMS. 2011.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>6</id>
+						<indice>0.99</indice>
+						<titulo1>SILVA, P. A.;SILVA;LUZ, G. S.;RIBEIRO, J.P.;SILVA, B.T.Famílias em contextos adversos: um estudo das trajetórias de filhos de alcoolistas. In: Seminário Latino Americano de Pesquisa e Assistência de Enfermagem à Família e 13º. LEIFAMS, 2011, Maringa-PR.Seminário Latino Americano de Pesquisa e Assistência de Enfermagem à Família e 13º. LEIFAMS. 2011.</titulo1>
+						<titulo2>SILVA, Priscila. A.;Silva, Mara Regina Santos;Luz, Geisa dos Santos;Ribeiro, Juliane Portella;Tarouco da Silva, Barbara.Famílias em contextos adversos: um estudo das trajetórias de filhos de alcoolistas. In: Seminário Latino Americano de Pesquisa e Assistência de Enfermagem à Família e 13º. LEIFAMS, 2011, Maringá - PR.Seminário Latino Americano de Pesquisa e Assistência de Enfermagem à Família e 13º. LEIFAMS. 2011.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>7</id>
+						<indice>0.99</indice>
+						<titulo1>RIBEIRO, J.P.;SILVA;SILVA, B.T.;LUZ, G. S.;SILVA, P. A.Perspectivas da enfermagem acerca da paternidade: uma revisão integrativa de literatura. In: 63º Congresso Brasileiro de Enfermagem, 2011, Maceio.63º Congresso Brasileiro de Enfermagem: (Re)Criação e Inovação do Cuidado de Enfermagem. 2011.</titulo1>
+						<titulo2>Ribeiro, Juliane Portella;Silva, Mara Regina Santos;Tarouco da Silva, Barbara;Luz, Geisa dos Santos;SILVA, Priscila. A.Perspectivas da enfermagem acerca da paternidade: uma revisão integrativa de literatura. In: 63º Congresso Brasileiro de Enfermagem, 2011, Maceió.63º Congresso Brasileiro de Enfermagem: (Re)Criação e Inovação do Cuidado de Enfermagem. 2011.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>8</id>
+						<indice>0.99</indice>
+						<titulo1>RIBEIRO, J.P.;SILVA;SILVA, B.T.;LUZ, G. S.;SILVA, P. A.Satisfação dos usuários de serviços de proteção às vítimas de violência intrafamiliar em relação ao acesso e resolutividade das ações. In: 63º Congresso Brasileiro de Enfermagem, 2011, Maceio.63º Congresso Brasileiro de Enfermagem: (Re)Criação e Inovação do Cuidado de Enfermagem. 2011.</titulo1>
+						<titulo2>Ribeiro, Juliane Portella;Silva, Mara Regina Santos;Tarouco da Silva, Barbara;Luz, Geisa dos Santos;SILVA, Priscila. A.Satisfação dos usuários de serviços de proteção às vítimas de violência intrafamiliar em relação ao acesso e resolutividade das ações. In: 63º Congresso Brasileiro de Enfermagem, 2011, Maceió.63º Congresso Brasileiro de Enfermagem: (Re)Criação e Inovação do Cuidado de Enfermagem. 2011.</titulo2>
+						</duplicata>
+					</duplicatas>
+					<peso>5</peso>
+				</ano>
+				</anos>
+			</aresta>
+		</arestas>
+</grafo>

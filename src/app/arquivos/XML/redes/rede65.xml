@@ -1,0 +1,880 @@
+<?xml version='1.0' encoding='UTF-8'?><grafo>
+	<titulo>l2</titulo>
+	<numeroDeProducoesUnicas>138</numeroDeProducoesUnicas>
+	<numeroDeNodos>3</numeroDeNodos>
+	<numeroDeArestas>1</numeroDeArestas>
+	<anos>
+		<ano valor="1997">
+			<numero-producoes>1</numero-producoes>
+		</ano>
+		<ano valor="1998">
+			<numero-producoes>1</numero-producoes>
+		</ano>
+		<ano valor="2000">
+			<numero-producoes>3</numero-producoes>
+		</ano>
+		<ano valor="2002">
+			<numero-producoes>3</numero-producoes>
+		</ano>
+		<ano valor="2003">
+			<numero-producoes>3</numero-producoes>
+		</ano>
+		<ano valor="2004">
+			<numero-producoes>8</numero-producoes>
+		</ano>
+		<ano valor="2005">
+			<numero-producoes>6</numero-producoes>
+		</ano>
+		<ano valor="2006">
+			<numero-producoes>2</numero-producoes>
+		</ano>
+		<ano valor="2007">
+			<numero-producoes>3</numero-producoes>
+		</ano>
+		<ano valor="2008">
+			<numero-producoes>3</numero-producoes>
+		</ano>
+		<ano valor="2009">
+			<numero-producoes>3</numero-producoes>
+		</ano>
+		<ano valor="2010">
+			<numero-producoes>3</numero-producoes>
+		</ano>
+		<ano valor="2011">
+			<numero-producoes>18</numero-producoes>
+		</ano>
+		<ano valor="2012">
+			<numero-producoes>15</numero-producoes>
+		</ano>
+		<ano valor="2013">
+			<numero-producoes>12</numero-producoes>
+		</ano>
+		<ano valor="2014">
+			<numero-producoes>14</numero-producoes>
+		</ano>
+		<ano valor="2015">
+			<numero-producoes>10</numero-producoes>
+		</ano>
+		<ano valor="2016">
+			<numero-producoes>20</numero-producoes>
+		</ano>
+		<ano valor="2017">
+			<numero-producoes>10</numero-producoes>
+		</ano>
+	</anos>
+	<nodos>
+		<nodo>
+			<id>8252864210379656</id>
+			<label>André Luis Castro de Freitas</label>
+			<dataAtualizacao>05092017</dataAtualizacao>
+			<numeroDeProducoes>78</numeroDeProducoes>
+			<numeroDeProducoesPorAno>
+				<ano value="2006">1</ano>
+				<ano value="2005">6</ano>
+				<ano value="2004">4</ano>
+				<ano value="2003">3</ano>
+				<ano value="2002">3</ano>
+				<ano value="2000">3</ano>
+				<ano value="1998">1</ano>
+				<ano value="1997">1</ano>
+				<ano value="2008">1</ano>
+				<ano value="2009">2</ano>
+				<ano value="2011">11</ano>
+				<ano value="2012">7</ano>
+				<ano value="2013">10</ano>
+				<ano value="2014">10</ano>
+				<ano value="2015">6</ano>
+				<ano value="2016">5</ano>
+				<ano value="2017">4</ano>
+			</numeroDeProducoesPorAno>
+			<producoes>
+				<producao>
+					<titulo>SANTOS, A. H.;FREITAS, A. L. C.Um Estudo das Tecnologias de Middleware/Web Services em Aplicações Java. In: V Mostra de Produção Universitária, 2006, Rio Grande - RS. 2006.</titulo>
+					<ano>2006</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>BARRIOS, L.;FREITAS, A. L. C.Analise das Funcionalidades do Sistema de Gestão Hospitalar para Modelagem de um Banco de Dados Relacional Utilizando a Linguagem de Especificação XML. In: IV Mostra de Produção Universitária, 2005, Rio Grande - RS. 2005.</titulo>
+					<ano>2005</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Um Software para Gerenciamento de Transações de um Sistema de Banco de Dados Distribuído e Replicado Utilizando a Linguagem de Especificação WSDL. In: VI Simpósio de Informática do Planalto Médio, 2005, Passo Fundo - RS.-. 2005.</titulo>
+					<ano>2005</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>ALMEIDA, C.;FREITAS, A. L. C.Modelagem de Banco de Dados - Peixes como Indicadores Sensíveis a Parâmetros Climáticos Regionais. In: IV Mostra de Produção Universitária, 2005, Rio Grande - RS. 2005.</titulo>
+					<ano>2005</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>CONY, C. A.;BORGES, E. N.;FREITAS, A. L. C.Módulo de Pesquisa por Similaridade no SGBD Comercial POSTGRESQL. In: IV Mostra de Produção Universitária, 2005, Rio Grande. 2005.</titulo>
+					<ano>2005</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Web Services e Aplicações Distribuídas em Java. In: VI Simpósio de Informática do Planalto Médio, 2005, Passo Fundo - RS. 2005.</titulo>
+					<ano>2005</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>CONY, C. A.;BORGES, E. N.;FREITAS, A. L. C.Utilização de Algoritmos de Busca por Similaridade em SGBDs Comerciais. In: IV Simpósio de Informática da Região Centro do Rs, 2005, Santa Maria - RS. 2005.</titulo>
+					<ano>2005</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>BORGES, E. N.;FREITAS, A. L. C.Gerenciamento de Filiados da Associação Classista do Pessoal Técnico Administrativo da FURG. In: III Mostra de Produção Universitária, 2004, Rio Grande - RS. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>CHIELLE, E.;FREITAS, A. L. C.Um Estudo das tecnologias de Middleware/Web Services em Aplicações Java. In: III Mostra de Produção Universitária, 2004, Rio Grande - RS. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>ZANCANELLA, E. B.;FREITAS, A. L. C.Um Estudo de Aplicações Java Utilizando o Middleware RMI. In: II Mostra de Produção Universitária, 2003, Rio Grande - RS. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SELZLER, S. R.;FREITAS, A. L. C.Um Estudo de Aplicações com Múltiplas Linhas de Execução Escritas na Linguagem Java. In: I Mostra de Produção Universitária, 2002, Rio Grande - RS. 2002.</titulo>
+					<ano>2002</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SOUZA, P.;FREITAS, A. L. C.Uma Avaliação da Conectividade a Banco de Dados MySQL Utilizando a Linguagem Java em Modelo Cliente Servidor. In: I Mostra de Produção Universitária, 2002, Rio Grande - RS. 2002.</titulo>
+					<ano>2002</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>The Essence of Design Patterns In Automatic Identification Tool. In: IV Congresso Brasileiro de Computação, 2004, Itajai - SC.-. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Um Sistema de Banco de Dados Replicado Gerenciado através de Applets Distribuídas. In: III Simpósio de Informática da Região Centro do RS, 2004, Santa Maria - RS. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Inspeção de Aplicações JAVA através da Identificação de Padrões de Projeto. In: III Congresso Brasileiro de Computação, 2003, Itajai - SC.III Congresso Brasileiro de Computação. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Proposta de um Sistema de Banco de Dados Distribuído e Replicado utilizando Serviço RMI-JAVA. In: III Congresso Brasileiro de Computação, 2003, Itajai - SC.III Congresso Brasileiro de Computação. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;PRICE, A. M. A.Uma Ferramenta de Inspeção para Aplicações Java Utilizando Reflexão Computacional. In: II Congresso Brasileiro de Computação, 2002, Itajai - SC.II Congresso Brasileiro de Computação. 2002.</titulo>
+					<ano>2002</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;PRICE, A. M. A.Design Patterns Automatic Identification Tool. In: Asse Argentine Symposiun On Software Engineering, 2000, Tandil - Argentina. 2000.</titulo>
+					<ano>2000</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;PRICE, A. M. A.Disponibilizando o uso de Design Patterns através de um framework construído em PROLOG++. In: I Simpósio Catarinense de Computação, 2000, Itajai - SC. 2000.</titulo>
+					<ano>2000</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;PRICE, A. M. A.Heuristics for Automatic Detection of Design Patterns in Object-Oriented Software. In: V WTES - SBES Simpósio Brasileiro de Engenharia de Software, 2000, João Pessoa - PB. 2000.</titulo>
+					<ano>2000</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;PRICE, A. M. A.Formalização de Heurísticas para Apoiar a Modelagem de Sistemas Orientados a Objetos. In: XII Sbes Simpósio Brasileiro Em Engenharia de Software, 1998, Maringá - PR. 1998.</titulo>
+					<ano>1998</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;PRICE, A. M. A.Heurísticas para Apoioar a Modelagem de Sistemas Orientados a Objetos. In: Semana Acadêmica - UFRGS, 1997, Porto Alegre - RS. 1997.</titulo>
+					<ano>1997</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>CARNEIRO, A.P.;MOREIRA, J.L.;FREITAS, A. L. C.Um Estudo sobre Técnicas de Otimização de Banco de Dados. In: Seminário de Informática, 2008, Torres - RS.Seminário de Informática. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>CARNEIRO, A.P.;MOREIRA, J.L.;FREITAS, A. L. C.TUNING - Técnicas de Otimização de Banco de Dados. Um Estudo Comparativo: Mysql e Postgresql. In: V Escola Regional de Banco de Dados, 2009, Ijuí - RS.V Escola Regional de Banco de Dados. 2009.</titulo>
+					<ano>2009</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MADSEN, C. A. B. W.;FREITAS, A. L. C.AXUL - Um framework PHP para a geração de interfaces XUL. In: VIII Mostra de Produção Universitária, 2009, Rio Grande.XI ENCONTRO DE PÓS-GRADUAÇÃO. 2009.</titulo>
+					<ano>2009</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, L.A.A.;FREITAS, A. L. C.Há, em Freire, Espaços na Educação a Distância para a Possibilidade de Conscientização?. In: XIII Fórum de Estudos: Leituras de Paulo Freire, 2011, Santa Rosa - RS.XIII Fórum de Estudos: Leituras de Paulo Freire. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;FREITAS, L.A.A.Problematizando a Educação Conscientizadora na Promoção da Atividade de Integração Curricular. In: XIII Fórum de Estudos: Leituras de Paulo Freire, 2011, Santa Rosa - RS.XIII Fórum de Estudos: Leituras de Paulo Freire. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;FREITAS, L.A.A.Re-significando as Atividades em Sala de Aula. In: I Encontro Internacional de Educação e IV Encontro Municipal de Educação, 2011, Piratini - RS.Escola:espaço de sonhos,construção e possibilidades. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;FREITAS, L.A.A.Refletindo Sobre as Verdades no Espaço Tempo da Sala de Aula. In: V Colóquio Internacional "Educação e Contemporaneidade", 2011, São Cristóvão.A Etnomatemática como Aporte às Práticas de Ensino na Educação de Jovens e Adultos. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;FREITAS, L.A.A.A Promoção da Atividade de Integração Curricular no Espaço Tempo Sala de Aula. In: VII Congresso Internacional de Educação, 2011, São Leopoldo.Profissão Docente: Há Futuro para este Ofício?. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;FREITAS, L.A.A.A Produção de Recursos Tecnológicos na Atividade de Integração Curricular. In: I Fórum Internacional Sobre Prática Docente Universitária, 2011, Uberlânida.Inclusão Social e Tecnologias de Informação e Comunicação. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, L.A.A.;FREITAS, A. L. C.As Práticas Educativas a Serviço da Transformação Social: pela Sustentabilidade da Vida. In: V Colóquio Internacional "Educação e Contemporaneidade", 2011, São Cristóvão.A Etnomatemática como Aporte às Práticas de Ensino na Educação de Jovens e Adultos. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;FREITAS, L.A.A.Ressignificando as Atividades no Espaço Tempo da Sala de Aula. In: X Congresso Nacional de Educação - EDUCERE, 2011, Curitiba.Formação para mudanças no contexto da educação: políticas, representações sociais e práticas. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;FREITAS, L.A.A.A Atividade de Integração Curricular no Espaço Tempo da Sala de Aula. In: X Congresso Nacional de Educação ? EDUCERE, 2011, Curitiba.Formação para mudanças no contexto da educação: políticas, representações sociais e práticas. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, L.A.A.;FREITAS, A. L. C.A Prática Docente a Serviço da Transformação Social. In: X Congresso Nacional de Educação ? EDUCERE, 2011, Curitiba.Formação para mudanças no contexto da educação: políticas, representações sociais e práticas. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;FREITAS, L.A.A.Compreendendo a Atividade de Integração Curricular no Espaço Tempo da Sala de Aula. In: V Seminário Diálogos com Paulo Freire, 2011, Pelotas.Das Práticas Escolares às Pedagogias das Marchas. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;FREITAS, L.A.A.O Exercício, em Freire, da Conscientização Apoiado no Uso de Tecnologias na Educação. In: I Seminário Diálogos em Educação a Distância, 2012, Rio Grande.Seminário Diálogos em Educação a Distância. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;FREITAS, L.A.A.A Conscientização em Espaços Menores: o inacabamento do professor. In: XIV Fórum de Estudos: Leituras de Paulo Freire, 2012, Erechim.Educação Popular e Transformação Social. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, L.A.A.;FREITAS, A. L. C.A Conscientização, em Freire, Apoiada no Uso de Tecnologias na Educação a Distância. In: XIV Fórum de Estudos: Leituras de Paulo Freire, 2012, Erechim.Educação Popular e Transformação Social. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;FREITAS, L.A.A.;SPEROTTO, R. I.Experienciações no Espaço Tempo da Sala de Aula: Em que condições são possíveis integrar os saberes?. In: IX Seminário de Pesquisa em Educação da Região Sul - ANPED Sul, 2012, Caxias do Sul.A Pós-Graduação e as suas Interlocuções com a Educação Básica. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;FREITAS, L.A.A.Experienciações no Espaço Tempo da Sala de Aula:A tecnologia a favor da integração dos saberes. (aceito - não apresentado). In: IV Congresso Internacional de Educação, Pesquisa e Gestão, 2012, Ponta Grossa.Políticas e Práticas Educacionais. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;FREITAS, L.A.A.Da Educação Bancária a Educação Problematizadora: Os espaços menores entre esse extremos e a sua contribuição para o ensinar e o aprender. Em que medida isso é possível? (aceito - não apresentado). In: II Fórum Internacional sobre Prática Docente Universitária, 2012, Uberlândia.Planejamento e Avaliação no Contexto Glocal. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;FREITAS, L.A.A.Da Educação Bancária a Educação Problematizadora: Desvelando os espaços menores entre esses extremos e as contribuições para o ensinar e o aprender. In: VI Seminário Nacional Diálogos com Paulo Freire, 2012, Santa Maria.Educação, cultura e resistências na sociedade contemporânea. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;FREITAS, L.A.A.Inacabamento e Autonomia: constituindo relações educativas dialógicas. In: XV Fórum de Estudos Leituras de Paulo Freire, 2013, Taquara - RS.Fórum de estudos: leituras de Paulo Freire. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, L.A.A.;FREITAS, A. L. C.Freire e Marx: os caminhos da dialética. In: XV Fórum de Estudos Leituras de Paulo Freire, 2013, Taquara - RS.Fórum de estudos: leituras de Paulo Freire. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;FREITAS, L.A.A.Das Relações Dialógicas Apoiadas na Utilização de Tecnologias à Tomada de Consciência. In: II Seminário Diálogos em Educação a Distância, 2013, Rio Grande - RS.Desafios da Interatividade: Convergência entre Mídias e suas Linguagens. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;FREITAS, L.A.A.Reflexão e Ação como Atitutde de Conscientização. In: XI Congresso Nacional de Educação - EDUCERE 2013, 2013, Curitiba.Formação docente e sustentabilidade: um olhar transdiciplinar. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, L.A.A.;FREITAS, A. L. C.Educação Ambiental Transformadora: Conhecer para Transformar, Uma Proposta Marixana. In: XI Congresso Nacional de Educação - EDUCERE 2013, 2013, Curitiba.Formação docente e sustentabilidade: um olhar transdiciplinar. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;FREITAS, L.A.A.Da Educação Bancária a Educação Problematizadora: Espaços Educativos Diferenciados e Sua Contribuição para o Ensinar e o Aprender. In: VII Colóquio Internacional Educação e Contemporaneidade, 2013, São Cristovão.-. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, L.A.A.;FREITAS, A. L. C.Por uma Educação Ambiental Transformadora: Conhecer para Transformar. In: VII Colóquio Internacional Educação e Contemporaneidade, 2013, São Cristovão.-. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;FREITAS, L.A.A.Do Diálogo Socrático ao Diálogo Crítico: Reflexão e Ação como Atitude de Conscientizaçã0. In: VIII Colóquio Internacional Paulo Freire, 2013, Recife.Educação como Prática de Liberdade: Saberes, Vivências e (Re) Leituras de Paulo Freire. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, L.A.A.;FREITAS, A. L. C.Freire e Marx, Os Caminhos da Dialética: Ação e Reflexão para Transformação. In: VIII Colóquio Internacional Paulo Freire, 2013, Recife.Educação como Prática de Liberdade: Saberes, Vivências e (Re) Leituras de Paulo Freire. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;FREITAS, L.A.A.O Diálogo Crítico em Freire: Reflexão e Ação como Atitude de Conscientização. In: IV Seminário Internacional de Educação, 2013, São Paulo.Paulo Freire e a Educação Superior. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;FREITAS, L.A.A.Problematizando a Esperança na Obra de Paulo Freire: Um Diálogo com Outros Autores. In: XVI Fórum de Estudos Leituras de Paulo Freire, 2014, Santo Ângelo.Criatividade e Boniteza em Paulo Freire. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, L.A.A.;FREITAS, A. L. C.Paulo Freire e a Fenomenologia: Tecendo Fios por entre Outros Autores. In: XVI Fórum de Estudos Leituras de Paulo Freire, 2014, Santo Ângelo.Criatividade e Boniteza em Paulo Freire. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;FREITAS, L.A.A.Paulo Freire e a Educação Contemporânea: Tecendo Fios por Entre a Fenomenologia. In: VIII COLÓQUIO INTERNACIONAL EDUCAÇÃO E CONTEMPORANEIDADE, 2014, São Cristóvão - SE.EDUCAÇÃO E CONTEMPORANEIDADE. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, L.A.A.;FREITAS, A. L. C.A Educação Profissional Técnica de Nível Médio: A Identidade Profissional dos Professores. In: VIII COLÓQUIO INTERNACIONAL EDUCAÇÃO E CONTEMPORANEIDADE, 2014, São Cristóvão - SE.EDUCAÇÃO E CONTEMPORANEIDADE. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;FREITAS, L.A.A.Como as transformações nas estratégias pedagógicas, suas relações imbricadas com o inacabamento e autonomia, promovem o aprendizado do professor?. In: X ANPED Sul, 2014, Florianópolis.A pesquisa em educação na Região Sul: percursos e tendências. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, L.A.A.;FREITAS, A. L. C.Sobre a identidade profissional dos docentes da Educação Profissional Técnica de Nível Médio ? Forma Integrada. In: X ANPED Sul, 2014, Florianópolis.A pesquisa em educação na Região Sul: percursos e tendências. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;FREITAS, L.A.A.As transformações nas estratégias pedagógicas e suas relações imbricadas com o inacabamento e autonomia promovem o aprendizado do professor?. In: Congresso Ibero-Americano de Humanidades, Ciências e Educação, 2014, Criciuma - SC.Perspectivas Contemporâneas. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, L.A.A.;FREITAS, A. L. C.O papel ético-político da Educação na superação da crise socioambiental. In: Congresso Ibero-Americano de Humanidades, Ciências e Educação, 2014, Criciuma - SC.Perspectivas Contemporâneas. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, L.A.A.;FREITAS, A. L. C.A crise socioambiental: uma crise civilizatória. In: VI EDEA - Encontro Diálogos com a Educação Ambiental, 2014, Rio Grande - RS.Constituindo Educadores Ambientais. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;FREITAS, L.A.A.(Re) Visitando Paulo Freire: A Educação a Serviço dos Direitos Humanos. In: VIII Seminário Nacional: Diálogos com Paulo Freire, 2014, Bento Gonçalves.Por uma Pedagogia dos Direitos Humanos. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;FREITAS, L.A.A.A Proposta Dialético-Dialógica em Paulo Freire. In: XVII Fórum de Estudos Leituras de Paulo Freire, 2015, Santa Maria - RS.Educar com seriedade sim, mas com alegria! As classes populares na escola pública. 2015.</titulo>
+					<ano>2015</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, L.A.A.;FREITAS, A. L. C.A humanização em Paulo Freire: Vocação ontológica dos seres humanos. In: XVII Fórum de Estudos Leituras de Paulo Freire, 2015, Santa Maria - RS.Educar com seriedade sim, mas com alegria! As classes populares na escola pública. 2015.</titulo>
+					<ano>2015</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, L.A.A.;FREITAS, A. L. C.A Humanização em Paulo Freire. In: IX Colóquio Internacional Educação e Contemporaneidade, 2015, São Cristóvão.Educação e Contemporaneidade. 2015.</titulo>
+					<ano>2015</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;FREITAS, L.A.A.A vocação ontológica do ser mais: 'situações-limites' - Aproximando Freire e Vieira Pinto. In: XII Congresso Nacional de Educação - EDUCERE, 2015, Curitiba - PR.Formação de professores, complexidade e trabalho docente. 2015.</titulo>
+					<ano>2015</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, L.A.A.;FREITAS, A. L. C.A esperança em Paulo Freire: Diálogo com outros autores. In: XII Congresso Nacional de Educação - EDUCERE, 2015, Curitiba - PR.Formação de professores, complexidade e trabalho docente. 2015.</titulo>
+					<ano>2015</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;FREITAS, L.A.A.O ser humano como sujeito crítico com atuação e intencionalidade. In: XVIII Fórum de Estudos: Leituras de Paulo Freire, 2016, Jaguarão - RS.Fronteiras freireanas: Diálogos e trajetórias. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>ROSA, F. B.;FREITAS, L.A.A.;FREITAS, A. L. C.A categoria inacabamento e o processo de formação permanente de professores. In: XVIII Fórum de Estudos: Leituras de Paulo Freire, 2016, Jaguarão - RS.Fronteiras freireanas: Diálogos e trajetórias. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>ALTENHOFEN, I.;TOLEDO, F. P.;FREITAS, A. L. C.Uma interface gráfica para geração automática de esquemas no MongoDB. In: 15a Mostra de Produção Universitária - FURG, 2016, Rio Grande - RS.-. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, L.A.A.;FREITAS, A. L. C.De Marx a Gramsci: Em busca da contra-hegemonia. In: I Jornada Internacional de Estudos e Pesquisas em Antonio Gramsci, 2016, Fortaleza - CE.Práxis. Formação humana e a luta por uma nova hegemonia. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>GONCAVES, V. V.;FREITAS, A. L. C.;ROSTAS, M. H.A escola como aparelho ideológico, uma visão gramsciana sobre a educação. In: I Jornada Internacional de Estudos e Pesquisas em Antonio Gramsci, 2016, Fortaleza - CE.Práxis. Formação humana e a luta por uma nova hegemonia. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;FREITAS, L.A.A.O processo de humanização: os movimentos de ação-reflexão. In: XIX Fórum de estudos: leituras de Paulo Freire, 2017, Rio Grande.Reinventando Paulo Freire na atualidade: pedagogias na luta contra as opressões. 2017.</titulo>
+					<ano>2017</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, L.A.A.;FREITAS, A. L. C.Cultura e diálogo em Paulo Freire. In: XIX Fórum de estudos: leituras de Paulo Freire, 2017, Rio Grande.Reinventando Paulo Freire na atualidade: pedagogias na luta contra as opressões. 2017.</titulo>
+					<ano>2017</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;FREITAS, L.A.A.A FORMAÇÃO PERMANENTE DE EDUCADORES NO PENSAMENTO DE PAULO FREIRE. In: XIII - Congresso Nacional de Educação - EDUCERE, 2017, Curitiba.Formação de professores: contextos, sentidos e práticas. 2017.</titulo>
+					<ano>2017</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, L.A.A.;FREITAS, A. L. C.O PROCESSO DE HUMANIZAÇÃO: OS MOVIMENTOS DE AÇÃO-REFLEXÃO NA OBRA DE FREIRE. In: XIII - Congresso Nacional de Educação - EDUCERE, 2017, Curitiba.Formação de professores: contextos, sentidos e práticas. 2017.</titulo>
+					<ano>2017</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FREITAS, A. L. C.;FREITAS, L.A.A.Paulo Freire, por uma proposta dialético-dialógica. In: IX Colóquio Internacional Educação e Contemporaneidade, 2015, São Cristóvão.Educação e Contemporaneidade. 2015.</titulo>
+					<ano>2015</ano>
+					<idAresta></idAresta>
+				</producao>
+			</producoes>
+		</nodo>
+		<nodo>
+			<id>7250395159742188</id>
+			<label>Verislene de Jesus Santana Alves</label>
+			<dataAtualizacao>19012017</dataAtualizacao>
+			<numeroDeProducoes>0</numeroDeProducoes>
+			<numeroDeProducoesPorAno>
+			</numeroDeProducoesPorAno>
+			<producoes>
+			</producoes>
+		</nodo>
+		<nodo>
+			<id>5851601274050374</id>
+			<label>Eduardo Nunes Borges</label>
+			<dataAtualizacao>06092017</dataAtualizacao>
+			<numeroDeProducoes>64</numeroDeProducoes>
+			<numeroDeProducoesPorAno>
+				<ano value="2004">6</ano>
+				<ano value="2005">2</ano>
+				<ano value="2006">1</ano>
+				<ano value="2007">3</ano>
+				<ano value="2008">2</ano>
+				<ano value="2009">1</ano>
+				<ano value="2010">3</ano>
+				<ano value="2011">7</ano>
+				<ano value="2012">8</ano>
+				<ano value="2013">2</ano>
+				<ano value="2014">4</ano>
+				<ano value="2015">4</ano>
+				<ano value="2016">15</ano>
+				<ano value="2017">6</ano>
+			</numeroDeProducoesPorAno>
+			<producoes>
+				<producao>
+					<titulo>Borges, Eduardo N.;CONY, Carlos Akcelrud;ALMEIDA, Caetano Schlabitz de;FREITAS, André Luis Castro de.Sistema de Gerenciamento de Filiados à Associação Classista do Pessoal Técnico Administrativo da FURG. In: III Mostra de Produção Universitária, 2004, Rio Grande.Anais da III MPU / FURG. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta>1</idAresta>
+				</producao>
+				<producao>
+					<titulo>ALMEIDA, Caetano Schlabitz de;CONY, Carlos Akcelrud;Borges, Eduardo N.;ASMUS, Milton Lafourcade;NOBRE, Lucia Regina.Sistema de Controle de Pós Graduação. In: III Mostra de Produção Universitária, 2004, Rio Grande.Anais da III MPU / FURG. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>CONY, Carlos Akcelrud;ALMEIDA, Caetano Schlabitz de;VIEIRA, João Paes;Borges, Eduardo N.;NOBRE, Lucia Regina.Sistema de Controle de Pesquisa na Fundação Universidade Federal do Rio Grande. In: III Mostra de Produção Universitária, 2004, Rio Grande.Anais da III MPU / FURG. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Borges, Eduardo N.;CONY, Carlos Akcelrud;FREITAS, André Luis Castro de.Utilização de Algoritmos de Busca por Similaridade em SGBDs Comerciais. In: Simpósio de Informática da Região Centro do RS, 2005, Santa Maria.Anais do Simpósio de Informática da Região Centro do RS. 2005.</titulo>
+					<ano>2005</ano>
+					<idAresta>3</idAresta>
+				</producao>
+				<producao>
+					<titulo>ALMEIDA, Caetano Schlabitz de;CONY, Carlos Akcelrud;VIEIRA, João Paes;Borges, Eduardo N.;NOBRE, Lucia Regina.Sistema de Controle de Pesquisa na Fundação Universidade Federal do Rio Grande. In: XIII CIC - Congresso de Iniciação Científica, 2004, Pelotas.Anais do XIII CIC / UFPEL. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>CONY, Carlos Akcelrud;ALMEIDA, Caetano Schlabitz de;Borges, Eduardo N.;ASMUS, Milton Lafourcade.Sistema de Controle de Pós Graduação. In: XIII CIC - Congresso de Iniciação Científica, 2004, Pelotas.Anais do XIII CIC / UFPEL. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Borges, Eduardo N.;CONY, Carlos Akcelrud;ALMEIDA, Caetano Schlabitz de;FREITAS, André Luis Castro de.Sistema de Gerenciamento de Filiados à Associação Classista do Pessoal Técnico Administrativo da FURG. In: XIII CIC - Congresso de Iniciação Científica, 2004, Pelotas.Anais do XIII CIC / UFPEL. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta>1</idAresta>
+				</producao>
+				<producao>
+					<titulo>CONY, Carlos Akcelrud;Borges, Eduardo N.;FREITAS, André Luis Castro de.Módulo de Pesquisa por Similaridade no SGBD Comercial PostgreSQL. In: IV Mostra de Produção Universitária, 2005, Rio Grande.Anais da IV MPU / FURG. 2005.</titulo>
+					<ano>2005</ano>
+					<idAresta>2</idAresta>
+				</producao>
+				<producao>
+					<titulo>Borges, Eduardo N.;DORNELES, Carina Friedrich.PgSimilar: Uma ferramenta open source para suporte a consultas por similaridade no PostgreSQL. In: III Sessão de Demos - Simpósio Brasileiro de Bancos de Dados, 2006, Florianópolis.Anais da III Sessão de Demos / XXI Simpósio Brasileiro de Banco de Dados. 2006.</titulo>
+					<ano>2006</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Borges, Eduardo N.;GALANTE, Renata de Matos.Um mecanismo para identificação, representação e consulta de versões de objetos XML oriundos de bibliotecas digitais. In: XVI Semana Acadêmica do Programa de Pós Graduação em Computação - UFRGS, 2007, Porto Alegre.XVI Semana Acadêmica do PGCC - UFRGS. 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Borges, Eduardo N.;GALANTE, Renata de Matos.Um mecanismo para identificação, representação e consulta de versões de objetos XML oriundos de bibliotecas digitais. In: VI Workshop de Teses e Dissertações em Bancos de Dados - WTDBD, 2007, João Pessoa.Anais do VI Workshop de Teses e Dissertações em Bancos de Dados / XXII Simpósio Brasileiro de Banco de Dados. 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Borges, Eduardo N.;GALANTE, Renata de Matos.Um mecanismo automático para detectar versões de objetos XML provenientes de bibliotecas digitais. In: III Workshop on Digital Libraries - WDL, 2007, Gramado.Proceedings of the XIII Brazilian Symposium on Multimedia and the Web - WebMedia 2007. 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Borges, Eduardo N.;GALANTE, Renata de Matos;GONÇALVES, Marcos André.Uma Abordagem Efetiva e Eficiente para Deduplicação de Metadados Bibliográficos de Objetos Digitais. In: XXIII Simpósio Brasileiro de Bancos de Dados - SBBD, 2008, Campinas.Anais do XXIII Simpósio Brasileiro de Bancos de Dados. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SILVA, Maria Estela Vieira da;Borges, Eduardo N.;GALANTE, Renata de Matos.XSimilarity : Uma Ferramenta para Consultas por Similaridade embutidas na Linguagem XQuery. In: IV Escola Regional de Bancos de Dados - ERBD, 2008, Florianópolis.Anais da IV Escola Regional de Bancos de Dados. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Scholem, Tyron Wittee Neetzow;Borges, Eduardo N.;Marchiori, Maria Ostilia;Romanowski, Helena Piccoli.BorbRS 2: aperfeiçoamento de uma base de dados de borboletas (Lepidoptera: Papilionoidea e Hesperioidea) do Rio Grande do Sul. In: Salão de Iniciação Científica, 2009, Porto Alegre.Anais do XXI Salão de Iniciação Científica. 2009.</titulo>
+					<ano>2009</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>da Silva, Rafael S.;Borges, Eduardo N.;Krusche, Nisia.Manutenção das Aplicações Web de Acesso e Gerência do Banco de Dados Meteorológicos da FURG. In: Congresso Regional de Iniciação Científica e Tecnológica em Engenharia - CRICTE, 2010, Rio Grande.Anais do XXIV CRICTE. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>da Silva, Rafael S.;Borges, Eduardo N.;Krusche, Nisia.Atualização do Sistema de Gerenciamento do Banco de Dados Meteorológicos da FURG. In: IX Mostra de Produção Universitária da FURG, 2010, Rio Grande.Anais da IX MPU / FURG. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Otero, Tiago F.;Borges, Eduardo N.;Adamatti, Diana Francisca.Identificação de Registros Duplicados nos Cadastros da ONIP. In: IX Mostra de Produção Universitária da FURG, 2010, Rio Grande.Anais da IX MPU / FURG. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LAENDER, Alberto H. F.;Barbosa, Eduardo M.;Borges, Eduardo N.;Cortez, Eli;Procópio Jr., Peterson;de Alencar, Rafael Odon;Cardoso, Thiago N. C.;Salles, Thiago;Moro, Mirella M.;Silva, Altigran S.;Davis Jr., Clodoveu A.;GONÇALVES, Marcos André;Galante, Renata;Silva, Allan J. C.;Bigonha, Carolina A. S.;Dalip, Daniel Hasan.CiênciaBrasil - The Brazilian Portal of Science and Technology. In: XXXVIII Seminário Integrado de Software e Hardware - SEMISH, 2011, Natal.XXX Congresso da Sociedade Brasileira de Computação. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Borges, Eduardo N.;Becker, Karin;HEUSER, Carlos A.;Galante, Renata.An Automatic Approach for Duplicate Bibliographic Metadata Identification Using Classification. In: 2011 30th International Conference of the Chilean Computer Science Society (SCCC), , Curico.2011 30th International Conference of the Chilean Computer Science Society. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Borges, Eduardo N.;Becker, Karin;HEUSER, Carlos A.;GALANTE, Renata de Matos.A Classification-based Approach for Bibliographic Metadata Deduplication. In: IADIS International Conference WWW/Internet, 2011, Rio de Janeiro.Proceedings of the IADIS International Conference WWW/Internet 2011. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>PEREIRA, Igor A.;Borges, Eduardo N.;Vargas, André P.Uma arquitetura para pesquisa por relevância baseada em critérios. In: X Mostra de Produção Universitária da FURG, 2011, Rio Grande.Anais da X MPU / FURG. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FARIAS, Lucas R.;Vargas, André P.;Borges, Eduardo N.Rede de pesquisa da FURG. In: X Mostra de Produção Universitária da FURG, 2011, Rio Grande.Anais da X MPU / FURG. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Otero, Tiago F.;FARIAS, Lucas R.;da Silva, Rafael S.;Borges, Eduardo N.;Vargas, André P.;Adamatti, Diana Francisca.Uma ferramenta para coleta e análise de dados do segmento naval. In: X Mostra de Produção Universitária da FURG, 2011, Rio Grande.Anais da X MPU / FURG. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FARIAS, Lucas R.;Vargas, André P.;Borges, Eduardo N.Um sistema para análise de redes de pesquisa baseado na Plataforma Lattes. In: Escola Regional de Banco de Dados, 2012, Curitiba.Anais da VIII Escola Regional de Banco de Dados. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Otero, Tiago F.;FARIAS, Lucas R.;Vargas, André P.;Borges, Eduardo N.Uma ferramenta para coleta e análise de dados do segmento naval. In: Escola Regional de Banco de Dados, 2012, Curitiba.Anais da VIII Escola Regional de Banco de Dados. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Borges, Eduardo N.;PEREIRA, Igor A.;TOMASINI, C.;Vargas, André P.ARGOsearch: an information retrieval system based on text similarity and extensible relevance criteria. In: XXXI International Conference of the Chilean Computer Science Society (SCCC), 2012, Valparaíso.Proceedings of the International Conference of the Chilean Computer Science Society. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>PEREIRA, Igor A.;TOMASINI, C.;Borges, Eduardo N.;Vargas, André P.Um mecanismo de busca para sistemas de gerenciamento de bibliotecas baseado em critérios de relevância extensíveis. In: V Conferência Sul em Modelagem Computacional - MCSul, 2012, Rio Grande.Anais da V Conferência Sul em Modelagem Computacional. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>TOMASINI, C.;PEREIRA, Igor A.;Borges, Eduardo N.;Vargas, André P.Módulo de critérios de relevância para o ARGOsearch. In: XI Mostra de Produção Universitária da FURG, 2012, Rio Grande.Anais da XI MPU / FURG. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Lucca, G.;FARIAS, Lucas R.;LOPES, G. R.;Vargas, André P.;Borges, Eduardo N.Um componente de software para análise de redes de colaboração acadêmica. In: XI Mostra de Produção Universitária da FURG, 2012, Rio Grande.Anais da XI MPU / FURG. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>PEREIRA, Igor A.;TOMASINI, C.;Borges, Eduardo N.;Vargas, André P.Validação do mecanismo de busca ARGOsearch para o sistema de gerenciamento de bibliotecas da FURG. In: XI Mostra de Produção Universitária da FURG, 2012, Rio Grande.Anais da XI MPU / FURG. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FARIAS, Lucas R.;Lucca, G.;LOPES, G. R.;Vargas, André P.;Borges, Eduardo N.Uma ferramenta para visualização e análise de redes de pesquisa. In: XI Mostra de Produção Universitária da FURG, 2012, Rio Grande.Anais da XI MPU / FURG. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>GONCALVES, C. R.;Botelho, Silvia S. da Costa;CARVALHO, J. T.;HAX, V. A.;DUARTE FILHO, Nelson Lopes;Borges, Eduardo N.;PENNA, R.;BEM, R. A.Programa de Capacitação em TI Voltado para Soluções Aplicadas à Área Naval e Offshore. In: XIV Seminário de Extensão, 2011, Rio Grande.Anais da X MPU / FURG. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Lucca, G.;PEREIRA, Igor A.;Vargas, André P.;Borges, Eduardo N.Uma implementação do algoritmo Naïve Bayes para classificação de texto. In: Escola Regional de Banco de Dados, 2013, Camboriú.Anais da IX Escola Regional de Banco de Dados. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>TOMASINI, C.;Vargas, André P.;Borges, Eduardo N.Uma implementação de feedback da relevância utilizando o algoritmo Rocchio. In: Escola Regional de Banco de Dados, 2013, Camboriú.Anais da IX Escola Regional de Banco de Dados. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>PINHEIRO, R. F.;LINDENAU, G.;ZIMMERMANN, A. F.;Borges, Eduardo N.Um aplicativo para integração de contatos em dispositivos android. In: Congresso Regional de Iniciação Científica e Tecnológica em Engenharia, 2014, Alegrete.Anais do CRICTE 2014. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>BRANDAO, A. F. Z.;LINDENAU, G.;PINHEIRO, R. F.;Borges, Eduardo N.Análise e integração de dados em dispositivos móveis. In: XIII Mostra de Produção Universitária da FURG, 2014, Rio Grande.Anais da XIII MPU / FURG. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MACIEL, T. V.;SEUS, V.;Machado, Karina;Borges, Eduardo N.Mineração de Dados em Triagem de Risco de Saúde. In: VI Conferência Sul em Modelagem Computacional - MCSul, 2014, Rio Grande.Anais do 6º MCSul - Conferência Sul em Modelagem Computacional. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>BARBAT, M. M.;COLETO, J. L.;GOULART, M. G.;TEIXEIRA, E. P.;Machado, Karina;Borges, Eduardo N.Extração de conhecimento a partir de bancos de dados oceanográficos mistos. In: VI Conferência Sul em Modelagem Computacional - MCSul, 2014, Rio Grande.Anais do 6º MCSul - Conferência Sul em Modelagem Computacional. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>NUNES, E. A.;PINHEIRO, R. F.;MACHADO, R. F.;LINDENAU, G.;Borges, Eduardo N.Uma análise de aplicativos para gerência de contatos no sistema Android. In: XIV Mostra de Produção Universitária da FURG, 2015, Rio Grande.Anais da XIV MPU / FURG. 2015.</titulo>
+					<ano>2015</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>PINHEIRO, R. F.;MACHADO, R. F.;NUNES, E. A.;LINDENAU, G.;Borges, Eduardo N.Uma interface gráfica de usuário para o aplicativo DeDup. In: XIV Mostra de Produção Universitária da FURG, 2015, Rio Grande.Anais da XIV MPU / FURG. 2015.</titulo>
+					<ano>2015</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MACHADO, R. F.;LINDENAU, G.;PINHEIRO, R. F.;NUNES, E. A.;Borges, Eduardo N.Identificação de contatos duplicados com o classificador C4.5. In: XIV Mostra de Produção Universitária da FURG, 2015, Rio Grande.Anais da XIV MPU / FURG. 2015.</titulo>
+					<ano>2015</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>PINHEIRO, R. F.;MACHADO, R. F.;NUNES, E. A.;Borges, Eduardo N.DeDup: um Aplicativo para Deduplicação de Contatos em Dispositivos Android. In: Escola Regional de Banco de Dados, 2016, Londrina.Anais da XII ERBD. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MACHADO, R. F.;PINHEIRO, R. F.;NUNES, E. A.;Borges, Eduardo N.Identificação de contatos duplicados em dispositivos móveis utilizando similaridade textual. In: Escola Regional de Banco de Dados, 2016, Londrina.Anais da XII ERBD. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SANTOS, R. C. M.;Borges, Eduardo N.;Machado, Karina.Uma Avaliação de Algoritmos para Mineração de Dados Disponíveis na Web. In: Escola Regional de Banco de Dados, 2016, Londrina.Anais da XII ERBD. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LINDENAU, G.;MACHADO, R. F.;PINHEIRO, R. F.;NUNES, E. A.;Borges, Eduardo N.Agrupamento de registros duplicados no aplicativo DeDup. In: XIV Mostra de Produção Universitária da FURG, 2015, Rio Grande.Anais da XIV MPU / FURG. 2015.</titulo>
+					<ano>2015</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MACHADO, R. F.;PINHEIRO, R. F.;Machado, Karina;Borges, Eduardo N.Deduplicação de Contatos em Dispositivos Móveis Utilizando Similaridade Textual e Aprendizado de Máquina. In: Simpósio Brasileiro de Sistemas de Informação, 2016, Florianópolis.Anais do XII Simpósio Brasileiro de Sistemas de Informação. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>PEREIRA JR., S.;SCHIAVO, P.;CAMARGO, A.;Borges, Eduardo N.;DIMURO, G.Uma Abordagem Fuzzy para Medir a Similaridade entre Usuários de Streaming na Web. In: Mostra de Produção Universitária da FURG, 2016, Rio Grande.Anais de XV MPU / FURG. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>RODRIGUES, R. B.;JOHANN, G.;FERNANDES, M. P.;Borges, Eduardo N.Estudo da colaboração de grupos de pesquisa do C3 baseado na produção científica coletada da plataforma Lattes. In: Mostra de Produção Universitária da FURG, 2016, Rio Grande.Anais da XV MPU / FURG. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>PINHEIRO, R. F.;Borges, Eduardo N.Agrupamento de contatos por similaridade utilizando estratégias baseadas em grafos. In: Mostra de Produção Universitária da FURG, 2016, Rio Grande.Anais da XV MPU / FURG. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LANES, M. A.;Borges, Eduardo N.Uma análise do impacto da diversidade sobre o resultado do empilhamento de classificadores supervisionados. In: Mostra de Produção Universitária da FURG, 2016, Rio Grande.Anais da XV MPU / FURG. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SCHIAVO, P.;PEREIRA JR., S.;CAMARGO, A.;Borges, Eduardo N.;DIMURO, G.Pré-processamento de Log de Streaming na Web. In: Mostra de Produção Universitária da FURG, 2016, Rio Grande.Anais da XV MPU / FURG. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>JOHANN, G.;FERNANDES, M. P.;RODRIGUES, R. B.;Borges, Eduardo N.Manutenção do módulo de coleta de dados do software Research.Net. In: Mostra de Produção Universitária da FURG, 2016, Rio Grande.Anais da XV MPU / FURG. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>PEREIRA JR, SIDNEI;DIMURO, GRAC'ALIZ;BORGES, EDUARDO;SCHIAVO, PAULA FERNANDA;CAMARGO, ALEX.A Fuzzy Approach to Measure the Similarity Between Web Streaming Users. In: CNMAC 2016 XXXVI Congresso Nacional de Matemática Aplicada e Computacional, 2016, Gramado. 2017.</titulo>
+					<ano>2017</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>RODRIGUES, A. S. P.;Borges, Eduardo N.;BARWALDT, R.;SILVA, T. F.;GRILO, T. P.Um estudo sobre o comportamento alimentar de frangos de corte utilizando mineração de dados. In: Conferência Sul em Modelagem Computacional, 2016, Rio Grande.Anais do VII MCSUL. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FUNCHAL, J. P.;RODRIGUES, A. S. P.;Borges, Eduardo N.Um modelo preditivo para estudo da evasão na graduação utilizando mineração de dados. In: Conferência Sul em Modelagem Computacional, 2016, Rio Grande.Anais do VII MCSUL. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>GAYA, J. F. O.;PEREIRA JR., S.;SCHIAVO, P.;Borges, Eduardo N.;Botelho, Silvia S. da Costa.Análise da mudança de processo seletivo para ingresso no ensino superior usando ferramentas de mineração de dados. In: Conferência Sul em Modelagem Computacional, 2016, Rio Grande.Anais da VII MCSUL. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>TOMASINI, CAROLINE;Emmendorfer, Leonardo;Borges, Eduardo N.;Machado, Karina.A methodology for selecting the most suitable cluster validation internal indices. In: the 31st Annual ACM Symposium, , Pisa.Proceedings of the 31st Annual ACM Symposium on Applied Computing - SAC '16. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Borges, Eduardo N.;PINHEIRO, RAFAEL F.;DIMURO, GRAÇALIZ P.Contact Deduplication in Mobile Devices using Textual Similarity and Machine Learning. In: 19th International Conference on Enterprise Information Systems, 2017, Porto.Proceedings of the 19th International Conference on Enterprise Information Systems. 2017.</titulo>
+					<ano>2017</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>TOMASINI, CAROLINE;N. BORGES, EDUARDO;Machado, Karina;Emmendorfer, Leonardo.A Study on the Relationship between Internal and External Validity Indices Applied to Partitioning and Density-based Clustering Algorithms. In: 19th International Conference on Enterprise Information Systems, 2017, Porto.Proceedings of the 19th International Conference on Enterprise Information Systems. 2017.</titulo>
+					<ano>2017</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LANES, MARIELE;F. SCHIAVO, PAULA;F. PEREIRA JR., SIDNEI;N. BORGES, EDUARDO;Galante, Renata.An Analysis of the Impact of Diversity on Stacking Supervised Classifiers. In: 19th International Conference on Enterprise Information Systems, 2017, Porto.Proceedings of the 19th International Conference on Enterprise Information Systems. 2017.</titulo>
+					<ano>2017</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LANES, M. A.;Borges, Eduardo N.;Galante, Renata.The effects of classifiers diversity on the accuracy of stacking. In: International Conference on Software Engineering Eh Knowledge Engineering, 2017, Pittsburgh.Proceeding of the 29th International Conference on Software Engineering Eh Knowledge Engineering. 2017.</titulo>
+					<ano>2017</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>TOPIN, L. O.;Borges, Eduardo N.;RIBEIRO, L. M.An approach to service suitability based on ITIL practices. In: Simpósio Brasileiro de Sistemas de Informações, 2017, Lavras.Proceedings of the XIII Brazilian Symposium on Information Systems. 2017.</titulo>
+					<ano>2017</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FERNANDES, M. P.;JOHANN, G.;RODRIGUES, R. B.;Borges, Eduardo N.Análise de acurácia da ferramenta scriptLattes na classificação de periódicos junto ao Qualis. In: Mostra de Produção Universitária da FURG, 2016, Rio Grande.Anais da XV MPU / FURG. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta></idAresta>
+				</producao>
+			</producoes>
+		</nodo>
+	</nodos>
+		<arestas>
+			<aresta>
+				<autor1>8252864210379656</autor1>
+				<autor2>5851601274050374</autor2>
+				<anos>
+				<ano valor="2004">
+					<duplicatas>
+						<duplicata>
+						<id>1</id>
+						<indice>0.88</indice>
+						<titulo1>BORGES, E. N.;FREITAS, A. L. C.Gerenciamento de Filiados da Associação Classista do Pessoal Técnico Administrativo da FURG. In: III Mostra de Produção Universitária, 2004, Rio Grande - RS. 2004.</titulo1>
+						<titulo2>Borges, Eduardo N.;CONY, Carlos Akcelrud;ALMEIDA, Caetano Schlabitz de;FREITAS, André Luis Castro de.Sistema de Gerenciamento de Filiados à Associação Classista do Pessoal Técnico Administrativo da FURG. In: III Mostra de Produção Universitária, 2004, Rio Grande.Anais da III MPU / FURG. 2004.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>1</id>
+						<indice>0.88</indice>
+						<titulo1>BORGES, E. N.;FREITAS, A. L. C.Gerenciamento de Filiados da Associação Classista do Pessoal Técnico Administrativo da FURG. In: III Mostra de Produção Universitária, 2004, Rio Grande - RS. 2004.</titulo1>
+						<titulo2>Borges, Eduardo N.;CONY, Carlos Akcelrud;ALMEIDA, Caetano Schlabitz de;FREITAS, André Luis Castro de.Sistema de Gerenciamento de Filiados à Associação Classista do Pessoal Técnico Administrativo da FURG. In: XIII CIC - Congresso de Iniciação Científica, 2004, Pelotas.Anais do XIII CIC / UFPEL. 2004.</titulo2>
+						</duplicata>
+					</duplicatas>
+					<peso>2</peso>
+				</ano>
+				<ano valor="2005">
+					<duplicatas>
+						<duplicata>
+						<id>2</id>
+						<indice>0.91</indice>
+						<titulo1>CONY, C. A.;BORGES, E. N.;FREITAS, A. L. C.Módulo de Pesquisa por Similaridade no SGBD Comercial POSTGRESQL. In: IV Mostra de Produção Universitária, 2005, Rio Grande. 2005.</titulo1>
+						<titulo2>CONY, Carlos Akcelrud;Borges, Eduardo N.;FREITAS, André Luis Castro de.Módulo de Pesquisa por Similaridade no SGBD Comercial PostgreSQL. In: IV Mostra de Produção Universitária, 2005, Rio Grande.Anais da IV MPU / FURG. 2005.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>3</id>
+						<indice>1</indice>
+						<titulo1>CONY, C. A.;BORGES, E. N.;FREITAS, A. L. C.Utilização de Algoritmos de Busca por Similaridade em SGBDs Comerciais. In: IV Simpósio de Informática da Região Centro do Rs, 2005, Santa Maria - RS. 2005.</titulo1>
+						<titulo2>Borges, Eduardo N.;CONY, Carlos Akcelrud;FREITAS, André Luis Castro de.Utilização de Algoritmos de Busca por Similaridade em SGBDs Comerciais. In: Simpósio de Informática da Região Centro do RS, 2005, Santa Maria.Anais do Simpósio de Informática da Região Centro do RS. 2005.</titulo2>
+						</duplicata>
+					</duplicatas>
+					<peso>2</peso>
+				</ano>
+				</anos>
+			</aresta>
+		</arestas>
+</grafo>

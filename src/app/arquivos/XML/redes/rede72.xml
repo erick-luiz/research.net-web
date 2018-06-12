@@ -1,0 +1,1367 @@
+<?xml version='1.0' encoding='UTF-8'?><grafo>
+	<titulo>Grupo de Pesquisa Arte: criação, interdisciplinaridade e educação</titulo>
+	<numeroDeProducoesUnicas>43</numeroDeProducoesUnicas>
+	<numeroDeNodos>2</numeroDeNodos>
+	<numeroDeArestas>1</numeroDeArestas>
+	<anos>
+		<ano valor="1997">
+			<numero-producoes>1</numero-producoes>
+		</ano>
+		<ano valor="2000">
+			<numero-producoes>2</numero-producoes>
+		</ano>
+		<ano valor="2001">
+			<numero-producoes>1</numero-producoes>
+		</ano>
+		<ano valor="2002">
+			<numero-producoes>3</numero-producoes>
+		</ano>
+		<ano valor="2003">
+			<numero-producoes>1</numero-producoes>
+		</ano>
+		<ano valor="2004">
+			<numero-producoes>3</numero-producoes>
+		</ano>
+		<ano valor="2005">
+			<numero-producoes>2</numero-producoes>
+		</ano>
+		<ano valor="2006">
+			<numero-producoes>2</numero-producoes>
+		</ano>
+		<ano valor="2007">
+			<numero-producoes>1</numero-producoes>
+		</ano>
+		<ano valor="2008">
+			<numero-producoes>1</numero-producoes>
+		</ano>
+		<ano valor="2009">
+			<numero-producoes>1</numero-producoes>
+		</ano>
+		<ano valor="2010">
+			<numero-producoes>1</numero-producoes>
+		</ano>
+		<ano valor="2011">
+			<numero-producoes>1</numero-producoes>
+		</ano>
+		<ano valor="2012">
+			<numero-producoes>1</numero-producoes>
+		</ano>
+		<ano valor="2013">
+			<numero-producoes>5</numero-producoes>
+		</ano>
+		<ano valor="2014">
+			<numero-producoes>1</numero-producoes>
+		</ano>
+		<ano valor="2015">
+			<numero-producoes>12</numero-producoes>
+		</ano>
+		<ano valor="2016">
+			<numero-producoes>1</numero-producoes>
+		</ano>
+		<ano valor="2017">
+			<numero-producoes>1</numero-producoes>
+		</ano>
+		<ano valor="2018">
+			<numero-producoes>2</numero-producoes>
+		</ano>
+	</anos>
+	<nodos>
+		<nodo>
+			<id>1129100746134234</id>
+			<label>Leonardo Ramos Emmendorfer</label>
+			<dataAtualizacao>22022018</dataAtualizacao>
+			<numeroDeProducoes>53</numeroDeProducoes>
+			<numeroDeProducoesPorAno>
+				<ano value="1997">1</ano>
+				<ano value="2000">2</ano>
+				<ano value="2001">1</ano>
+				<ano value="2002">3</ano>
+				<ano value="2003">3</ano>
+				<ano value="2004">2</ano>
+				<ano value="2005">2</ano>
+				<ano value="2006">2</ano>
+				<ano value="2007">3</ano>
+				<ano value="2008">1</ano>
+				<ano value="2010">5</ano>
+				<ano value="2011">3</ano>
+				<ano value="2012">5</ano>
+				<ano value="2013">2</ano>
+				<ano value="2014">9</ano>
+				<ano value="2016">4</ano>
+				<ano value="2017">5</ano>
+			</numeroDeProducoesPorAno>
+			<producoes>
+				<producao>
+					<titulo>EMMENDORFER, L. R.;NOGUEIRA, J. H. M.Um Software de Controle de Estados Finitos. In: XIII CRICTE - Congresso Regional de Iniciação Científica e Tecnológica m Engenharia, 1997, Porto Alegre.Proceedings do XIII CRICTE. 1997.</titulo>
+					<ano>1997</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>EMMENDORFER, L. R.;RODRIGUES, Luiz Alberto Diaz.Um Autômato Celular como Modelo para a Sucessão de Plantas Anuais. In: VI ERMAC - Encontro Regional de Matemática Aplicada e Computacional, 2000, Santa Cruz do Sul - RS.Anais do VI ERMAC. 2000.</titulo>
+					<ano>2000</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>EMMENDORFER, L. R.;RODRIGUES, Luiz Alberto Diaz.Espalhamento Geográfico de Epidemias : Contatos Locais e Não Locais. In: CLAB - Congresso Latino Americano de Biomatemática, 2001, Campinas - SP.Anais. 2001.</titulo>
+					<ano>2001</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>EMMENDORFER, L. R.;SALDANHA, Margarete Aparecida Kobus.Aplicações de Sistemas Muitiagentes com ênfase em Algoritmos Genéticos. In: II Encontro de Iniciação Científica, 2002, União da Vitória - PR. 2002.</titulo>
+					<ano>2002</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Modelos Computacionais Para a Dinâmica de Metapopulações Interagentes. In: I Seminário de Pesquisa Docente, 2002, Canoinhas - SC. 2002.</titulo>
+					<ano>2002</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SALDANHA, Margarete Aparecida Kobus;EMMENDORFER, L. R.Aplicações de Sistemas Muitiagentes com ênfase em Algoritmos Genéticos. In: Vi SEDEPE - Seminário de Pesquisa Discente, 2002, Curitibanos - SC.Resumos. 2002.</titulo>
+					<ano>2002</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MOISSA, Fred Helmut;EMMENDORFER, L. R.O uso do computador no diagnóstico de defeitos no sistema de injeção eletrônica. In: VII SEDEPE - Seminário de Pesquisa Discente, 2003, Caçador.Resumos. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta>1</idAresta>
+				</producao>
+				<producao>
+					<titulo>EMMENDORFER, L. R.;MOISSA, Fred Helmut.O uso do computador no diagnóstico de defeitos no sistema de injeção eletrônica. In: II Encontro de Iniciação Científica, 2003, União da Vitória. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta>1</idAresta>
+				</producao>
+				<producao>
+					<titulo>EMMENDORFER, L. R.;WOLF, Edimar.Inteligência Artificial:Simulando o funcionamento .. In: III Encontro de Iniciação Científica, 2003, União da Vitória.Anais. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta>1</idAresta>
+				</producao>
+				<producao>
+					<titulo>EMMENDORFER, L. R.;RODRIGUES, Luiz Alberto Diaz.Um modelo de Autômatos Celulares para Espalhamento Geográfico de Epidemias. In: XXIII CNMAC - Congresso Nacional de Matemática Aplicada e Computacional, 2000, Santos.Resumo das Comunicações. 2000.</titulo>
+					<ano>2000</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>CAVALIN, Cristiane Feltrin;EMMENDORFER, L. R.;MISTRO, Diomar Cristina;RODRIGUES, Luiz Alberto Diaz.Um modelo matemático discreto para a dispersão de febre aftosa em bovinos. In: XXVII CNMAC - Congresso Nacional de Matemática Aplicada e Computacional, 2004, Porto Alegre.Resumos da comunicações. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta>2</idAresta>
+				</producao>
+				<producao>
+					<titulo>SEBBEN, Lucas Giovani;ARIATTI, Marcos Aurélio;EMMENDORFER, L. R.;FELTRIN, Caren Coden.Uma ferramenta computacional para o apoio ao ensino de cálculo diferencial e integral. In: XXVII CNMAC - Congresso Nacional de Matemática Aplicada e Computacional, 2004, Porto Alegre.Resumo da comunicações. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta>2</idAresta>
+				</producao>
+				<producao>
+					<titulo>EMMENDORFER, L. R.;POZO, Aurora Trinidad Ramirez;TRALESKI, Rodrigo.Using Prior Knowledge to Improve the performance of an Estimation of Distribution Algorithm Applied to Feature Selection. In: Fifth International Conference on Hybrid Intelligent Systems., 2005, Rio de Janeiro.Proceedings of the Fifth International Conference on Hybrid Intelligent Systems. 2005.</titulo>
+					<ano>2005</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>EMMENDORFER, L. R.;POZO, Aurora Trinidad Ramirez.Abordagens para a Computação Evolutiva Através do Aprendizado de Máquina e da Inferência Estatística. In: VII Seamana Acadêmica do Programa de Pós-Graduação em Métodos Numéricos em Engenharia, 2006, Curitiba.Caderno de Resumos. 2006.</titulo>
+					<ano>2006</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>RODRIGUES, Luiz Alberto Diaz;MISTRO, Diomar Cristina;CAVALIN, Cristiane Feltrin;EMMENDORFER, L. R.Um modelo matemático discreto para a dispersão de febre aftosa em bovinos. In: IV Congresso Latinoamericano de Biologia Matemática, 2005, Tandil.Anais. 2005.</titulo>
+					<ano>2005</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>EMMENDORFER, L. R.;POZO, Aurora Trinidad Ramirez.Otimização Multimodal através de Computação Evolutiva e Análise de Agrupamentos. In: VI ENIA - Encontro Nacional de Inteligência Artificial, 2007, Rio de Janeiro.XXVII Congresso da Sociedade Brasileira de Computação. 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta>3</idAresta>
+				</producao>
+				<producao>
+					<titulo>EMMENDORFER, L. R.;FELTRIN, Caren Coden;ARIATTI, Marcos Aurélio.Software Calderiv: feramenta computacional para o apoio ao ensino de derivadas. In: VI Encontro de Iniciação Científica, 2006, União da Vitória.Anais. 2006.</titulo>
+					<ano>2006</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>EMMENDORFER, L.R.;POZO, A.T.R.An empirical evaluation of linkage learning strategies for multimodal optimization. In: 2007 IEEE Congress on Evolutionary Computation, 2007, Singapore.2007 IEEE Congress on Evolutionary Computation. 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta>3</idAresta>
+				</producao>
+				<producao>
+					<titulo>EMMENDORFER, L. R.;POZO, Aurora Trinidad Ramirez.An Incremental Approach for Niching and Building Block Detection via Clustering. In: 7th International Conference on Intelligent Systems Design and Applications, 2007, Rio de Janeiro.7th ISDA. 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta>3</idAresta>
+				</producao>
+				<producao>
+					<titulo>CAIUTA, R.;POZO, Aurora Trinidad Ramirez;EMMENDORFER, L. R.;VERGILIO, S.Selecting Software Reliability Models with a Neural Network Meta Classifier. In: International Joint Conference on Neural Networks (IJCNN2008), 2008, Hong Kong.International Joint Conference on Neural Networks (IJCNN2008). 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta>4</idAresta>
+				</producao>
+				<producao>
+					<titulo>EMMENDORFER, L. R.;ADAMATTI, D. F.;SILVEIRA, J.;PAES, T.Detectando Padrões Comportamentais de Agentes Através de Árvores de Decisão. In: IV Workshop-Escola de Sistemas de Agentes, seus Ambientes e apliCações, 2010, Rio Grande.Anais do IV Wesaac. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta>5</idAresta>
+				</producao>
+				<producao>
+					<titulo>On the design of populational clustering. In: International Conference on Evolutionary Computation, 2010, Valencia, Espanha.Proceedings. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta>5</idAresta>
+				</producao>
+				<producao>
+					<titulo>PAES, T.;SILVEIRA, J.;ADAMATTI, D. F.;EMMENDORFER, L. R.Poder de Captura das Árvores de Decisão para o Comportamento de Agentes. In: Congresso Regional de Iniciação Científica e Tecnológica em Engenharia - CRICTE, 2010, Rio Grande.Anais. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta>5</idAresta>
+				</producao>
+				<producao>
+					<titulo>ADAMATTI, D. F.;PAES, T.;SILVEIRA, J.;EMMENDORFER, L. R.Effectiveness of Decision Trees for Detecting the Behavior of Agents. In: IV Conferência Sul de Modelagem Computacional, 2010, Rio Grande.Anais. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta>5</idAresta>
+				</producao>
+				<producao>
+					<titulo>SILVEIRA, J.;PAES, T.;ADAMATTI, D. F.;EMMENDORFER, L. R.Modelagem da Dinâmica do Fluxo Granular Através de Autômatos Celulares e Simulação Baseada em Agentes. In: MPU - Mostra de produção universitária, 2010, Rio Grande.Mostra de Produção Universitária 2010. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta>5</idAresta>
+				</producao>
+				<producao>
+					<titulo>SANTOS, R.;EMMENDORFER, L. R.Uma estratégia híbrida para o problema de empacotamento de duas elipses. In: XVII Encontro Regional de Estudantes de Matemática do Sul, 2011, Curitiba.Anais do XVII Encontro Regional de Estudantes de Matemática do Sul. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta>6</idAresta>
+				</producao>
+				<producao>
+					<titulo>LORENZ, W.;WERHLI, A. V.;EMMENDORFER, L. R.Descoberta de conhecimento em bancos de dados aplicada ao caso de alunos com subsídio. In: XIX Seminário de Iniciação Científica, 2011, Ijuí.Anais do XIX Seminário de Iniciação Científica. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta>6</idAresta>
+				</producao>
+				<producao>
+					<titulo>LORENZ, W.;WERHLI, A. V.;EMMENDORFER, L. R.Data Mining aplicado ao caso de alunos com subsídio do núcleo de assistência estudantil da Universidade Federal do Rio Grande - FURG. In: 10a Mostra de Produção Universitária - MPU, 2011, Rio Grande.Anais. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta>6</idAresta>
+				</producao>
+				<producao>
+					<titulo>BECKEL, C.;ORO, N.;Emmendorfer, Leonardo Ramos.Heurística para o posicionamento de elipses tangentes no interior de um polígono de n lados. In: V Conferência Sul em Modelagem Computacional - V MCSUL, 2012, Rio Grande.Anais da V Conferência Sul em Modelagem Computacional ? VMCSul. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta>7</idAresta>
+				</producao>
+				<producao>
+					<titulo>BECKEL, C. C.;Emmendorfer, Leonardo Ramos;ORO, N.An adaptation of the Hook and Jeeves optimization algorithm for the maximization of the dimensions of an ellipse inscribed in a given non-convex polygon. In: 5th LNCC Meeting on Computational Modeling, 2012, Petrópilis/RJ.Proceedings of the 5th LNCC Meeting on Computational Modeling. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta>7</idAresta>
+				</producao>
+				<producao>
+					<titulo>GAMBETA-LEITE, M. R. S.;SOUZA, R. V.;SPOLAVORI, A.;KRUSCHE, N.;Emmendorfer, Leonardo Ramos.Estudo de caso sobre o acoplamento de um modelo de previsão numérica ao planejamento de alocação de berços no Porto de Rio Grande. In: V Conferência Sul em Modelagem Computacional ? VMCSul, 2012, Rio Grande/RS.Anais da V Conferência Sul em Modelagem Computacional ? VMCSul. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta>7</idAresta>
+				</producao>
+				<producao>
+					<titulo>LORENZ, W.;SILVA, R.;Emmendorfer, Leonardo Ramos;WERHLI, A. V.Data Mining aplicado ao caso de alunos com subsídio no núcleo de assistência estudantil NAE da Universidade Federal do Rio Grande. In: XI SImpósio de Informática da UNIFRA, 2012, Santa Maria/RS.Anais do XI SImpósio de Informática da UNIFRA. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta>7</idAresta>
+				</producao>
+				<producao>
+					<titulo>MARCOS, P. B.;Emmendorfer, Leonardo Ramos.Orpheu - A Performance-Oriented System for Musical Accompaniment: An Approach Using  the Markov Decision Process. In: Congresso Brasileiro de Automática, 2012, Campina Grande.Anais do Congresso Brasileiro de Automática. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta>7</idAresta>
+				</producao>
+				<producao>
+					<titulo>PEREIRA, I. A.;MACHADO, K. S.;BORGES, E. N.;Emmendorfer, Leonardo.Um método de agrupamento de dados por transferência'. In: XII Mostra da Produção Universitária - XV Encontro de  Pós-Graduação, 2013, Rio Grande.Anais da XII Mostra da Produção Universitária. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta>8</idAresta>
+				</producao>
+				<producao>
+					<titulo>BECKEL, C. C.;ORO, N.;Emmendorfer, Leonardo Ramos.A Constructuve heuristic for gem cut: packing of ellipses in an irregular polygon. In: Conference on Engineering and Applied Sciences Optimization (OPT-i),, 2014, Kos, Greece.Conference on Engineering and Applied Sciences Optimization (OPT-i). 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta>9</idAresta>
+				</producao>
+				<producao>
+					<titulo>QUADROS, C.;FREITAS, C. R.;SILVA, M.;ANTIQUEIRA, L.;PUREZA, S.;HERNANDES, F.;GAUTERIO, E.;SILVEIRA, J.;Emmendorfer, Leonardo Ramos.Mobilidade Urbana em Rio Grande - RS: uma visão interdisciplinar. In: Simpósio Internacional sobre Interdisciplinaridade no Ensino, na Pesquisa e na Extensão, 2013, Florianópolis.Simpósio Internacional sobre Interdisciplinaridade no Ensino, na Pesquisa e na Extensão. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta>8</idAresta>
+				</producao>
+				<producao>
+					<titulo>GONZALES, G. V.;EMMENDORFER, L. R.;ISOLDI, L. A.;ESTRADA, E. S. D.;ROCHA, L. A. O.;SANTOS, E. D.A COMPARATIVE STUDY OF SIMULATED ANNEALING WITH DIFFERENT COOLING SCHEDULES FOR GEOMETRIC OPTIMIZATION OF A HEAT TRANSFER PROBLEM ACCORDING TO CONSTRUCTAL DESIGN. In: VI Conferência Sul em Modelagem Computacional (MCSul), 2014, Rio Grande.Anais da VI Conferência Sul em Modelagem Computacional (MCSul). 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta>9</idAresta>
+				</producao>
+				<producao>
+					<titulo>GONZALES, G. V.;EMMENDORFER, L. R.;ISOLDI, L. A.;ROCHA, L. A. O.;SANTOS, E. D.CONSTRUCTAL DESIGN AND SIMULATED ANNEALING EMPLOYED FOR GEOMETRIC OPTIMIZATION OF A Y-SHAPED CAVITY INTRUDED INTO CONDUCTIVE WALL. In: VI Conferência Sul em Modelagem Computacional (MCSul), 2014, Rio Grande.Anais da VI Conferência Sul em Modelagem Computacional (MCSul). 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta>9</idAresta>
+				</producao>
+				<producao>
+					<titulo>GIL, V. O.;FERRARI, F.;Emmendorfer, Leonardo Ramos.Investigação da aplicação de algoritmos de agrupamento para o problema astrofísico de classificação de galáxias. In: VI Conferência Sul em Modelagem Computacional (MCSul), 2014, Rio Grande.Anais da VI Conferência Sul em Modelagem Computacional (MCSul). 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta>9</idAresta>
+				</producao>
+				<producao>
+					<titulo>GIL, V. O.;FERRARI, F.;Emmendorfer, Leonardo Ramos.Análise de Agrupamentos para Classificação Morfométrica de Galáxias. In: XVII Encontro de Modelagem Computacional, 2014, Petrópilis, RJ.Anais do XVII Encontro de Modelagem Computacional. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta>9</idAresta>
+				</producao>
+				<producao>
+					<titulo>BOTELHO, S.;FILHO, N.L.D.;ESPINDOLA, D. B.;BICHET, M. A. A.;Emmendorfer, Leonardo Ramos;SANTOS, R. A. P.;FRAZZON, E. M.;HENRIQUES, R. V. B.;PEREIRA, C. E.INCLUDING OPERATOR'S SKILL AND ENVIRONMENT CONDITIONS IN AN IMS. In: 12th International Conference on Industrial Informatics, 2014, .Proceeding on 12th International Conference on Industrial Informatics. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta>9</idAresta>
+				</producao>
+				<producao>
+					<titulo>MOTA, F. P.;RIBEIRO, N.;Emmendorfer, Leonardo Ramos;BUTZEN, P. F.;MACHADO, K. S.;ADAMATTI, D. F.Desenvolvendo o Raciocínio Lógico no Ensino Médio: uma proposta utilizando a ferramenta Scratch. In: Simpósio Brasileiro de Informática na Educação, 2014, Dourados, MS.Anais do Simpósio Brasileiro de Informática na Educação. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta>9</idAresta>
+				</producao>
+				<producao>
+					<titulo>BECKEL, C. C.;ORO, N.;Emmendorfer, Leonardo Ramos.Modelagem matemática e computacional para o problema de empacotamento de elipses em polígonos irregulares. In: XXXV Congresso Nacional de Matematica Aplicada e Computacional, 2014, Natal.Anais do XXXV Congresso Nacional de Matematica Aplicada e Computacional. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta>9</idAresta>
+				</producao>
+				<producao>
+					<titulo>PROLO FILHO, J. F.;FERREIRA, C. E. S.;RODRIGUEZ, B. A. D.;Emmendorfer, Leonardo Ramos.Métodos numéricos aplicados à Transformada Inversa de Laplace. In: XXXV Congresso Nacional de Matematica Aplicada e Computacional, 2014, Natal.Anais do XXXV Congresso Nacional de Matematica Aplicada e Computacional. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta>9</idAresta>
+				</producao>
+				<producao>
+					<titulo>TOMASINI, CAROLINE;Emmendorfer, Leonardo;BORGES, EDUARDO N.;MACHADO, KARINA.A methodology for selecting the most suitable cluster validation internal indices. In: the 31st Annual ACM Symposium, 2016, Pisa.Proceedings of the 31st Annual ACM Symposium on Applied Computing - SAC Ehapos;16. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta>10</idAresta>
+				</producao>
+				<producao>
+					<titulo>GUIMARAES, M. V. F.;SANTOS, E. D.;Emmendorfer, Leonardo Ramos.AVALIAÇÃO GEOMÉTRICA DA DIFUSÃO DO CALOR EM SÓLIDOS COM CAVIDADES COMPLEXAS. In: Conferência Sul em Modelagem Computacional, 2016, .Anais do MCSUL 2016. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta>10</idAresta>
+				</producao>
+				<producao>
+					<titulo>SANTOS, B. S.;GARCIA, L. G.;SANTOS, C. M.;EMMENDORFER, L.R.AGRUPAMENTO DE DADOS UTILIZANDO ESPECTRO DE GRAFOS. In: 7ª Conferência Sul em Modelagem Computacional, 2016, .Anais do MCSUL 2016. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta>10</idAresta>
+				</producao>
+				<producao>
+					<titulo>GARIN, L.;EMMENDORFER, L.R.Agrupamento Espectral Aglomerativo: Uma Proposta de Algoritmo. In: VIII Computer on the Beach, 2017, .Anais do VIII Computer on the Beach. 2017.</titulo>
+					<ano>2017</ano>
+					<idAresta>11</idAresta>
+				</producao>
+				<producao>
+					<titulo>Emmendorfer, Leonardo;TOMASINI, CAROLINE;N. BORGES, EDUARDO;MACHADO, KARINA.A Study on the Relationship between Internal and External Validity Indices Applied to Partitioning and Density-based Clustering Algorithms. In: 19th International Conference on Enterprise Information Systems, 2017, Porto.Proceedings of the 19th International Conference on Enterprise Information Systems. 2017.</titulo>
+					<ano>2017</ano>
+					<idAresta>11</idAresta>
+				</producao>
+				<producao>
+					<titulo>GUIMARAES, M. V. F.;ADAMATTI, D. F.;EMMENDORFER, L. R.Interação Baseada em Agentes para Posicionamento Dinâmico da Linha de Ação do Modelo Comportamental de Fogg. In: 11o. Workshop-Escola de Sistemas de Agentes, seus Ambientes e Aplicações, 2017, .11o. Workshop-Escola de Sistemas de Agentes, seus Ambientes e Aplicações. 2017.</titulo>
+					<ano>2017</ano>
+					<idAresta>11</idAresta>
+				</producao>
+				<producao>
+					<titulo>GODOIS, L.;MARCO, L.;ADAMATTI, D. F.;EMMENDORFER, L. R.Algoritmo DL3: Uma abordagem de Clustering baseado em Auto-organização. In: 11o. Workshop-Escola de Sistemas de Agentes, seus Ambientes e Aplicações, 2017, .11o. Workshop-Escola de Sistemas de Agentes, seus Ambientes e Aplicações. 2017.</titulo>
+					<ano>2017</ano>
+					<idAresta>11</idAresta>
+				</producao>
+				<producao>
+					<titulo>GODOIS, L.;MARCO, L.;ADAMATTI, D. F.;Emmendorfer, Leonardo R.Um Algoritmo para Agrupamento de Dados usando interações entre Agentes. In: Encontro Nacional de Inteligência Artificial ENIAC, 2017, Uberlândia.Anais do ENIAC. 2017.</titulo>
+					<ano>2017</ano>
+					<idAresta>11</idAresta>
+				</producao>
+				<producao>
+					<titulo>GARIM, L.;EMMENDORFER, L.R.Uma Comparação Entre o Algoritmo K-means e o Algoritmo Espectral Para Agrupamento de Dados com Curvatura Acentuada. In: XXXVI Congresso de Matemática Aplicada e Computacional., 2016, .Anais do XXXVI Congresso de Matemática Aplicada e Computacional. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta>10</idAresta>
+				</producao>
+			</producoes>
+		</nodo>
+		<nodo>
+			<id>3528633359332021</id>
+			<label>Karina dos Santos Machado</label>
+			<dataAtualizacao>06052018</dataAtualizacao>
+			<numeroDeProducoes>78</numeroDeProducoes>
+			<numeroDeProducoesPorAno>
+				<ano value="2003">5</ano>
+				<ano value="2004">5</ano>
+				<ano value="2007">2</ano>
+				<ano value="2008">1</ano>
+				<ano value="2009">1</ano>
+				<ano value="2010">10</ano>
+				<ano value="2011">2</ano>
+				<ano value="2012">3</ano>
+				<ano value="2013">7</ano>
+				<ano value="2014">12</ano>
+				<ano value="2015">12</ano>
+				<ano value="2016">13</ano>
+				<ano value="2017">3</ano>
+				<ano value="2018">2</ano>
+			</numeroDeProducoesPorAno>
+			<producoes>
+				<producao>
+					<titulo>MACHADO, K. S.;TEDESCO, Leonel Pablo;SCHROEDER, Greyce Nogueira;SCHERER JUNIOR, Carlos Adail;NUNES, Marcelo Pereira.Modelagem e Implementação do Banco de Dados do Projeto ESCUNA usando TCM e PostgreSQL. In: IV Fórum Internacional de Software Livre, 2003, Porto Alegre.Anais IV Workshop sobre Software Livre. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta>1</idAresta>
+				</producao>
+				<producao>
+					<titulo>MACHADO, K. S.;LOPES, Giseli Rabello;ALMEIDA, Ígor Lorenzato;MATA, Maurício.SISTEMA AUTÔNOMO DE AVALIAÇÃO. In: XVIII Congresso Regional De Iniciação Científica e Tecnológica, 2003, Itajaí-SC. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta>1</idAresta>
+				</producao>
+				<producao>
+					<titulo>MACHADO, K. S.;LOPES, Giseli Rabelo;OLIVEIRA, Vínicius M.APLICAÇÃO DE LÓGICA FUZZY NO CONTROLE DE ROBÔS MÓVEIS. In: XVIII Congresso Regional De Iniciação Científica e Tecnológica, 2003, Itajaí-SC. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta>1</idAresta>
+				</producao>
+				<producao>
+					<titulo>MACHADO, K. S.;LOPES, Giseli Rabelo;OLIVEIRA, Vinicius Menezes.Aplicação de Lógica Fuzzy no Controle de Robôs Móveis. In: II Mostra de Produção Universitária FURG, 2003, Rio Grande. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta>1</idAresta>
+				</producao>
+				<producao>
+					<titulo>MACHADO, K. S.;LOPES, Giseli Rabelo;ALMEIDA, Ígor Lorenzato;MATA, Maurício.Sistema Autônomo de Avaliação. In: II Mostra de Produção Universitária FURG, 2003, Rio Grande. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta>1</idAresta>
+				</producao>
+				<producao>
+					<titulo>LOPES, Giseli Rabelo;ALMEIDA, Ígor Lorenzato de;MACHADO, K. S.;MATA, Maurício Magalhães.SAAV - Uma Ferramenta para Avaliação. In: Congresso Brasileiro de Computação, 2004, Itajaí.IV Congresso Brasileiro de Computação. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta>2</idAresta>
+				</producao>
+				<producao>
+					<titulo>MACHADO, K. S.;MALHEIROS, Alvaro Fernando Cassol;NUNES, Gerson Leiria;KORTING, Thales;DUARTE FILHO, Nelson Lopes;PIAS, Marcelo.FERRAMENTA PARA A VISUALIZAÇÃO DE TOPOLOGIAS DE REDES. In: III Mostra da Produção Universitária FURG, 2004, Rio Grande. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta>2</idAresta>
+				</producao>
+				<producao>
+					<titulo>MACHADO, K. S.;LOPES, Giseli Rabelo;ALMEIDA, Ígor Lorenzato;MATA, Maurício M.SAAV - INOVANDO O PROCESSO DE AVALIAÇÃO. In: III Mostra da Produção Universitária FURG, 2004, Rio Grande. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta>2</idAresta>
+				</producao>
+				<producao>
+					<titulo>MACHADO, K. S.;NUNES, Gerson Leiria;MALHEIROS, Álvaro Fernando Cassol;KORTING, Thales;DUARTE FILHO, Nelson Lopes;PIAS, Marcelo.SISTEMA DE MEDIÇÕES ATIVAS PARA REDES DE COMPUTADORES. In: III Mostra da Produção Universitária FURG, 2004, Rio Grande. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MACHADO, K. S.;FRANCO, Sidnei Roberto Selzler;LOPES, Giseli Rabelo;BOTELHO, Sílvia Silva da Costa.AMADEUS: um Sistema para Automação da Distribuição de Energia Elétrica. In: III Mostra da Produção Universitária FURG, 2004, Rio Grande.III Mostra da Produção Universitária FURG. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MACHADO, K. S.;SCHROEDER, E. K.;RUIZ, D. D. A.;NORBERTO DE SOUZA, O.Automating Molecular Docking with Explicit Receptor Flexibility Using Scientific Workflows. In: 2nd Brazilian Symposium on Bioinformatics, 2007, Angra dos Reis.LNBI-LNCS. Advances in Bioinformatics and Computational Biology. 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta>3</idAresta>
+				</producao>
+				<producao>
+					<titulo>MACHADO, K. S.;SCHROEDER, E. K.;RUIZ, D. D. A.;NORBERTO DE SOUZA, O.Extracting information from flexible ligand-receptor docking experiments. In: X-Meeting 3rd Conference of the Brazilian Association for Bioinformatics and Computational Biology, 2007, São Paulo.Annals of 3rd Conference of the Brazilian Association for Bioinformatics and Computational Biology. 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta>3</idAresta>
+				</producao>
+				<producao>
+					<titulo>MACHADO, K. S.;SCHROEDER, E. K.;RUIZ, D. D. A.;Winck, A.;NORBERTO DE SOUZA, O.Extracting Information from Flexible Receptor-Flexible Ligand Docking Experiments. In: III Brazilian Simposium on Bioinformatics, 2008, Santo André.LNBI-LNCS. Advances in Bioinformatics and Computational Biology. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta>4</idAresta>
+				</producao>
+				<producao>
+					<titulo>Winck, A.;MACHADO, K. S.;NORBERTO DE SOUZA, O;RUIZ, D. D. A.FReDD: supporting mining strategies though a flexible-receptor docking database. In: IV Brasilian Symposium on Bioinformatics, 2009, Porto Alegre.LNBI-LNCS. Advances in Bioinformatics and Computational Biology. 2009.</titulo>
+					<ano>2009</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>WINCK, A. T.;MACHADO, K. S.;NORBERTO DE SOUZA, O;RUIZ, D. D. A.A Context-Based Preprocessing on Flexible-Receptor Docking Data. In: ISCB Latin America 2010, 2010, Montevideo.International Society for Computational Biology Latin America Conference. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta>5</idAresta>
+				</producao>
+				<producao>
+					<titulo>QUEVEDO, C. V.;WINCK, A. T.;MACHADO, K. S.;NORBERTO DE SOUZA, O;RUIZ, D. D. A.A Study of Molecular Descriptor to Rank Candidate Ligands to Inhibit the InhA Receptor. In: ISCB Latin America 2010, 2010, Montevideo.International Society for Computational Biology Latin America Conference. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta>5</idAresta>
+				</producao>
+				<producao>
+					<titulo>MACHADO, K. S.;WINCK, A. T.;RUIZ, D. D. A.;NORBERTO DE SOUZA, O.Applying Model Trees on Flexible-Receptor Docking Experiments to select promising protein receptor snapshots. In: ISCB Latin America, 2010, Montevideo.International Society for Computational Biology Latin America Conference. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta>5</idAresta>
+				</producao>
+				<producao>
+					<titulo>COHEN, E. M. L.;MACHADO, K. S.;NORBERTO DE SOUZA, O.The effect of InhA flexibility in docking simulations with ethionamide and triclosan. In: ISCB Latin America, 2010, Montevideo.International Society for Computational Biology Latin America Conference. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta>5</idAresta>
+				</producao>
+				<producao>
+					<titulo>MACHADO, K. S.;WINCK, A. T.;RUIZ, D. D. A.;NORBERTO DE SOUZA, O.Discretization of Flexible-Receptor Docking Data. In: Brazilian Symposium on Bioinformatics, 2010, Búzios.LNBI-LNCS. Advances in Bioinformatics and Computational Biology. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta>5</idAresta>
+				</producao>
+				<producao>
+					<titulo>MACHADO, K. S.;WINCK, A. T.;RUIZ, D. D. A.;NORBERTO DE SOUZA, O.Comparison of Discretization Methods of Flexible-Receptor Docking Data for Analyses by Decision Trees. In: IADIS International Conference Applied Computing, 2010, Timisoara.Applied Computing. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta>5</idAresta>
+				</producao>
+				<producao>
+					<titulo>WINCK, A. T.;MACHADO, K. S.;NORBERTO DE SOUZA, O;RUIZ, D. D. A.Supporting Intermolecular Interaction Analyses of Flexible-Receptor Docking Simulations. In: IADIS International Conference Applied Computing, 2010, Timisoara.Applied Computing. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta>5</idAresta>
+				</producao>
+				<producao>
+					<titulo>MACHADO, K. S.;SCHROEDER, E. K.;RUIZ, D. D. A.;COHEN, E. M. L.;NORBERTO DE SOUZA, O.FREDOWS: A METHOD TO AUTOMATE MOLECULAR DOCKING SIMULATIONS WITH EXPLICIT RECEPTOR FLEXIBILITY AND SNAPSHOTS SELECTION. In: 6th International Conference of the Brazilian Association for Bioinformatics and Computational Biology, 2010, Ouro Preto, MG.Abstracts Book. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta>5</idAresta>
+				</producao>
+				<producao>
+					<titulo>COHEN, E. M. L.;MACHADO, K. S.;COHEN, M.;NORBERTO DE SOUZA, O.EFFECT OF THE EXPLICIT FLEXIBILITY OF THE INHA ENZYME FROM MYCOBACTERIUM TUBERCULOSIS IN MOLECULAR DOCKING SIMULATIONS. In: 6th International Conference of the Brazilian Association for Bioinformatics and Computational Biology, 2010, Ouro Preto.Abstracts Book. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta>5</idAresta>
+				</producao>
+				<producao>
+					<titulo>Cornetet, L. R.;WERHLI, A. V.;MACHADO, K. S.A Scientific Workflow for Performing Molecular Dynamics Simulation. In: Xmeeting, 2011, Florianópolis.2011 Abstract book. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta>6</idAresta>
+				</producao>
+				<producao>
+					<titulo>Cornetet, L. R.;MACHADO, K. S.Workflow Científico para Dinâmica Molecular. In: 10º Mostra da Produção Universitária, 2011, Rio Grande.10º Mostra da Produção Universitária. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta>6</idAresta>
+				</producao>
+				<producao>
+					<titulo>WINCK, A. T.;QUEVEDO, C. V.;MACHADO, K. S.;NORBERTO DE SOUZA, O;RUIZ, D. D. A.A Comparative Analysis of Public Ligand Databases Based on Molecular Descriptors. In: Brazilian Symposium on Bioinformatics, 2012, Campo Grande.LNBI-LNCS. Advances in Bioinformatics and Computational Biology. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta>7</idAresta>
+				</producao>
+				<producao>
+					<titulo>PERAZZO, G. X.;WINCK, A. T.;MACHADO, K. S.Application Of Data Mining To Select Promising Compounds Based on Molecular Descriptors. In: 8th International Conference of the Brazilian Association for Bioinformatics and Computational Biology, 2012, Campinhas-SP.X-Meeting 2012 -. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta>7</idAresta>
+				</producao>
+				<producao>
+					<titulo>BERNARDI, C. A. C.;MADALOSSO, O. M.;CHARAO, A. S.;WINCK, A. T.;MACHADO, K. S.Análise de Profilers para Programas em Java: Estudo de Caso Aplicado ao Algoritmo M5P do Software Weka. In: XIII Simpósio em Sistemas Computacionais (WSCAD-SSC), 2012, Petrópolis, RJ.Anais do XIII Simpósio em Sistemas Computacionais. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta>7</idAresta>
+				</producao>
+				<producao>
+					<titulo>PERAZZO, GIOVANNI XAVIER;WINCK, ANA T.;MACHADO, KARINA S.A data warehouse as an infrastructure to mine molecular descriptors for virtual screening. In: the 28th Annual ACM Symposium, , Coimbra.Proceedings of the 28th Annual ACM Symposium on Applied Computing - SAC Ehapos;13. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta>8</idAresta>
+				</producao>
+				<producao>
+					<titulo>WERLANG, P.;FAGUNDES, M. Q.;ADAMATTI, D. F.;MACHADO, K. S.;GROLL, A. V.;SILVA, P. E. A.;WERHLI, A. V.Multi-Agent-Based Simulation of Mycobacterium tuberculosis growth. In: 14th International Workshop on Multi-Agent-Based Simulation, 2013, Saint Paul - USA.MABS 2013. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta>8</idAresta>
+				</producao>
+				<producao>
+					<titulo>TROINA, S. S.;MACHADO, K. S.DBModeler: Um sistema web para criação, manutenção e consulta de diagramas de bancos de dados. In: IX Escola Regional de Banco de Dados, 2013, Camburiú.IX Escola Regional de Banco de Dados. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta>8</idAresta>
+				</producao>
+				<producao>
+					<titulo>SANTOS, M. M.;GOULART, M. G.;GELATTI, G. J.;MACHADO, KARINA S.;WERHLI, A. V.;Mendizabal, O. M.Parallel Algorithm for the HP Protein Folding Problem. In: 2nd Workshop-School on Theoretical Computer Science, 2013, Rio Grande.2nd Workshop-School on Theoretical Computer Science. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Prates, N. S.;SILVA JR., L. V.;SILVA, P. E. A.;MACHADO, K. S.Molecular Dynamics Simulation of the AcrB Efflux Pump Protein. In: BSB Eh Xmeeting 2013, 2013, Receife-PE.Xmeeting Abstracts Book 2013. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SEUS, V. R.;MACHADO, K. S.A Framework for Virtual Screening. In: BSB Eh Xmeeting 2013, 2013, Receife-PE.Xmeeting Eh BSB Abstracts Book 2013. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Cornetet, L. R.;SPERB, F.;MATTE, U.;WERHLI, ADRIANO V.;MACHADO, K. S.A Scientific Workflow for Performing Molecular Dynamics Simulation of Proteins. In: BSB Eh Xmeeting 2013, 2013, Receife-PE.Xmeeting Eh BSB Abstracts Book 2013. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Cornetet, L. R.;DURRUTHY, M.;MONSERRAT, J.;WERHLI, ADRIANO V.;MACHADO, KARINA S.A Framework for Performing Molecular Docking Simulations with Carbon Nanotubes. In: ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio, 2014, Belo Horizonte.ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio Abstract Book. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta>9</idAresta>
+				</producao>
+				<producao>
+					<titulo>BARRETO, N. A.;MACHADO, KARINA S.;WERHLI, A. V.Inference Of Regulatory Networks With A Convergence Improved Markov Chain Monte Carlo Sampler. In: ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio, 2014, Belo Horizonte.ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio Abstract Book. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta>9</idAresta>
+				</producao>
+				<producao>
+					<titulo>RICO, T. M.;ESLABAO, M.;KREMER, F.;SILVA, P. E. A.;Borges, E.N.;PINTO, L.;DELLAGOSTIN, O.;MACHADO, KARINA S.Leptospira's Species Classi cation based on Data Mining. In: ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio, 2014, Belo Horizonte.ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio Abstract Book. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta>9</idAresta>
+				</producao>
+				<producao>
+					<titulo>GELATTI, G. J.;CASSALES, V.;Vargas, A.P.;FELIPPE, C.;MACHADO, KARINA S.SIGNUM: Portuguese-LIBRAS Translator based on Text Mining as Web Browser Extension. In: IHC'14 - XIII Brazilian Symposium on Human Factors and Demonstrations, 2014, Foz do Iguaçu - PR.Proceedings of the XIII Brazilian Symposium on Human Factors and Demonstrations. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta>9</idAresta>
+				</producao>
+				<producao>
+					<titulo>WERLANG, P.;FAGUNDES, M. Q.;ADAMATTI, D. F.;MACHADO, KARINA S.;GROLL, A. V.;SILVA, P. E. A.;WERHLI, A. V.Estimation of Parameters of Mycobacterium tuberculosis Growth: A Multi-Agent-Based Simulation Approach. In: 14th Ibero-American Conference on Artificial Intelligence - IBERAMIA, 2014, Santiago - Chile.Proceedings of the 14th Ibero-American Conference on Artificial Intelligence. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta>9</idAresta>
+				</producao>
+				<producao>
+					<titulo>MOTA, F.;RIBEIRO, N. F. A.;Emmendorfer, L.;BUTZEN, P. F.;MACHADO, KARINA S.;ADAMATTI, D. F.Desenvolvendo o Raciocínio Lógico no Ensino Médio: uma proposta utilizando a ferramenta Scratch. In: XXV Simpósio Brasileiro de Informática na Educação (SBIE 2014), 2014, Dourados - MS.Anais do SBIE 2014. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta>9</idAresta>
+				</producao>
+				<producao>
+					<titulo>SCOTTA, A.;HUTTNER, V.;MACHADO, KARINA S.;MARTINS, Ivete Pinto;COUTO, Z.;ESPINDOLA, D. B.Uma aplicação da Realidade Aumentada em Laboratórios Mistos para Ensino de Química. In: 3º Congresso Brasileiro de Informática na Educação (CBIE 2014) - Workshop de Ambientes Virtuais na Educação, 2014, Dourados - MS.Anais dos Workshops do CBIE 2014. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta>9</idAresta>
+				</producao>
+				<producao>
+					<titulo>BRENNER, F.;PIANESSER, R.;ESPINDOLA, D. B.;MARTINS, Ivete Pinto;MUSA, M.;GOUVEA, A.;GALLON, R. F.;MACHADO, KARINA S.Revisão Sistemática da Educação a Distância: Um estudo de Caso da EaD no Brasil. In: ESUD 2014 - XI Congresso Brasileiro de Ensino Superior a Distância, 2014, Florianópolis - SC.Anais do XI Congresso Brasileiro de Ensino Superior a Distância. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta>9</idAresta>
+				</producao>
+				<producao>
+					<titulo>DREWS-JR, P.;BAUER, M.;MACHADO, KARINA S.;PUCIARELLI, P.;DUMONT, L. F. C.A Machine Learning Approach to Predict the Pink Shrimp Harvest in the Patos Lagoon Estuary. In: Symposium on Knowledge Discovery, Mining and Learning, KDMILE 2014, 2014, São Carlos - SP.KDMILE 2014. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta>9</idAresta>
+				</producao>
+				<producao>
+					<titulo>MACIEL, T. V.;SEUS, V. R.;MACHADO, KARINA S.;Borges, E.N.Mineração de Dados em Triagem de Risco de Saúde. In: VI Conferência Sul em Modelagem Computacional - MCSul, 2014, Rio Grande - RS.Anais do 6º MCSul - Conferência Sul em Modelagem Computacional. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta>9</idAresta>
+				</producao>
+				<producao>
+					<titulo>BARBAT, M. M.;COLETTO, J. L.;GOULART, M. G.;TEIXEIRA, E. P.;MACHADO, KARINA S.;Borges, E.N.Extração de conhecimento a partir de bancos de dados oceanográficos mistos. In: VI Conferência Sul em Modelagem Computacional - MCSul, 2014, Rio Grande - RS.Anais do 6º MCSul - Conferência Sul em Modelagem Computacional. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta>9</idAresta>
+				</producao>
+				<producao>
+					<titulo>PIANESSER, R.;BRENNER, F.;MACHADO, KARINA S.;MARTINS, Ivete Pinto;MUSA, M.;GOUVEA, A.;GALLON, R. F.;ESPINDOLA, D. B.Educação a Distância: Um panorama baseado no modelo da Universidade Aberta do Brasil. In: ESUD 2014 - XI Congresso Brasileiro de Ensino Superior a Distância, 2014, Florianópolis - SC.Anais do XI Congresso Brasileiro de Ensino Superior a Distância. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta>9</idAresta>
+				</producao>
+				<producao>
+					<titulo>DREWS-JR, P.;TURRA, T.;MACHADO, KARINA S.;DUMONT, L. F. C.Temporal Series Prediction using Decision Trees: A Case Study on the Pink Shrimp Harvest. In: 12th National Meeting on Artificial and Computational Intelligence (ENIAC), 2015, Natal-RN.Proceedings of the 12th National Meeting on Artificial and Computational Intelligence (ENIAC). 2015.</titulo>
+					<ano>2015</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MENDES, M. C.;MARTINS, G. A.;MOTA, F.;MACHADO, K. S.;ADAMATTI, D. F.DESENVOLVENDO O PENSAMENTO COMPUTACIONAL: UMA ABORDAGEM BASEADA EM LÓGICA DE PROGRAMAÇÃO. In: IX Congresso Latino-Americano Interdisciplinar do Adolescente - CLIOA 2015 -, 2015, Porto Alegre - RS.Anais do CLIOA 2015. 2015.</titulo>
+					<ano>2015</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MENDES, M. C.;SILVA, J. A.;CALERO, F.;MOTA, F.;MACHADO, KARINA S.;ADAMATTI, D. F.DESENVOLVENDO O PENSAMENTO COMPUTACIONAL NO ENSINO FUNDAMENTAL POR MEIO DA FERRAMENTA CODE.ORG. In: XVIII Seminário de Extensão na 14a, Mostra de Produção Universitária - MPU, 2015, Rio Grande - RS.XVIII Seminário de Extensão na 14a, Mostra de Produção Universitária - MPU. 2015.</titulo>
+					<ano>2015</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>CAMARGO, A. D.;WERHLI, A. V.;MACHADO, KARINA S.A comparison of molecular dynamics simulations using GROMACS with GPU and CPU. In: Escola Gaúcha de Bioinformática - EGB 2015, 2015, Porto Alegre - RS.Escola Gaúcha de Bioinformática - EGB 2015. 2015.</titulo>
+					<ano>2015</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>CAMARGO, A. D.;WERHLI, A. V.;MACHADO, KARINA S.Predição de estabilidade em pontos de mutação em proteína através de ferramentas computacionais. In: Encontro de Pós-Graduação na 13a. Mostra da Produção Universitária - MPU 2015, 2015, Rio Grande - RS.13a. Mostra da Produção Universitária - MPU 2015. 2015.</titulo>
+					<ano>2015</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>AFONSO, F.;CAMARGO, A. D.;WERHLI, A. V.;MACHADO, KARINA S.Um estudo sobre o impacto em pontos de mutação utilizando o software mCSM. In: XXIV Congresso de Iniciação Cientifica na 14a. Mostra da Produção Universitária - MPU 2015, 2015, Rio Grande - RS.14a. Mostra da Produção Universitária - MPU 2015. 2015.</titulo>
+					<ano>2015</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FISCHER, E.;Cornetet, L. R.;DURRUTHY, M.;BURGER, M.;MONSSERAT, J.;WERHLI, A. V.;MACHADO, KARINA S.Docagem molecular da enzima superóxido dismutase do nematode Caenorhabdtes elegans com o nanomaterial- Ffulereno (C 60 ). In: XXIV Congresso de Iniciação Cientifica da 14a. Mostra da Produção Universitária - MPU, 2015, Rio Grande - RS.14a. Mostra da Produção Universitária - MPU. 2015.</titulo>
+					<ano>2015</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>CAMARGO, ALEX;MACHADO, KARINA;WERHLI, ADRIANO.Evaluation of computational tools for thermodynamics and structural analysis of protein stability upon point mutation prediction. In: MOL2NET, International Conference on Multidisciplinary Sciences, , Sciforum.net.Proceedings of MOL2NET, International Conference on Multidisciplinary Sciences. 2015.</titulo>
+					<ano>2015</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MACHADO, KARINA;SEUS, VINICIUS;GOMES, JORGE.Appying a novel web-tool for performing virtual screening experiments. In: MOL2NET, International Conference on Multidisciplinary Sciences, , Sciforum.net.Proceedings of MOL2NET, International Conference on Multidisciplinary Sciences. 2015.</titulo>
+					<ano>2015</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SEUS, VINICIUS;MACHADO, KARINA;WERHLI, ADRIANO.<strong>A Proposal Tool for Manipulation of a Set of Protein Structures from PDB</strong>. In: MOL2NET, International Conference on Multidisciplinary Sciences, , Sciforum.net.Proceedings of MOL2NET, International Conference on Multidisciplinary Sciences. 2015.</titulo>
+					<ano>2015</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>TOMASINI, C.;Emmendorfer, L.;Borges, Eduardo N.;MACHADO, KARINA S.A methodology for selecting the most suitable cluster validation internal indices. In: ACM SAC 2016, 2016, Pisa, Italy.Proceedings of the 31st Annual ACM Symposium on Applied Computing. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta>10</idAresta>
+				</producao>
+				<producao>
+					<titulo>SEUS, V. R.;SILVA JR., L. V.;GOMES, JORGE;SILVA, P. E. A.;Prates, N. S.;ZANATTA, N.;WERHLI, A. V.;MACHADO, K. S.A Framework for Virtual Screening. In: ACM SAC 2016, 2016, Pisa, Italy.Proceedings of the 31st Annual ACM Symposium on Applied Computing. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta>10</idAresta>
+				</producao>
+				<producao>
+					<titulo>CANOFRE, R.;Borges, Eduardo N.;MACHADO, KARINA S.Uma Avaliação de Algoritmos para Mineração de Dados Disponíveis na Web. In: XII Escola Regional de Banco de Dados, 2016, Londrina - PR.Anais da XII Escola Regional de Banco de Dados. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta>10</idAresta>
+				</producao>
+				<producao>
+					<titulo>MACHADO, R. F.;PINHEIRO, R. F.;MACHADO, KARINA S.;Borges, Eduardo N.Deduplicação de Contatos em Dispositivos Móveis Utilizando Similaridade Textual e Aprendizado de Máquina. In: XII Brazilian Symposium on Information Systems, 2016, Florianópolis - SC.Anais do XII Brazilian Symposium on Information Systems. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta>10</idAresta>
+				</producao>
+				<producao>
+					<titulo>BRENNER, F.;MARTINS, Ivete Pinto;ESPINDOLA, D. B.;MACHADO, KARINA S.Mineração de dados aplicada ao estudo de perfis de alunos na plataforma Moodle. In: III Congresso Brasileiro de Ensino Superior a Distância (ESUD 2016), 2016, São João del Rei - MG.Anais do XIII Congresso Brasileiro de Ensino Superior a Distância (ESUD 2016). 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta>10</idAresta>
+				</producao>
+				<producao>
+					<titulo>KRONBAUER, A.;SCHMIDT, L. A.;MACHADO, KARINA S.;Winck, A. T.Identificação de Regiões Densas de Trajetórias Atômicas em Simulações de Dinâmica MolecularEh#8232;Eh#8232;. In: Symposium on Knowledge Discovery, Mining and Learning (KDMiLe), 2016, Recife - PE.Symposium on Knowledge Discovery, Mining and Learning (KDMiLe). 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta>10</idAresta>
+				</producao>
+				<producao>
+					<titulo>RICO, T. M.;MACHADO, KARINA S.;SANTIN, M. M.;NOGUEZ, P. T.;BARCELOS, C. R. G.;MADRUGA, S. W.;PETRARCA, C. R.;DUMITH, S. C.Mensagens de texto (SMS) auxiliando no tratamento do cancer. In: IV Escola Regional de Computação Aplicada à Saúde, 2016, Novo Hamburgo - RS.ANAIS DE RESUMOS da IV Escola Regional de Computação Aplicada à Saúde. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta>10</idAresta>
+				</producao>
+				<producao>
+					<titulo>CAMARGO, A. D.;WERHLI, A. V.;MACHADO, KARINA S.Um estudo sobre ferramentas computacionais para a predição do impacto de mutações pontuais em proteínas. In: 7a. Conferência Sul em Modelagem Computacional MCSUL, 2016, Rio Grande - RS.Anais do 7 MCSUL. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta>10</idAresta>
+				</producao>
+				<producao>
+					<titulo>Cornetet, L. R.;DURRUTHY, M.;WERHLI, A. V.;MONSERRAT, JOSE M.;MACHADO, KARINA S.Data Mining for characterization of nanotoxicity in mitochondrial ion channels induced by carbon nanotubes. In: Xmeeting 2016, 2016, Belo Horizonte - MG.Abstracts Book Xmeeting 2016. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta>10</idAresta>
+				</producao>
+				<producao>
+					<titulo>Prates, N. S.;WERHLI, ADRIANO V.;MACHADO, KARINA S.CLUSTER ANALYSIS OF ACRB PROTEIN MOLECULAR DYNAMICS CONFORMATIONS. In: X- Meeting 2016 - 12th International Conference of the AB3C, 2016, Belo Horizonte - MG.X- Meeting 2016 - 12th International Conference of the AB3C. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta>10</idAresta>
+				</producao>
+				<producao>
+					<titulo>CORNETET, LUISA;GONZALEZ-DURRUTHY, MICHEL;MONSERRAT, J.;WERHLI, A. V.;MACHADO, KARINA S.DATA MINING FOR CHARACTERIZATION OF NANOTOXICITY IN MITOCHONDRIAL ION CHANNELS INDUCED BY CARBON NANOTUBES. In: X-Meeting 2016, 2016, Belo Horizonte - MG.X-Meeting 2016 - 12th International Conference of the AB3C. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta>10</idAresta>
+				</producao>
+				<producao>
+					<titulo>CAMARGO, A. D.;WERHLI, A. V.;MACHADO, KARINA S.PREDICTION OF PROTEIN STABILITY CHANGES UPON SINGLE POINT MUTATION USING ENSEMBLE LEARNING. In: X-Meeting 2016, 2016, Belo Horizonte - MG.X-Meeting 2016 - 12th International Conference of the AB3C. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta>10</idAresta>
+				</producao>
+				<producao>
+					<titulo>BARRETO, N. A.;MACHADO, KARINA S.;WERHLI, ADRIANO V.Inference of Regulatory Networks with MCMC sampler guided by Mutual Information. In: ACM SAC 2017, 2017, Marrakech, Morocco.Proceedings of ACM SAC 2017. 2017.</titulo>
+					<ano>2017</ano>
+					<idAresta>11</idAresta>
+				</producao>
+				<producao>
+					<titulo>TOMASINI, C.;Borges, E.N.;Emmendorfer, L.;MACHADO, KARINA S.A Study on the Relationship between Internal and External Validity Indices Applied to Partitioning and Density-based Clustering Algorithms. In: International Conference on Enterprise Information Systems, 2017, Porto, Portugal.Proceedings of the International Conference on Enterprise Information Systems. 2017.</titulo>
+					<ano>2017</ano>
+					<idAresta>11</idAresta>
+				</producao>
+				<producao>
+					<titulo>POPIOLEK, P.;MACHADO, KARINA S.;Mendizabal, O. M.IdentificacEh#807;aEh#771;o de custos computacionais causados por contadores de desempenho. In: Iberchip, 2017, Bariloche.Iberchip - Iberchip Workshop. 2017.</titulo>
+					<ano>2017</ano>
+					<idAresta>11</idAresta>
+				</producao>
+				<producao>
+					<titulo>SEUS, V. R.;MACHADO, KARINA S.;WERHLI, ADRIANO.A proposal to the manipulatioon of a set of protein structures from PDB. In: Escola	Gaúcha	de	Bioinformática	?	EGB	2015, 2015, Porto Alegre.Escola	Gaúcha	de	Bioinformática	?	EGB	2015. 2016.</titulo>
+					<ano>2016</ano>
+					<idAresta>10</idAresta>
+				</producao>
+				<producao>
+					<titulo>RICO, T. M.;GROLL, A. V.;SILVA, P. E. A.;MACHADO, KARINA S.Relational Database for Genetic Analysis. In: Escola	Gaúcha	de	Bioinformática	?	EGB	2015, 2015, Porto Alegre.Relational Database for Genetic Analysis. 2015.</titulo>
+					<ano>2015</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>KRONBAUER, A.;BALBINOT, B. L.;SCHMIDT, L. A.;MACHADO, L. N.;SILVA, R. G. N. E.;MACHADO, KARINA S.;Winck, A. T.A Python-Based API of the 3D-Tree Algorithm. In: Escola	Gaúcha	de	Bioinformática	?	EGB	2015, 2015, Porto Alegre.Escola	Gaúcha	de	Bioinformática	?	EGB	2015. 2015.</titulo>
+					<ano>2015</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>POPIOLEK, P.;MACHADO, K. S.;Mendizabal, O. M.ReducEh#807;aEh#771;o de sobrecarga gerada pelo uso de contadores de desempenho em ambientes virtualizados. In: ERADRS - Escola Regional de Alto Desempenho RS, 2018, Porto Alegre.ERADRS - Escola Regional de Alto Desempenho RS. 2018.</titulo>
+					<ano>2018</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>POPIOLEK, P.;MACHADO, K. S.;Mendizabal, O. M.Reducing Monitoring Overhead in Virtualized Environments Through Feature Selection. In: SBRC - Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2018, Campos do Jordão.SBRC - Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos. 2018.</titulo>
+					<ano>2018</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Winck, A.;MACHADO, K. S.;RUIZ, D. D. A.;STRUBE de LIMA, V. L.Association Rules to Identify Receptor and Ligands Structures thourgh Named Entities Recognition. In: The Twenty Third International Conference on Industrial, Engineering Eh Other Applications of Applied Intelligent Systems, 2010, Córdoba.Trends in Applied Intelligent Systems. IEA/AIE 2010 Part III LNAI-LNCS. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta>5</idAresta>
+				</producao>
+			</producoes>
+		</nodo>
+	</nodos>
+		<arestas>
+			<aresta>
+				<autor1>1129100746134234</autor1>
+				<autor2>3528633359332021</autor2>
+				<anos>
+				<ano valor="2003">
+					<duplicatas>
+						<duplicata>
+						<id>1</id>
+						<indice>0.18</indice>
+						<titulo1>MOISSA, Fred Helmut;EMMENDORFER, L. R.O uso do computador no diagnóstico de defeitos no sistema de injeção eletrônica. In: VII SEDEPE - Seminário de Pesquisa Discente, 2003, Caçador.Resumos. 2003.</titulo1>
+						<titulo2>MACHADO, K. S.;TEDESCO, Leonel Pablo;SCHROEDER, Greyce Nogueira;SCHERER JUNIOR, Carlos Adail;NUNES, Marcelo Pereira.Modelagem e Implementação do Banco de Dados do Projeto ESCUNA usando TCM e PostgreSQL. In: IV Fórum Internacional de Software Livre, 2003, Porto Alegre.Anais IV Workshop sobre Software Livre. 2003.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>1</id>
+						<indice>0.18</indice>
+						<titulo1>EMMENDORFER, L. R.;MOISSA, Fred Helmut.O uso do computador no diagnóstico de defeitos no sistema de injeção eletrônica. In: II Encontro de Iniciação Científica, 2003, União da Vitória. 2003.</titulo1>
+						<titulo2>MACHADO, K. S.;TEDESCO, Leonel Pablo;SCHROEDER, Greyce Nogueira;SCHERER JUNIOR, Carlos Adail;NUNES, Marcelo Pereira.Modelagem e Implementação do Banco de Dados do Projeto ESCUNA usando TCM e PostgreSQL. In: IV Fórum Internacional de Software Livre, 2003, Porto Alegre.Anais IV Workshop sobre Software Livre. 2003.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>1</id>
+						<indice>0.17</indice>
+						<titulo1>EMMENDORFER, L. R.;WOLF, Edimar.Inteligência Artificial:Simulando o funcionamento .. In: III Encontro de Iniciação Científica, 2003, União da Vitória.Anais. 2003.</titulo1>
+						<titulo2>MACHADO, K. S.;TEDESCO, Leonel Pablo;SCHROEDER, Greyce Nogueira;SCHERER JUNIOR, Carlos Adail;NUNES, Marcelo Pereira.Modelagem e Implementação do Banco de Dados do Projeto ESCUNA usando TCM e PostgreSQL. In: IV Fórum Internacional de Software Livre, 2003, Porto Alegre.Anais IV Workshop sobre Software Livre. 2003.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>1</id>
+						<indice>0.07</indice>
+						<titulo1>MOISSA, Fred Helmut;EMMENDORFER, L. R.O uso do computador no diagnóstico de defeitos no sistema de injeção eletrônica. In: VII SEDEPE - Seminário de Pesquisa Discente, 2003, Caçador.Resumos. 2003.</titulo1>
+						<titulo2>MACHADO, K. S.;LOPES, Giseli Rabello;ALMEIDA, Ígor Lorenzato;MATA, Maurício.SISTEMA AUTÔNOMO DE AVALIAÇÃO. In: XVIII Congresso Regional De Iniciação Científica e Tecnológica, 2003, Itajaí-SC. 2003.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>1</id>
+						<indice>0.12</indice>
+						<titulo1>EMMENDORFER, L. R.;MOISSA, Fred Helmut.O uso do computador no diagnóstico de defeitos no sistema de injeção eletrônica. In: II Encontro de Iniciação Científica, 2003, União da Vitória. 2003.</titulo1>
+						<titulo2>MACHADO, K. S.;LOPES, Giseli Rabelo;OLIVEIRA, Vínicius M.APLICAÇÃO DE LÓGICA FUZZY NO CONTROLE DE ROBÔS MÓVEIS. In: XVIII Congresso Regional De Iniciação Científica e Tecnológica, 2003, Itajaí-SC. 2003.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>1</id>
+						<indice>0.12</indice>
+						<titulo1>EMMENDORFER, L. R.;WOLF, Edimar.Inteligência Artificial:Simulando o funcionamento .. In: III Encontro de Iniciação Científica, 2003, União da Vitória.Anais. 2003.</titulo1>
+						<titulo2>MACHADO, K. S.;LOPES, Giseli Rabelo;OLIVEIRA, Vinicius Menezes.Aplicação de Lógica Fuzzy no Controle de Robôs Móveis. In: II Mostra de Produção Universitária FURG, 2003, Rio Grande. 2003.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>1</id>
+						<indice>0.22</indice>
+						<titulo1>MOISSA, Fred Helmut;EMMENDORFER, L. R.O uso do computador no diagnóstico de defeitos no sistema de injeção eletrônica. In: VII SEDEPE - Seminário de Pesquisa Discente, 2003, Caçador.Resumos. 2003.</titulo1>
+						<titulo2>MACHADO, K. S.;LOPES, Giseli Rabelo;ALMEIDA, Ígor Lorenzato;MATA, Maurício.Sistema Autônomo de Avaliação. In: II Mostra de Produção Universitária FURG, 2003, Rio Grande. 2003.</titulo2>
+						</duplicata>
+					</duplicatas>
+					<peso>7</peso>
+				</ano>
+				<ano valor="2004">
+					<duplicatas>
+						<duplicata>
+						<id>2</id>
+						<indice>0.16</indice>
+						<titulo1>CAVALIN, Cristiane Feltrin;EMMENDORFER, L. R.;MISTRO, Diomar Cristina;RODRIGUES, Luiz Alberto Diaz.Um modelo matemático discreto para a dispersão de febre aftosa em bovinos. In: XXVII CNMAC - Congresso Nacional de Matemática Aplicada e Computacional, 2004, Porto Alegre.Resumos da comunicações. 2004.</titulo1>
+						<titulo2>LOPES, Giseli Rabelo;ALMEIDA, Ígor Lorenzato de;MACHADO, K. S.;MATA, Maurício Magalhães.SAAV - Uma Ferramenta para Avaliação. In: Congresso Brasileiro de Computação, 2004, Itajaí.IV Congresso Brasileiro de Computação. 2004.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>2</id>
+						<indice>0.2</indice>
+						<titulo1>SEBBEN, Lucas Giovani;ARIATTI, Marcos Aurélio;EMMENDORFER, L. R.;FELTRIN, Caren Coden.Uma ferramenta computacional para o apoio ao ensino de cálculo diferencial e integral. In: XXVII CNMAC - Congresso Nacional de Matemática Aplicada e Computacional, 2004, Porto Alegre.Resumo da comunicações. 2004.</titulo1>
+						<titulo2>LOPES, Giseli Rabelo;ALMEIDA, Ígor Lorenzato de;MACHADO, K. S.;MATA, Maurício Magalhães.SAAV - Uma Ferramenta para Avaliação. In: Congresso Brasileiro de Computação, 2004, Itajaí.IV Congresso Brasileiro de Computação. 2004.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>2</id>
+						<indice>0.09</indice>
+						<titulo1>CAVALIN, Cristiane Feltrin;EMMENDORFER, L. R.;MISTRO, Diomar Cristina;RODRIGUES, Luiz Alberto Diaz.Um modelo matemático discreto para a dispersão de febre aftosa em bovinos. In: XXVII CNMAC - Congresso Nacional de Matemática Aplicada e Computacional, 2004, Porto Alegre.Resumos da comunicações. 2004.</titulo1>
+						<titulo2>MACHADO, K. S.;MALHEIROS, Alvaro Fernando Cassol;NUNES, Gerson Leiria;KORTING, Thales;DUARTE FILHO, Nelson Lopes;PIAS, Marcelo.FERRAMENTA PARA A VISUALIZAÇÃO DE TOPOLOGIAS DE REDES. In: III Mostra da Produção Universitária FURG, 2004, Rio Grande. 2004.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>2</id>
+						<indice>0.07</indice>
+						<titulo1>SEBBEN, Lucas Giovani;ARIATTI, Marcos Aurélio;EMMENDORFER, L. R.;FELTRIN, Caren Coden.Uma ferramenta computacional para o apoio ao ensino de cálculo diferencial e integral. In: XXVII CNMAC - Congresso Nacional de Matemática Aplicada e Computacional, 2004, Porto Alegre.Resumo da comunicações. 2004.</titulo1>
+						<titulo2>MACHADO, K. S.;LOPES, Giseli Rabelo;ALMEIDA, Ígor Lorenzato;MATA, Maurício M.SAAV - INOVANDO O PROCESSO DE AVALIAÇÃO. In: III Mostra da Produção Universitária FURG, 2004, Rio Grande. 2004.</titulo2>
+						</duplicata>
+					</duplicatas>
+					<peso>4</peso>
+				</ano>
+				<ano valor="2007">
+					<duplicatas>
+						<duplicata>
+						<id>3</id>
+						<indice>0.16</indice>
+						<titulo1>EMMENDORFER, L. R.;POZO, Aurora Trinidad Ramirez.Otimização Multimodal através de Computação Evolutiva e Análise de Agrupamentos. In: VI ENIA - Encontro Nacional de Inteligência Artificial, 2007, Rio de Janeiro.XXVII Congresso da Sociedade Brasileira de Computação. 2007.</titulo1>
+						<titulo2>MACHADO, K. S.;SCHROEDER, E. K.;RUIZ, D. D. A.;NORBERTO DE SOUZA, O.Automating Molecular Docking with Explicit Receptor Flexibility Using Scientific Workflows. In: 2nd Brazilian Symposium on Bioinformatics, 2007, Angra dos Reis.LNBI-LNCS. Advances in Bioinformatics and Computational Biology. 2007.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>3</id>
+						<indice>0.19</indice>
+						<titulo1>EMMENDORFER, L.R.;POZO, A.T.R.An empirical evaluation of linkage learning strategies for multimodal optimization. In: 2007 IEEE Congress on Evolutionary Computation, 2007, Singapore.2007 IEEE Congress on Evolutionary Computation. 2007.</titulo1>
+						<titulo2>MACHADO, K. S.;SCHROEDER, E. K.;RUIZ, D. D. A.;NORBERTO DE SOUZA, O.Automating Molecular Docking with Explicit Receptor Flexibility Using Scientific Workflows. In: 2nd Brazilian Symposium on Bioinformatics, 2007, Angra dos Reis.LNBI-LNCS. Advances in Bioinformatics and Computational Biology. 2007.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>3</id>
+						<indice>0.17</indice>
+						<titulo1>EMMENDORFER, L. R.;POZO, Aurora Trinidad Ramirez.An Incremental Approach for Niching and Building Block Detection via Clustering. In: 7th International Conference on Intelligent Systems Design and Applications, 2007, Rio de Janeiro.7th ISDA. 2007.</titulo1>
+						<titulo2>MACHADO, K. S.;SCHROEDER, E. K.;RUIZ, D. D. A.;NORBERTO DE SOUZA, O.Automating Molecular Docking with Explicit Receptor Flexibility Using Scientific Workflows. In: 2nd Brazilian Symposium on Bioinformatics, 2007, Angra dos Reis.LNBI-LNCS. Advances in Bioinformatics and Computational Biology. 2007.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>3</id>
+						<indice>0.2</indice>
+						<titulo1>EMMENDORFER, L. R.;POZO, Aurora Trinidad Ramirez.Otimização Multimodal através de Computação Evolutiva e Análise de Agrupamentos. In: VI ENIA - Encontro Nacional de Inteligência Artificial, 2007, Rio de Janeiro.XXVII Congresso da Sociedade Brasileira de Computação. 2007.</titulo1>
+						<titulo2>MACHADO, K. S.;SCHROEDER, E. K.;RUIZ, D. D. A.;NORBERTO DE SOUZA, O.Extracting information from flexible ligand-receptor docking experiments. In: X-Meeting 3rd Conference of the Brazilian Association for Bioinformatics and Computational Biology, 2007, São Paulo.Annals of 3rd Conference of the Brazilian Association for Bioinformatics and Computational Biology. 2007.</titulo2>
+						</duplicata>
+					</duplicatas>
+					<peso>4</peso>
+				</ano>
+				<ano valor="2008">
+					<duplicatas>
+						<duplicata>
+						<id>4</id>
+						<indice>0.19</indice>
+						<titulo1>CAIUTA, R.;POZO, Aurora Trinidad Ramirez;EMMENDORFER, L. R.;VERGILIO, S.Selecting Software Reliability Models with a Neural Network Meta Classifier. In: International Joint Conference on Neural Networks (IJCNN2008), 2008, Hong Kong.International Joint Conference on Neural Networks (IJCNN2008). 2008.</titulo1>
+						<titulo2>MACHADO, K. S.;SCHROEDER, E. K.;RUIZ, D. D. A.;Winck, A.;NORBERTO DE SOUZA, O.Extracting Information from Flexible Receptor-Flexible Ligand Docking Experiments. In: III Brazilian Simposium on Bioinformatics, 2008, Santo André.LNBI-LNCS. Advances in Bioinformatics and Computational Biology. 2008.</titulo2>
+						</duplicata>
+					</duplicatas>
+					<peso>1</peso>
+				</ano>
+				<ano valor="2010">
+					<duplicatas>
+						<duplicata>
+						<id>5</id>
+						<indice>0.18</indice>
+						<titulo1>EMMENDORFER, L. R.;ADAMATTI, D. F.;SILVEIRA, J.;PAES, T.Detectando Padrões Comportamentais de Agentes Através de Árvores de Decisão. In: IV Workshop-Escola de Sistemas de Agentes, seus Ambientes e apliCações, 2010, Rio Grande.Anais do IV Wesaac. 2010.</titulo1>
+						<titulo2>WINCK, A. T.;MACHADO, K. S.;NORBERTO DE SOUZA, O;RUIZ, D. D. A.A Context-Based Preprocessing on Flexible-Receptor Docking Data. In: ISCB Latin America 2010, 2010, Montevideo.International Society for Computational Biology Latin America Conference. 2010.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>5</id>
+						<indice>0.22</indice>
+						<titulo1>On the design of populational clustering. In: International Conference on Evolutionary Computation, 2010, Valencia, Espanha.Proceedings. 2010.</titulo1>
+						<titulo2>WINCK, A. T.;MACHADO, K. S.;NORBERTO DE SOUZA, O;RUIZ, D. D. A.A Context-Based Preprocessing on Flexible-Receptor Docking Data. In: ISCB Latin America 2010, 2010, Montevideo.International Society for Computational Biology Latin America Conference. 2010.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>5</id>
+						<indice>0.16</indice>
+						<titulo1>PAES, T.;SILVEIRA, J.;ADAMATTI, D. F.;EMMENDORFER, L. R.Poder de Captura das Árvores de Decisão para o Comportamento de Agentes. In: Congresso Regional de Iniciação Científica e Tecnológica em Engenharia - CRICTE, 2010, Rio Grande.Anais. 2010.</titulo1>
+						<titulo2>WINCK, A. T.;MACHADO, K. S.;NORBERTO DE SOUZA, O;RUIZ, D. D. A.A Context-Based Preprocessing on Flexible-Receptor Docking Data. In: ISCB Latin America 2010, 2010, Montevideo.International Society for Computational Biology Latin America Conference. 2010.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>5</id>
+						<indice>0.21</indice>
+						<titulo1>ADAMATTI, D. F.;PAES, T.;SILVEIRA, J.;EMMENDORFER, L. R.Effectiveness of Decision Trees for Detecting the Behavior of Agents. In: IV Conferência Sul de Modelagem Computacional, 2010, Rio Grande.Anais. 2010.</titulo1>
+						<titulo2>WINCK, A. T.;MACHADO, K. S.;NORBERTO DE SOUZA, O;RUIZ, D. D. A.A Context-Based Preprocessing on Flexible-Receptor Docking Data. In: ISCB Latin America 2010, 2010, Montevideo.International Society for Computational Biology Latin America Conference. 2010.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>5</id>
+						<indice>0.13</indice>
+						<titulo1>SILVEIRA, J.;PAES, T.;ADAMATTI, D. F.;EMMENDORFER, L. R.Modelagem da Dinâmica do Fluxo Granular Através de Autômatos Celulares e Simulação Baseada em Agentes. In: MPU - Mostra de produção universitária, 2010, Rio Grande.Mostra de Produção Universitária 2010. 2010.</titulo1>
+						<titulo2>WINCK, A. T.;MACHADO, K. S.;NORBERTO DE SOUZA, O;RUIZ, D. D. A.A Context-Based Preprocessing on Flexible-Receptor Docking Data. In: ISCB Latin America 2010, 2010, Montevideo.International Society for Computational Biology Latin America Conference. 2010.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>5</id>
+						<indice>0.2</indice>
+						<titulo1>EMMENDORFER, L. R.;ADAMATTI, D. F.;SILVEIRA, J.;PAES, T.Detectando Padrões Comportamentais de Agentes Através de Árvores de Decisão. In: IV Workshop-Escola de Sistemas de Agentes, seus Ambientes e apliCações, 2010, Rio Grande.Anais do IV Wesaac. 2010.</titulo1>
+						<titulo2>QUEVEDO, C. V.;WINCK, A. T.;MACHADO, K. S.;NORBERTO DE SOUZA, O;RUIZ, D. D. A.A Study of Molecular Descriptor to Rank Candidate Ligands to Inhibit the InhA Receptor. In: ISCB Latin America 2010, 2010, Montevideo.International Society for Computational Biology Latin America Conference. 2010.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>5</id>
+						<indice>0.19</indice>
+						<titulo1>On the design of populational clustering. In: International Conference on Evolutionary Computation, 2010, Valencia, Espanha.Proceedings. 2010.</titulo1>
+						<titulo2>MACHADO, K. S.;WINCK, A. T.;RUIZ, D. D. A.;NORBERTO DE SOUZA, O.Applying Model Trees on Flexible-Receptor Docking Experiments to select promising protein receptor snapshots. In: ISCB Latin America, 2010, Montevideo.International Society for Computational Biology Latin America Conference. 2010.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>5</id>
+						<indice>0.2</indice>
+						<titulo1>PAES, T.;SILVEIRA, J.;ADAMATTI, D. F.;EMMENDORFER, L. R.Poder de Captura das Árvores de Decisão para o Comportamento de Agentes. In: Congresso Regional de Iniciação Científica e Tecnológica em Engenharia - CRICTE, 2010, Rio Grande.Anais. 2010.</titulo1>
+						<titulo2>COHEN, E. M. L.;MACHADO, K. S.;NORBERTO DE SOUZA, O.The effect of InhA flexibility in docking simulations with ethionamide and triclosan. In: ISCB Latin America, 2010, Montevideo.International Society for Computational Biology Latin America Conference. 2010.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>5</id>
+						<indice>0.26</indice>
+						<titulo1>ADAMATTI, D. F.;PAES, T.;SILVEIRA, J.;EMMENDORFER, L. R.Effectiveness of Decision Trees for Detecting the Behavior of Agents. In: IV Conferência Sul de Modelagem Computacional, 2010, Rio Grande.Anais. 2010.</titulo1>
+						<titulo2>MACHADO, K. S.;WINCK, A. T.;RUIZ, D. D. A.;NORBERTO DE SOUZA, O.Discretization of Flexible-Receptor Docking Data. In: Brazilian Symposium on Bioinformatics, 2010, Búzios.LNBI-LNCS. Advances in Bioinformatics and Computational Biology. 2010.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>5</id>
+						<indice>0.18</indice>
+						<titulo1>SILVEIRA, J.;PAES, T.;ADAMATTI, D. F.;EMMENDORFER, L. R.Modelagem da Dinâmica do Fluxo Granular Através de Autômatos Celulares e Simulação Baseada em Agentes. In: MPU - Mostra de produção universitária, 2010, Rio Grande.Mostra de Produção Universitária 2010. 2010.</titulo1>
+						<titulo2>MACHADO, K. S.;WINCK, A. T.;RUIZ, D. D. A.;NORBERTO DE SOUZA, O.Comparison of Discretization Methods of Flexible-Receptor Docking Data for Analyses by Decision Trees. In: IADIS International Conference Applied Computing, 2010, Timisoara.Applied Computing. 2010.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>5</id>
+						<indice>0.16</indice>
+						<titulo1>EMMENDORFER, L. R.;ADAMATTI, D. F.;SILVEIRA, J.;PAES, T.Detectando Padrões Comportamentais de Agentes Através de Árvores de Decisão. In: IV Workshop-Escola de Sistemas de Agentes, seus Ambientes e apliCações, 2010, Rio Grande.Anais do IV Wesaac. 2010.</titulo1>
+						<titulo2>WINCK, A. T.;MACHADO, K. S.;NORBERTO DE SOUZA, O;RUIZ, D. D. A.Supporting Intermolecular Interaction Analyses of Flexible-Receptor Docking Simulations. In: IADIS International Conference Applied Computing, 2010, Timisoara.Applied Computing. 2010.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>5</id>
+						<indice>0.05</indice>
+						<titulo1>On the design of populational clustering. In: International Conference on Evolutionary Computation, 2010, Valencia, Espanha.Proceedings. 2010.</titulo1>
+						<titulo2>MACHADO, K. S.;SCHROEDER, E. K.;RUIZ, D. D. A.;COHEN, E. M. L.;NORBERTO DE SOUZA, O.FREDOWS: A METHOD TO AUTOMATE MOLECULAR DOCKING SIMULATIONS WITH EXPLICIT RECEPTOR FLEXIBILITY AND SNAPSHOTS SELECTION. In: 6th International Conference of the Brazilian Association for Bioinformatics and Computational Biology, 2010, Ouro Preto, MG.Abstracts Book. 2010.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>5</id>
+						<indice>0.1</indice>
+						<titulo1>PAES, T.;SILVEIRA, J.;ADAMATTI, D. F.;EMMENDORFER, L. R.Poder de Captura das Árvores de Decisão para o Comportamento de Agentes. In: Congresso Regional de Iniciação Científica e Tecnológica em Engenharia - CRICTE, 2010, Rio Grande.Anais. 2010.</titulo1>
+						<titulo2>COHEN, E. M. L.;MACHADO, K. S.;COHEN, M.;NORBERTO DE SOUZA, O.EFFECT OF THE EXPLICIT FLEXIBILITY OF THE INHA ENZYME FROM MYCOBACTERIUM TUBERCULOSIS IN MOLECULAR DOCKING SIMULATIONS. In: 6th International Conference of the Brazilian Association for Bioinformatics and Computational Biology, 2010, Ouro Preto.Abstracts Book. 2010.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>5</id>
+						<indice>0.27</indice>
+						<titulo1>ADAMATTI, D. F.;PAES, T.;SILVEIRA, J.;EMMENDORFER, L. R.Effectiveness of Decision Trees for Detecting the Behavior of Agents. In: IV Conferência Sul de Modelagem Computacional, 2010, Rio Grande.Anais. 2010.</titulo1>
+						<titulo2>Winck, A.;MACHADO, K. S.;RUIZ, D. D. A.;STRUBE de LIMA, V. L.Association Rules to Identify Receptor and Ligands Structures thourgh Named Entities Recognition. In: The Twenty Third International Conference on Industrial, Engineering Eh Other Applications of Applied Intelligent Systems, 2010, Córdoba.Trends in Applied Intelligent Systems. IEA/AIE 2010 Part III LNAI-LNCS. 2010.</titulo2>
+						</duplicata>
+					</duplicatas>
+					<peso>14</peso>
+				</ano>
+				<ano valor="2011">
+					<duplicatas>
+						<duplicata>
+						<id>6</id>
+						<indice>0.18</indice>
+						<titulo1>SANTOS, R.;EMMENDORFER, L. R.Uma estratégia híbrida para o problema de empacotamento de duas elipses. In: XVII Encontro Regional de Estudantes de Matemática do Sul, 2011, Curitiba.Anais do XVII Encontro Regional de Estudantes de Matemática do Sul. 2011.</titulo1>
+						<titulo2>Cornetet, L. R.;WERHLI, A. V.;MACHADO, K. S.A Scientific Workflow for Performing Molecular Dynamics Simulation. In: Xmeeting, 2011, Florianópolis.2011 Abstract book. 2011.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>6</id>
+						<indice>0.23</indice>
+						<titulo1>LORENZ, W.;WERHLI, A. V.;EMMENDORFER, L. R.Descoberta de conhecimento em bancos de dados aplicada ao caso de alunos com subsídio. In: XIX Seminário de Iniciação Científica, 2011, Ijuí.Anais do XIX Seminário de Iniciação Científica. 2011.</titulo1>
+						<titulo2>Cornetet, L. R.;WERHLI, A. V.;MACHADO, K. S.A Scientific Workflow for Performing Molecular Dynamics Simulation. In: Xmeeting, 2011, Florianópolis.2011 Abstract book. 2011.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>6</id>
+						<indice>0.19</indice>
+						<titulo1>LORENZ, W.;WERHLI, A. V.;EMMENDORFER, L. R.Data Mining aplicado ao caso de alunos com subsídio do núcleo de assistência estudantil da Universidade Federal do Rio Grande - FURG. In: 10a Mostra de Produção Universitária - MPU, 2011, Rio Grande.Anais. 2011.</titulo1>
+						<titulo2>Cornetet, L. R.;WERHLI, A. V.;MACHADO, K. S.A Scientific Workflow for Performing Molecular Dynamics Simulation. In: Xmeeting, 2011, Florianópolis.2011 Abstract book. 2011.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>6</id>
+						<indice>0.23</indice>
+						<titulo1>SANTOS, R.;EMMENDORFER, L. R.Uma estratégia híbrida para o problema de empacotamento de duas elipses. In: XVII Encontro Regional de Estudantes de Matemática do Sul, 2011, Curitiba.Anais do XVII Encontro Regional de Estudantes de Matemática do Sul. 2011.</titulo1>
+						<titulo2>Cornetet, L. R.;MACHADO, K. S.Workflow Científico para Dinâmica Molecular. In: 10º Mostra da Produção Universitária, 2011, Rio Grande.10º Mostra da Produção Universitária. 2011.</titulo2>
+						</duplicata>
+					</duplicatas>
+					<peso>4</peso>
+				</ano>
+				<ano valor="2012">
+					<duplicatas>
+						<duplicata>
+						<id>7</id>
+						<indice>0.23</indice>
+						<titulo1>BECKEL, C.;ORO, N.;Emmendorfer, Leonardo Ramos.Heurística para o posicionamento de elipses tangentes no interior de um polígono de n lados. In: V Conferência Sul em Modelagem Computacional - V MCSUL, 2012, Rio Grande.Anais da V Conferência Sul em Modelagem Computacional ? VMCSul. 2012.</titulo1>
+						<titulo2>WINCK, A. T.;QUEVEDO, C. V.;MACHADO, K. S.;NORBERTO DE SOUZA, O;RUIZ, D. D. A.A Comparative Analysis of Public Ligand Databases Based on Molecular Descriptors. In: Brazilian Symposium on Bioinformatics, 2012, Campo Grande.LNBI-LNCS. Advances in Bioinformatics and Computational Biology. 2012.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>7</id>
+						<indice>0.22</indice>
+						<titulo1>BECKEL, C. C.;Emmendorfer, Leonardo Ramos;ORO, N.An adaptation of the Hook and Jeeves optimization algorithm for the maximization of the dimensions of an ellipse inscribed in a given non-convex polygon. In: 5th LNCC Meeting on Computational Modeling, 2012, Petrópilis/RJ.Proceedings of the 5th LNCC Meeting on Computational Modeling. 2012.</titulo1>
+						<titulo2>WINCK, A. T.;QUEVEDO, C. V.;MACHADO, K. S.;NORBERTO DE SOUZA, O;RUIZ, D. D. A.A Comparative Analysis of Public Ligand Databases Based on Molecular Descriptors. In: Brazilian Symposium on Bioinformatics, 2012, Campo Grande.LNBI-LNCS. Advances in Bioinformatics and Computational Biology. 2012.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>7</id>
+						<indice>0.2</indice>
+						<titulo1>GAMBETA-LEITE, M. R. S.;SOUZA, R. V.;SPOLAVORI, A.;KRUSCHE, N.;Emmendorfer, Leonardo Ramos.Estudo de caso sobre o acoplamento de um modelo de previsão numérica ao planejamento de alocação de berços no Porto de Rio Grande. In: V Conferência Sul em Modelagem Computacional ? VMCSul, 2012, Rio Grande/RS.Anais da V Conferência Sul em Modelagem Computacional ? VMCSul. 2012.</titulo1>
+						<titulo2>WINCK, A. T.;QUEVEDO, C. V.;MACHADO, K. S.;NORBERTO DE SOUZA, O;RUIZ, D. D. A.A Comparative Analysis of Public Ligand Databases Based on Molecular Descriptors. In: Brazilian Symposium on Bioinformatics, 2012, Campo Grande.LNBI-LNCS. Advances in Bioinformatics and Computational Biology. 2012.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>7</id>
+						<indice>0.23</indice>
+						<titulo1>LORENZ, W.;SILVA, R.;Emmendorfer, Leonardo Ramos;WERHLI, A. V.Data Mining aplicado ao caso de alunos com subsídio no núcleo de assistência estudantil NAE da Universidade Federal do Rio Grande. In: XI SImpósio de Informática da UNIFRA, 2012, Santa Maria/RS.Anais do XI SImpósio de Informática da UNIFRA. 2012.</titulo1>
+						<titulo2>WINCK, A. T.;QUEVEDO, C. V.;MACHADO, K. S.;NORBERTO DE SOUZA, O;RUIZ, D. D. A.A Comparative Analysis of Public Ligand Databases Based on Molecular Descriptors. In: Brazilian Symposium on Bioinformatics, 2012, Campo Grande.LNBI-LNCS. Advances in Bioinformatics and Computational Biology. 2012.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>7</id>
+						<indice>0.24</indice>
+						<titulo1>MARCOS, P. B.;Emmendorfer, Leonardo Ramos.Orpheu - A Performance-Oriented System for Musical Accompaniment: An Approach Using  the Markov Decision Process. In: Congresso Brasileiro de Automática, 2012, Campina Grande.Anais do Congresso Brasileiro de Automática. 2012.</titulo1>
+						<titulo2>WINCK, A. T.;QUEVEDO, C. V.;MACHADO, K. S.;NORBERTO DE SOUZA, O;RUIZ, D. D. A.A Comparative Analysis of Public Ligand Databases Based on Molecular Descriptors. In: Brazilian Symposium on Bioinformatics, 2012, Campo Grande.LNBI-LNCS. Advances in Bioinformatics and Computational Biology. 2012.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>7</id>
+						<indice>0.24</indice>
+						<titulo1>BECKEL, C.;ORO, N.;Emmendorfer, Leonardo Ramos.Heurística para o posicionamento de elipses tangentes no interior de um polígono de n lados. In: V Conferência Sul em Modelagem Computacional - V MCSUL, 2012, Rio Grande.Anais da V Conferência Sul em Modelagem Computacional ? VMCSul. 2012.</titulo1>
+						<titulo2>PERAZZO, G. X.;WINCK, A. T.;MACHADO, K. S.Application Of Data Mining To Select Promising Compounds Based on Molecular Descriptors. In: 8th International Conference of the Brazilian Association for Bioinformatics and Computational Biology, 2012, Campinhas-SP.X-Meeting 2012 -. 2012.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>7</id>
+						<indice>0.23</indice>
+						<titulo1>BECKEL, C. C.;Emmendorfer, Leonardo Ramos;ORO, N.An adaptation of the Hook and Jeeves optimization algorithm for the maximization of the dimensions of an ellipse inscribed in a given non-convex polygon. In: 5th LNCC Meeting on Computational Modeling, 2012, Petrópilis/RJ.Proceedings of the 5th LNCC Meeting on Computational Modeling. 2012.</titulo1>
+						<titulo2>BERNARDI, C. A. C.;MADALOSSO, O. M.;CHARAO, A. S.;WINCK, A. T.;MACHADO, K. S.Análise de Profilers para Programas em Java: Estudo de Caso Aplicado ao Algoritmo M5P do Software Weka. In: XIII Simpósio em Sistemas Computacionais (WSCAD-SSC), 2012, Petrópolis, RJ.Anais do XIII Simpósio em Sistemas Computacionais. 2012.</titulo2>
+						</duplicata>
+					</duplicatas>
+					<peso>7</peso>
+				</ano>
+				<ano valor="2013">
+					<duplicatas>
+						<duplicata>
+						<id>8</id>
+						<indice>0.28</indice>
+						<titulo1>PEREIRA, I. A.;MACHADO, K. S.;BORGES, E. N.;Emmendorfer, Leonardo.Um método de agrupamento de dados por transferência'. In: XII Mostra da Produção Universitária - XV Encontro de  Pós-Graduação, 2013, Rio Grande.Anais da XII Mostra da Produção Universitária. 2013.</titulo1>
+						<titulo2>PERAZZO, GIOVANNI XAVIER;WINCK, ANA T.;MACHADO, KARINA S.A data warehouse as an infrastructure to mine molecular descriptors for virtual screening. In: the 28th Annual ACM Symposium, , Coimbra.Proceedings of the 28th Annual ACM Symposium on Applied Computing - SAC Ehapos;13. 2013.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>8</id>
+						<indice>0.25</indice>
+						<titulo1>QUADROS, C.;FREITAS, C. R.;SILVA, M.;ANTIQUEIRA, L.;PUREZA, S.;HERNANDES, F.;GAUTERIO, E.;SILVEIRA, J.;Emmendorfer, Leonardo Ramos.Mobilidade Urbana em Rio Grande - RS: uma visão interdisciplinar. In: Simpósio Internacional sobre Interdisciplinaridade no Ensino, na Pesquisa e na Extensão, 2013, Florianópolis.Simpósio Internacional sobre Interdisciplinaridade no Ensino, na Pesquisa e na Extensão. 2013.</titulo1>
+						<titulo2>PERAZZO, GIOVANNI XAVIER;WINCK, ANA T.;MACHADO, KARINA S.A data warehouse as an infrastructure to mine molecular descriptors for virtual screening. In: the 28th Annual ACM Symposium, , Coimbra.Proceedings of the 28th Annual ACM Symposium on Applied Computing - SAC Ehapos;13. 2013.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>8</id>
+						<indice>0.17</indice>
+						<titulo1>PEREIRA, I. A.;MACHADO, K. S.;BORGES, E. N.;Emmendorfer, Leonardo.Um método de agrupamento de dados por transferência'. In: XII Mostra da Produção Universitária - XV Encontro de  Pós-Graduação, 2013, Rio Grande.Anais da XII Mostra da Produção Universitária. 2013.</titulo1>
+						<titulo2>WERLANG, P.;FAGUNDES, M. Q.;ADAMATTI, D. F.;MACHADO, K. S.;GROLL, A. V.;SILVA, P. E. A.;WERHLI, A. V.Multi-Agent-Based Simulation of Mycobacterium tuberculosis growth. In: 14th International Workshop on Multi-Agent-Based Simulation, 2013, Saint Paul - USA.MABS 2013. 2013.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>8</id>
+						<indice>0.24</indice>
+						<titulo1>QUADROS, C.;FREITAS, C. R.;SILVA, M.;ANTIQUEIRA, L.;PUREZA, S.;HERNANDES, F.;GAUTERIO, E.;SILVEIRA, J.;Emmendorfer, Leonardo Ramos.Mobilidade Urbana em Rio Grande - RS: uma visão interdisciplinar. In: Simpósio Internacional sobre Interdisciplinaridade no Ensino, na Pesquisa e na Extensão, 2013, Florianópolis.Simpósio Internacional sobre Interdisciplinaridade no Ensino, na Pesquisa e na Extensão. 2013.</titulo1>
+						<titulo2>TROINA, S. S.;MACHADO, K. S.DBModeler: Um sistema web para criação, manutenção e consulta de diagramas de bancos de dados. In: IX Escola Regional de Banco de Dados, 2013, Camburiú.IX Escola Regional de Banco de Dados. 2013.</titulo2>
+						</duplicata>
+					</duplicatas>
+					<peso>4</peso>
+				</ano>
+				<ano valor="2014">
+					<duplicatas>
+						<duplicata>
+						<id>9</id>
+						<indice>0.24</indice>
+						<titulo1>BECKEL, C. C.;ORO, N.;Emmendorfer, Leonardo Ramos.A Constructuve heuristic for gem cut: packing of ellipses in an irregular polygon. In: Conference on Engineering and Applied Sciences Optimization (OPT-i),, 2014, Kos, Greece.Conference on Engineering and Applied Sciences Optimization (OPT-i). 2014.</titulo1>
+						<titulo2>Cornetet, L. R.;DURRUTHY, M.;MONSERRAT, J.;WERHLI, ADRIANO V.;MACHADO, KARINA S.A Framework for Performing Molecular Docking Simulations with Carbon Nanotubes. In: ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio, 2014, Belo Horizonte.ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio Abstract Book. 2014.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>9</id>
+						<indice>0.09</indice>
+						<titulo1>GONZALES, G. V.;EMMENDORFER, L. R.;ISOLDI, L. A.;ESTRADA, E. S. D.;ROCHA, L. A. O.;SANTOS, E. D.A COMPARATIVE STUDY OF SIMULATED ANNEALING WITH DIFFERENT COOLING SCHEDULES FOR GEOMETRIC OPTIMIZATION OF A HEAT TRANSFER PROBLEM ACCORDING TO CONSTRUCTAL DESIGN. In: VI Conferência Sul em Modelagem Computacional (MCSul), 2014, Rio Grande.Anais da VI Conferência Sul em Modelagem Computacional (MCSul). 2014.</titulo1>
+						<titulo2>Cornetet, L. R.;DURRUTHY, M.;MONSERRAT, J.;WERHLI, ADRIANO V.;MACHADO, KARINA S.A Framework for Performing Molecular Docking Simulations with Carbon Nanotubes. In: ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio, 2014, Belo Horizonte.ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio Abstract Book. 2014.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>9</id>
+						<indice>0.09</indice>
+						<titulo1>GONZALES, G. V.;EMMENDORFER, L. R.;ISOLDI, L. A.;ROCHA, L. A. O.;SANTOS, E. D.CONSTRUCTAL DESIGN AND SIMULATED ANNEALING EMPLOYED FOR GEOMETRIC OPTIMIZATION OF A Y-SHAPED CAVITY INTRUDED INTO CONDUCTIVE WALL. In: VI Conferência Sul em Modelagem Computacional (MCSul), 2014, Rio Grande.Anais da VI Conferência Sul em Modelagem Computacional (MCSul). 2014.</titulo1>
+						<titulo2>Cornetet, L. R.;DURRUTHY, M.;MONSERRAT, J.;WERHLI, ADRIANO V.;MACHADO, KARINA S.A Framework for Performing Molecular Docking Simulations with Carbon Nanotubes. In: ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio, 2014, Belo Horizonte.ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio Abstract Book. 2014.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>9</id>
+						<indice>0.19</indice>
+						<titulo1>GIL, V. O.;FERRARI, F.;Emmendorfer, Leonardo Ramos.Investigação da aplicação de algoritmos de agrupamento para o problema astrofísico de classificação de galáxias. In: VI Conferência Sul em Modelagem Computacional (MCSul), 2014, Rio Grande.Anais da VI Conferência Sul em Modelagem Computacional (MCSul). 2014.</titulo1>
+						<titulo2>Cornetet, L. R.;DURRUTHY, M.;MONSERRAT, J.;WERHLI, ADRIANO V.;MACHADO, KARINA S.A Framework for Performing Molecular Docking Simulations with Carbon Nanotubes. In: ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio, 2014, Belo Horizonte.ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio Abstract Book. 2014.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>9</id>
+						<indice>0.17</indice>
+						<titulo1>GIL, V. O.;FERRARI, F.;Emmendorfer, Leonardo Ramos.Análise de Agrupamentos para Classificação Morfométrica de Galáxias. In: XVII Encontro de Modelagem Computacional, 2014, Petrópilis, RJ.Anais do XVII Encontro de Modelagem Computacional. 2014.</titulo1>
+						<titulo2>Cornetet, L. R.;DURRUTHY, M.;MONSERRAT, J.;WERHLI, ADRIANO V.;MACHADO, KARINA S.A Framework for Performing Molecular Docking Simulations with Carbon Nanotubes. In: ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio, 2014, Belo Horizonte.ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio Abstract Book. 2014.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>9</id>
+						<indice>0.09</indice>
+						<titulo1>BOTELHO, S.;FILHO, N.L.D.;ESPINDOLA, D. B.;BICHET, M. A. A.;Emmendorfer, Leonardo Ramos;SANTOS, R. A. P.;FRAZZON, E. M.;HENRIQUES, R. V. B.;PEREIRA, C. E.INCLUDING OPERATOR'S SKILL AND ENVIRONMENT CONDITIONS IN AN IMS. In: 12th International Conference on Industrial Informatics, 2014, .Proceeding on 12th International Conference on Industrial Informatics. 2014.</titulo1>
+						<titulo2>Cornetet, L. R.;DURRUTHY, M.;MONSERRAT, J.;WERHLI, ADRIANO V.;MACHADO, KARINA S.A Framework for Performing Molecular Docking Simulations with Carbon Nanotubes. In: ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio, 2014, Belo Horizonte.ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio Abstract Book. 2014.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>9</id>
+						<indice>0.19</indice>
+						<titulo1>MOTA, F. P.;RIBEIRO, N.;Emmendorfer, Leonardo Ramos;BUTZEN, P. F.;MACHADO, K. S.;ADAMATTI, D. F.Desenvolvendo o Raciocínio Lógico no Ensino Médio: uma proposta utilizando a ferramenta Scratch. In: Simpósio Brasileiro de Informática na Educação, 2014, Dourados, MS.Anais do Simpósio Brasileiro de Informática na Educação. 2014.</titulo1>
+						<titulo2>Cornetet, L. R.;DURRUTHY, M.;MONSERRAT, J.;WERHLI, ADRIANO V.;MACHADO, KARINA S.A Framework for Performing Molecular Docking Simulations with Carbon Nanotubes. In: ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio, 2014, Belo Horizonte.ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio Abstract Book. 2014.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>9</id>
+						<indice>0.21</indice>
+						<titulo1>BECKEL, C. C.;ORO, N.;Emmendorfer, Leonardo Ramos.Modelagem matemática e computacional para o problema de empacotamento de elipses em polígonos irregulares. In: XXXV Congresso Nacional de Matematica Aplicada e Computacional, 2014, Natal.Anais do XXXV Congresso Nacional de Matematica Aplicada e Computacional. 2014.</titulo1>
+						<titulo2>Cornetet, L. R.;DURRUTHY, M.;MONSERRAT, J.;WERHLI, ADRIANO V.;MACHADO, KARINA S.A Framework for Performing Molecular Docking Simulations with Carbon Nanotubes. In: ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio, 2014, Belo Horizonte.ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio Abstract Book. 2014.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>9</id>
+						<indice>0.19</indice>
+						<titulo1>PROLO FILHO, J. F.;FERREIRA, C. E. S.;RODRIGUEZ, B. A. D.;Emmendorfer, Leonardo Ramos.Métodos numéricos aplicados à Transformada Inversa de Laplace. In: XXXV Congresso Nacional de Matematica Aplicada e Computacional, 2014, Natal.Anais do XXXV Congresso Nacional de Matematica Aplicada e Computacional. 2014.</titulo1>
+						<titulo2>Cornetet, L. R.;DURRUTHY, M.;MONSERRAT, J.;WERHLI, ADRIANO V.;MACHADO, KARINA S.A Framework for Performing Molecular Docking Simulations with Carbon Nanotubes. In: ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio, 2014, Belo Horizonte.ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio Abstract Book. 2014.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>9</id>
+						<indice>0.18</indice>
+						<titulo1>BECKEL, C. C.;ORO, N.;Emmendorfer, Leonardo Ramos.A Constructuve heuristic for gem cut: packing of ellipses in an irregular polygon. In: Conference on Engineering and Applied Sciences Optimization (OPT-i),, 2014, Kos, Greece.Conference on Engineering and Applied Sciences Optimization (OPT-i). 2014.</titulo1>
+						<titulo2>BARRETO, N. A.;MACHADO, KARINA S.;WERHLI, A. V.Inference Of Regulatory Networks With A Convergence Improved Markov Chain Monte Carlo Sampler. In: ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio, 2014, Belo Horizonte.ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio Abstract Book. 2014.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>9</id>
+						<indice>0.07</indice>
+						<titulo1>GONZALES, G. V.;EMMENDORFER, L. R.;ISOLDI, L. A.;ESTRADA, E. S. D.;ROCHA, L. A. O.;SANTOS, E. D.A COMPARATIVE STUDY OF SIMULATED ANNEALING WITH DIFFERENT COOLING SCHEDULES FOR GEOMETRIC OPTIMIZATION OF A HEAT TRANSFER PROBLEM ACCORDING TO CONSTRUCTAL DESIGN. In: VI Conferência Sul em Modelagem Computacional (MCSul), 2014, Rio Grande.Anais da VI Conferência Sul em Modelagem Computacional (MCSul). 2014.</titulo1>
+						<titulo2>RICO, T. M.;ESLABAO, M.;KREMER, F.;SILVA, P. E. A.;Borges, E.N.;PINTO, L.;DELLAGOSTIN, O.;MACHADO, KARINA S.Leptospira's Species Classi cation based on Data Mining. In: ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio, 2014, Belo Horizonte.ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio Abstract Book. 2014.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>9</id>
+						<indice>0.11</indice>
+						<titulo1>GONZALES, G. V.;EMMENDORFER, L. R.;ISOLDI, L. A.;ROCHA, L. A. O.;SANTOS, E. D.CONSTRUCTAL DESIGN AND SIMULATED ANNEALING EMPLOYED FOR GEOMETRIC OPTIMIZATION OF A Y-SHAPED CAVITY INTRUDED INTO CONDUCTIVE WALL. In: VI Conferência Sul em Modelagem Computacional (MCSul), 2014, Rio Grande.Anais da VI Conferência Sul em Modelagem Computacional (MCSul). 2014.</titulo1>
+						<titulo2>GELATTI, G. J.;CASSALES, V.;Vargas, A.P.;FELIPPE, C.;MACHADO, KARINA S.SIGNUM: Portuguese-LIBRAS Translator based on Text Mining as Web Browser Extension. In: IHC'14 - XIII Brazilian Symposium on Human Factors and Demonstrations, 2014, Foz do Iguaçu - PR.Proceedings of the XIII Brazilian Symposium on Human Factors and Demonstrations. 2014.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>9</id>
+						<indice>0.18</indice>
+						<titulo1>GIL, V. O.;FERRARI, F.;Emmendorfer, Leonardo Ramos.Investigação da aplicação de algoritmos de agrupamento para o problema astrofísico de classificação de galáxias. In: VI Conferência Sul em Modelagem Computacional (MCSul), 2014, Rio Grande.Anais da VI Conferência Sul em Modelagem Computacional (MCSul). 2014.</titulo1>
+						<titulo2>WERLANG, P.;FAGUNDES, M. Q.;ADAMATTI, D. F.;MACHADO, KARINA S.;GROLL, A. V.;SILVA, P. E. A.;WERHLI, A. V.Estimation of Parameters of Mycobacterium tuberculosis Growth: A Multi-Agent-Based Simulation Approach. In: 14th Ibero-American Conference on Artificial Intelligence - IBERAMIA, 2014, Santiago - Chile.Proceedings of the 14th Ibero-American Conference on Artificial Intelligence. 2014.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>9</id>
+						<indice>0.21</indice>
+						<titulo1>GIL, V. O.;FERRARI, F.;Emmendorfer, Leonardo Ramos.Análise de Agrupamentos para Classificação Morfométrica de Galáxias. In: XVII Encontro de Modelagem Computacional, 2014, Petrópilis, RJ.Anais do XVII Encontro de Modelagem Computacional. 2014.</titulo1>
+						<titulo2>MOTA, F.;RIBEIRO, N. F. A.;Emmendorfer, L.;BUTZEN, P. F.;MACHADO, KARINA S.;ADAMATTI, D. F.Desenvolvendo o Raciocínio Lógico no Ensino Médio: uma proposta utilizando a ferramenta Scratch. In: XXV Simpósio Brasileiro de Informática na Educação (SBIE 2014), 2014, Dourados - MS.Anais do SBIE 2014. 2014.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>9</id>
+						<indice>0.1</indice>
+						<titulo1>BOTELHO, S.;FILHO, N.L.D.;ESPINDOLA, D. B.;BICHET, M. A. A.;Emmendorfer, Leonardo Ramos;SANTOS, R. A. P.;FRAZZON, E. M.;HENRIQUES, R. V. B.;PEREIRA, C. E.INCLUDING OPERATOR'S SKILL AND ENVIRONMENT CONDITIONS IN AN IMS. In: 12th International Conference on Industrial Informatics, 2014, .Proceeding on 12th International Conference on Industrial Informatics. 2014.</titulo1>
+						<titulo2>SCOTTA, A.;HUTTNER, V.;MACHADO, KARINA S.;MARTINS, Ivete Pinto;COUTO, Z.;ESPINDOLA, D. B.Uma aplicação da Realidade Aumentada em Laboratórios Mistos para Ensino de Química. In: 3º Congresso Brasileiro de Informática na Educação (CBIE 2014) - Workshop de Ambientes Virtuais na Educação, 2014, Dourados - MS.Anais dos Workshops do CBIE 2014. 2014.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>9</id>
+						<indice>0.23</indice>
+						<titulo1>MOTA, F. P.;RIBEIRO, N.;Emmendorfer, Leonardo Ramos;BUTZEN, P. F.;MACHADO, K. S.;ADAMATTI, D. F.Desenvolvendo o Raciocínio Lógico no Ensino Médio: uma proposta utilizando a ferramenta Scratch. In: Simpósio Brasileiro de Informática na Educação, 2014, Dourados, MS.Anais do Simpósio Brasileiro de Informática na Educação. 2014.</titulo1>
+						<titulo2>BRENNER, F.;PIANESSER, R.;ESPINDOLA, D. B.;MARTINS, Ivete Pinto;MUSA, M.;GOUVEA, A.;GALLON, R. F.;MACHADO, KARINA S.Revisão Sistemática da Educação a Distância: Um estudo de Caso da EaD no Brasil. In: ESUD 2014 - XI Congresso Brasileiro de Ensino Superior a Distância, 2014, Florianópolis - SC.Anais do XI Congresso Brasileiro de Ensino Superior a Distância. 2014.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>9</id>
+						<indice>0.22</indice>
+						<titulo1>BECKEL, C. C.;ORO, N.;Emmendorfer, Leonardo Ramos.Modelagem matemática e computacional para o problema de empacotamento de elipses em polígonos irregulares. In: XXXV Congresso Nacional de Matematica Aplicada e Computacional, 2014, Natal.Anais do XXXV Congresso Nacional de Matematica Aplicada e Computacional. 2014.</titulo1>
+						<titulo2>DREWS-JR, P.;BAUER, M.;MACHADO, KARINA S.;PUCIARELLI, P.;DUMONT, L. F. C.A Machine Learning Approach to Predict the Pink Shrimp Harvest in the Patos Lagoon Estuary. In: Symposium on Knowledge Discovery, Mining and Learning, KDMILE 2014, 2014, São Carlos - SP.KDMILE 2014. 2014.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>9</id>
+						<indice>0.33</indice>
+						<titulo1>PROLO FILHO, J. F.;FERREIRA, C. E. S.;RODRIGUEZ, B. A. D.;Emmendorfer, Leonardo Ramos.Métodos numéricos aplicados à Transformada Inversa de Laplace. In: XXXV Congresso Nacional de Matematica Aplicada e Computacional, 2014, Natal.Anais do XXXV Congresso Nacional de Matematica Aplicada e Computacional. 2014.</titulo1>
+						<titulo2>MACIEL, T. V.;SEUS, V. R.;MACHADO, KARINA S.;Borges, E.N.Mineração de Dados em Triagem de Risco de Saúde. In: VI Conferência Sul em Modelagem Computacional - MCSul, 2014, Rio Grande - RS.Anais do 6º MCSul - Conferência Sul em Modelagem Computacional. 2014.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>9</id>
+						<indice>0.2</indice>
+						<titulo1>BECKEL, C. C.;ORO, N.;Emmendorfer, Leonardo Ramos.A Constructuve heuristic for gem cut: packing of ellipses in an irregular polygon. In: Conference on Engineering and Applied Sciences Optimization (OPT-i),, 2014, Kos, Greece.Conference on Engineering and Applied Sciences Optimization (OPT-i). 2014.</titulo1>
+						<titulo2>BARBAT, M. M.;COLETTO, J. L.;GOULART, M. G.;TEIXEIRA, E. P.;MACHADO, KARINA S.;Borges, E.N.Extração de conhecimento a partir de bancos de dados oceanográficos mistos. In: VI Conferência Sul em Modelagem Computacional - MCSul, 2014, Rio Grande - RS.Anais do 6º MCSul - Conferência Sul em Modelagem Computacional. 2014.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>9</id>
+						<indice>0.09</indice>
+						<titulo1>GONZALES, G. V.;EMMENDORFER, L. R.;ISOLDI, L. A.;ESTRADA, E. S. D.;ROCHA, L. A. O.;SANTOS, E. D.A COMPARATIVE STUDY OF SIMULATED ANNEALING WITH DIFFERENT COOLING SCHEDULES FOR GEOMETRIC OPTIMIZATION OF A HEAT TRANSFER PROBLEM ACCORDING TO CONSTRUCTAL DESIGN. In: VI Conferência Sul em Modelagem Computacional (MCSul), 2014, Rio Grande.Anais da VI Conferência Sul em Modelagem Computacional (MCSul). 2014.</titulo1>
+						<titulo2>PIANESSER, R.;BRENNER, F.;MACHADO, KARINA S.;MARTINS, Ivete Pinto;MUSA, M.;GOUVEA, A.;GALLON, R. F.;ESPINDOLA, D. B.Educação a Distância: Um panorama baseado no modelo da Universidade Aberta do Brasil. In: ESUD 2014 - XI Congresso Brasileiro de Ensino Superior a Distância, 2014, Florianópolis - SC.Anais do XI Congresso Brasileiro de Ensino Superior a Distância. 2014.</titulo2>
+						</duplicata>
+					</duplicatas>
+					<peso>20</peso>
+				</ano>
+				<ano valor="2016">
+					<duplicatas>
+						<duplicata>
+						<id>10</id>
+						<indice>1</indice>
+						<titulo1>TOMASINI, CAROLINE;Emmendorfer, Leonardo;BORGES, EDUARDO N.;MACHADO, KARINA.A methodology for selecting the most suitable cluster validation internal indices. In: the 31st Annual ACM Symposium, 2016, Pisa.Proceedings of the 31st Annual ACM Symposium on Applied Computing - SAC Ehapos;16. 2016.</titulo1>
+						<titulo2>TOMASINI, C.;Emmendorfer, L.;Borges, Eduardo N.;MACHADO, KARINA S.A methodology for selecting the most suitable cluster validation internal indices. In: ACM SAC 2016, 2016, Pisa, Italy.Proceedings of the 31st Annual ACM Symposium on Applied Computing. 2016.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>10</id>
+						<indice>0.05</indice>
+						<titulo1>GUIMARAES, M. V. F.;SANTOS, E. D.;Emmendorfer, Leonardo Ramos.AVALIAÇÃO GEOMÉTRICA DA DIFUSÃO DO CALOR EM SÓLIDOS COM CAVIDADES COMPLEXAS. In: Conferência Sul em Modelagem Computacional, 2016, .Anais do MCSUL 2016. 2016.</titulo1>
+						<titulo2>TOMASINI, C.;Emmendorfer, L.;Borges, Eduardo N.;MACHADO, KARINA S.A methodology for selecting the most suitable cluster validation internal indices. In: ACM SAC 2016, 2016, Pisa, Italy.Proceedings of the 31st Annual ACM Symposium on Applied Computing. 2016.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>10</id>
+						<indice>0.09</indice>
+						<titulo1>SANTOS, B. S.;GARCIA, L. G.;SANTOS, C. M.;EMMENDORFER, L.R.AGRUPAMENTO DE DADOS UTILIZANDO ESPECTRO DE GRAFOS. In: 7ª Conferência Sul em Modelagem Computacional, 2016, .Anais do MCSUL 2016. 2016.</titulo1>
+						<titulo2>TOMASINI, C.;Emmendorfer, L.;Borges, Eduardo N.;MACHADO, KARINA S.A methodology for selecting the most suitable cluster validation internal indices. In: ACM SAC 2016, 2016, Pisa, Italy.Proceedings of the 31st Annual ACM Symposium on Applied Computing. 2016.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>10</id>
+						<indice>0.21</indice>
+						<titulo1>GARIM, L.;EMMENDORFER, L.R.Uma Comparação Entre o Algoritmo K-means e o Algoritmo Espectral Para Agrupamento de Dados com Curvatura Acentuada. In: XXXVI Congresso de Matemática Aplicada e Computacional., 2016, .Anais do XXXVI Congresso de Matemática Aplicada e Computacional. 2016.</titulo1>
+						<titulo2>TOMASINI, C.;Emmendorfer, L.;Borges, Eduardo N.;MACHADO, KARINA S.A methodology for selecting the most suitable cluster validation internal indices. In: ACM SAC 2016, 2016, Pisa, Italy.Proceedings of the 31st Annual ACM Symposium on Applied Computing. 2016.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>10</id>
+						<indice>0.23</indice>
+						<titulo1>TOMASINI, CAROLINE;Emmendorfer, Leonardo;BORGES, EDUARDO N.;MACHADO, KARINA.A methodology for selecting the most suitable cluster validation internal indices. In: the 31st Annual ACM Symposium, 2016, Pisa.Proceedings of the 31st Annual ACM Symposium on Applied Computing - SAC Ehapos;16. 2016.</titulo1>
+						<titulo2>SEUS, V. R.;SILVA JR., L. V.;GOMES, JORGE;SILVA, P. E. A.;Prates, N. S.;ZANATTA, N.;WERHLI, A. V.;MACHADO, K. S.A Framework for Virtual Screening. In: ACM SAC 2016, 2016, Pisa, Italy.Proceedings of the 31st Annual ACM Symposium on Applied Computing. 2016.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>10</id>
+						<indice>0.08</indice>
+						<titulo1>GUIMARAES, M. V. F.;SANTOS, E. D.;Emmendorfer, Leonardo Ramos.AVALIAÇÃO GEOMÉTRICA DA DIFUSÃO DO CALOR EM SÓLIDOS COM CAVIDADES COMPLEXAS. In: Conferência Sul em Modelagem Computacional, 2016, .Anais do MCSUL 2016. 2016.</titulo1>
+						<titulo2>CANOFRE, R.;Borges, Eduardo N.;MACHADO, KARINA S.Uma Avaliação de Algoritmos para Mineração de Dados Disponíveis na Web. In: XII Escola Regional de Banco de Dados, 2016, Londrina - PR.Anais da XII Escola Regional de Banco de Dados. 2016.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>10</id>
+						<indice>0.08</indice>
+						<titulo1>SANTOS, B. S.;GARCIA, L. G.;SANTOS, C. M.;EMMENDORFER, L.R.AGRUPAMENTO DE DADOS UTILIZANDO ESPECTRO DE GRAFOS. In: 7ª Conferência Sul em Modelagem Computacional, 2016, .Anais do MCSUL 2016. 2016.</titulo1>
+						<titulo2>MACHADO, R. F.;PINHEIRO, R. F.;MACHADO, KARINA S.;Borges, Eduardo N.Deduplicação de Contatos em Dispositivos Móveis Utilizando Similaridade Textual e Aprendizado de Máquina. In: XII Brazilian Symposium on Information Systems, 2016, Florianópolis - SC.Anais do XII Brazilian Symposium on Information Systems. 2016.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>10</id>
+						<indice>0.26</indice>
+						<titulo1>GARIM, L.;EMMENDORFER, L.R.Uma Comparação Entre o Algoritmo K-means e o Algoritmo Espectral Para Agrupamento de Dados com Curvatura Acentuada. In: XXXVI Congresso de Matemática Aplicada e Computacional., 2016, .Anais do XXXVI Congresso de Matemática Aplicada e Computacional. 2016.</titulo1>
+						<titulo2>BRENNER, F.;MARTINS, Ivete Pinto;ESPINDOLA, D. B.;MACHADO, KARINA S.Mineração de dados aplicada ao estudo de perfis de alunos na plataforma Moodle. In: III Congresso Brasileiro de Ensino Superior a Distância (ESUD 2016), 2016, São João del Rei - MG.Anais do XIII Congresso Brasileiro de Ensino Superior a Distância (ESUD 2016). 2016.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>10</id>
+						<indice>0.19</indice>
+						<titulo1>TOMASINI, CAROLINE;Emmendorfer, Leonardo;BORGES, EDUARDO N.;MACHADO, KARINA.A methodology for selecting the most suitable cluster validation internal indices. In: the 31st Annual ACM Symposium, 2016, Pisa.Proceedings of the 31st Annual ACM Symposium on Applied Computing - SAC Ehapos;16. 2016.</titulo1>
+						<titulo2>KRONBAUER, A.;SCHMIDT, L. A.;MACHADO, KARINA S.;Winck, A. T.Identificação de Regiões Densas de Trajetórias Atômicas em Simulações de Dinâmica MolecularEh#8232;Eh#8232;. In: Symposium on Knowledge Discovery, Mining and Learning (KDMiLe), 2016, Recife - PE.Symposium on Knowledge Discovery, Mining and Learning (KDMiLe). 2016.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>10</id>
+						<indice>0.09</indice>
+						<titulo1>GUIMARAES, M. V. F.;SANTOS, E. D.;Emmendorfer, Leonardo Ramos.AVALIAÇÃO GEOMÉTRICA DA DIFUSÃO DO CALOR EM SÓLIDOS COM CAVIDADES COMPLEXAS. In: Conferência Sul em Modelagem Computacional, 2016, .Anais do MCSUL 2016. 2016.</titulo1>
+						<titulo2>RICO, T. M.;MACHADO, KARINA S.;SANTIN, M. M.;NOGUEZ, P. T.;BARCELOS, C. R. G.;MADRUGA, S. W.;PETRARCA, C. R.;DUMITH, S. C.Mensagens de texto (SMS) auxiliando no tratamento do cancer. In: IV Escola Regional de Computação Aplicada à Saúde, 2016, Novo Hamburgo - RS.ANAIS DE RESUMOS da IV Escola Regional de Computação Aplicada à Saúde. 2016.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>10</id>
+						<indice>0.06</indice>
+						<titulo1>SANTOS, B. S.;GARCIA, L. G.;SANTOS, C. M.;EMMENDORFER, L.R.AGRUPAMENTO DE DADOS UTILIZANDO ESPECTRO DE GRAFOS. In: 7ª Conferência Sul em Modelagem Computacional, 2016, .Anais do MCSUL 2016. 2016.</titulo1>
+						<titulo2>CAMARGO, A. D.;WERHLI, A. V.;MACHADO, KARINA S.Um estudo sobre ferramentas computacionais para a predição do impacto de mutações pontuais em proteínas. In: 7a. Conferência Sul em Modelagem Computacional MCSUL, 2016, Rio Grande - RS.Anais do 7 MCSUL. 2016.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>10</id>
+						<indice>0.19</indice>
+						<titulo1>GARIM, L.;EMMENDORFER, L.R.Uma Comparação Entre o Algoritmo K-means e o Algoritmo Espectral Para Agrupamento de Dados com Curvatura Acentuada. In: XXXVI Congresso de Matemática Aplicada e Computacional., 2016, .Anais do XXXVI Congresso de Matemática Aplicada e Computacional. 2016.</titulo1>
+						<titulo2>Cornetet, L. R.;DURRUTHY, M.;WERHLI, A. V.;MONSERRAT, JOSE M.;MACHADO, KARINA S.Data Mining for characterization of nanotoxicity in mitochondrial ion channels induced by carbon nanotubes. In: Xmeeting 2016, 2016, Belo Horizonte - MG.Abstracts Book Xmeeting 2016. 2016.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>10</id>
+						<indice>0.07</indice>
+						<titulo1>TOMASINI, CAROLINE;Emmendorfer, Leonardo;BORGES, EDUARDO N.;MACHADO, KARINA.A methodology for selecting the most suitable cluster validation internal indices. In: the 31st Annual ACM Symposium, 2016, Pisa.Proceedings of the 31st Annual ACM Symposium on Applied Computing - SAC Ehapos;16. 2016.</titulo1>
+						<titulo2>Prates, N. S.;WERHLI, ADRIANO V.;MACHADO, KARINA S.CLUSTER ANALYSIS OF ACRB PROTEIN MOLECULAR DYNAMICS CONFORMATIONS. In: X- Meeting 2016 - 12th International Conference of the AB3C, 2016, Belo Horizonte - MG.X- Meeting 2016 - 12th International Conference of the AB3C. 2016.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>10</id>
+						<indice>0.25</indice>
+						<titulo1>GUIMARAES, M. V. F.;SANTOS, E. D.;Emmendorfer, Leonardo Ramos.AVALIAÇÃO GEOMÉTRICA DA DIFUSÃO DO CALOR EM SÓLIDOS COM CAVIDADES COMPLEXAS. In: Conferência Sul em Modelagem Computacional, 2016, .Anais do MCSUL 2016. 2016.</titulo1>
+						<titulo2>CORNETET, LUISA;GONZALEZ-DURRUTHY, MICHEL;MONSERRAT, J.;WERHLI, A. V.;MACHADO, KARINA S.DATA MINING FOR CHARACTERIZATION OF NANOTOXICITY IN MITOCHONDRIAL ION CHANNELS INDUCED BY CARBON NANOTUBES. In: X-Meeting 2016, 2016, Belo Horizonte - MG.X-Meeting 2016 - 12th International Conference of the AB3C. 2016.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>10</id>
+						<indice>0.22</indice>
+						<titulo1>SANTOS, B. S.;GARCIA, L. G.;SANTOS, C. M.;EMMENDORFER, L.R.AGRUPAMENTO DE DADOS UTILIZANDO ESPECTRO DE GRAFOS. In: 7ª Conferência Sul em Modelagem Computacional, 2016, .Anais do MCSUL 2016. 2016.</titulo1>
+						<titulo2>CAMARGO, A. D.;WERHLI, A. V.;MACHADO, KARINA S.PREDICTION OF PROTEIN STABILITY CHANGES UPON SINGLE POINT MUTATION USING ENSEMBLE LEARNING. In: X-Meeting 2016, 2016, Belo Horizonte - MG.X-Meeting 2016 - 12th International Conference of the AB3C. 2016.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>10</id>
+						<indice>0.24</indice>
+						<titulo1>GARIM, L.;EMMENDORFER, L.R.Uma Comparação Entre o Algoritmo K-means e o Algoritmo Espectral Para Agrupamento de Dados com Curvatura Acentuada. In: XXXVI Congresso de Matemática Aplicada e Computacional., 2016, .Anais do XXXVI Congresso de Matemática Aplicada e Computacional. 2016.</titulo1>
+						<titulo2>SEUS, V. R.;MACHADO, KARINA S.;WERHLI, ADRIANO.A proposal to the manipulatioon of a set of protein structures from PDB. In: Escola	Gaúcha	de	Bioinformática	?	EGB	2015, 2015, Porto Alegre.Escola	Gaúcha	de	Bioinformática	?	EGB	2015. 2016.</titulo2>
+						</duplicata>
+					</duplicatas>
+					<peso>16</peso>
+				</ano>
+				<ano valor="2017">
+					<duplicatas>
+						<duplicata>
+						<id>11</id>
+						<indice>0.2</indice>
+						<titulo1>GARIN, L.;EMMENDORFER, L.R.Agrupamento Espectral Aglomerativo: Uma Proposta de Algoritmo. In: VIII Computer on the Beach, 2017, .Anais do VIII Computer on the Beach. 2017.</titulo1>
+						<titulo2>BARRETO, N. A.;MACHADO, KARINA S.;WERHLI, ADRIANO V.Inference of Regulatory Networks with MCMC sampler guided by Mutual Information. In: ACM SAC 2017, 2017, Marrakech, Morocco.Proceedings of ACM SAC 2017. 2017.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>11</id>
+						<indice>0.22</indice>
+						<titulo1>Emmendorfer, Leonardo;TOMASINI, CAROLINE;N. BORGES, EDUARDO;MACHADO, KARINA.A Study on the Relationship between Internal and External Validity Indices Applied to Partitioning and Density-based Clustering Algorithms. In: 19th International Conference on Enterprise Information Systems, 2017, Porto.Proceedings of the 19th International Conference on Enterprise Information Systems. 2017.</titulo1>
+						<titulo2>BARRETO, N. A.;MACHADO, KARINA S.;WERHLI, ADRIANO V.Inference of Regulatory Networks with MCMC sampler guided by Mutual Information. In: ACM SAC 2017, 2017, Marrakech, Morocco.Proceedings of ACM SAC 2017. 2017.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>11</id>
+						<indice>0.22</indice>
+						<titulo1>GUIMARAES, M. V. F.;ADAMATTI, D. F.;EMMENDORFER, L. R.Interação Baseada em Agentes para Posicionamento Dinâmico da Linha de Ação do Modelo Comportamental de Fogg. In: 11o. Workshop-Escola de Sistemas de Agentes, seus Ambientes e Aplicações, 2017, .11o. Workshop-Escola de Sistemas de Agentes, seus Ambientes e Aplicações. 2017.</titulo1>
+						<titulo2>BARRETO, N. A.;MACHADO, KARINA S.;WERHLI, ADRIANO V.Inference of Regulatory Networks with MCMC sampler guided by Mutual Information. In: ACM SAC 2017, 2017, Marrakech, Morocco.Proceedings of ACM SAC 2017. 2017.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>11</id>
+						<indice>0.19</indice>
+						<titulo1>GODOIS, L.;MARCO, L.;ADAMATTI, D. F.;EMMENDORFER, L. R.Algoritmo DL3: Uma abordagem de Clustering baseado em Auto-organização. In: 11o. Workshop-Escola de Sistemas de Agentes, seus Ambientes e Aplicações, 2017, .11o. Workshop-Escola de Sistemas de Agentes, seus Ambientes e Aplicações. 2017.</titulo1>
+						<titulo2>BARRETO, N. A.;MACHADO, KARINA S.;WERHLI, ADRIANO V.Inference of Regulatory Networks with MCMC sampler guided by Mutual Information. In: ACM SAC 2017, 2017, Marrakech, Morocco.Proceedings of ACM SAC 2017. 2017.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>11</id>
+						<indice>0.14</indice>
+						<titulo1>GODOIS, L.;MARCO, L.;ADAMATTI, D. F.;Emmendorfer, Leonardo R.Um Algoritmo para Agrupamento de Dados usando interações entre Agentes. In: Encontro Nacional de Inteligência Artificial ENIAC, 2017, Uberlândia.Anais do ENIAC. 2017.</titulo1>
+						<titulo2>BARRETO, N. A.;MACHADO, KARINA S.;WERHLI, ADRIANO V.Inference of Regulatory Networks with MCMC sampler guided by Mutual Information. In: ACM SAC 2017, 2017, Marrakech, Morocco.Proceedings of ACM SAC 2017. 2017.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>11</id>
+						<indice>0.26</indice>
+						<titulo1>GARIN, L.;EMMENDORFER, L.R.Agrupamento Espectral Aglomerativo: Uma Proposta de Algoritmo. In: VIII Computer on the Beach, 2017, .Anais do VIII Computer on the Beach. 2017.</titulo1>
+						<titulo2>TOMASINI, C.;Borges, E.N.;Emmendorfer, L.;MACHADO, KARINA S.A Study on the Relationship between Internal and External Validity Indices Applied to Partitioning and Density-based Clustering Algorithms. In: International Conference on Enterprise Information Systems, 2017, Porto, Portugal.Proceedings of the International Conference on Enterprise Information Systems. 2017.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>11</id>
+						<indice>0.2</indice>
+						<titulo1>Emmendorfer, Leonardo;TOMASINI, CAROLINE;N. BORGES, EDUARDO;MACHADO, KARINA.A Study on the Relationship between Internal and External Validity Indices Applied to Partitioning and Density-based Clustering Algorithms. In: 19th International Conference on Enterprise Information Systems, 2017, Porto.Proceedings of the 19th International Conference on Enterprise Information Systems. 2017.</titulo1>
+						<titulo2>POPIOLEK, P.;MACHADO, KARINA S.;Mendizabal, O. M.IdentificacEh#807;aEh#771;o de custos computacionais causados por contadores de desempenho. In: Iberchip, 2017, Bariloche.Iberchip - Iberchip Workshop. 2017.</titulo2>
+						</duplicata>
+					</duplicatas>
+					<peso>7</peso>
+				</ano>
+				</anos>
+			</aresta>
+		</arestas>
+</grafo>

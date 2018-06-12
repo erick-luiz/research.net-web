@@ -1,0 +1,4 @@
+A comparação de Strings através da função JACCARD é uma comparação que considera o número de palavras das duas strings, deste modo, seu resultado ocorre de forma diferente as demais funcionalidade que consideram caracteres, por exemplo. 
+Para calcular a função JACCARD é quantificado o número de palavras relativo a intercecção das duas strings e dividido pelo número de palavras da união das duas strings. 
+
+deste modo temos: JACCARD(A, B) = A.INTERSEC(B)/ A.UNIAO(B)

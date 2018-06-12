@@ -1,0 +1,19 @@
+body{
+	
+}
+.lateral{
+	border-left: 6px solid red;
+	border-radius: 5px;
+    background-color: lightgrey;
+}
+.titulo-post{
+	color:red;
+	text-orientation: upright;
+}
+div.vertical{
+ transform: rotate(-90deg);
+ -webkit-transform: rotate(-90deg); /* Safari/Chrome */
+ -moz-transform: rotate(-90deg); /* Firefox */
+ -o-transform: rotate(-90deg); /* Opera */
+ -ms-transform: rotate(-90deg); /* IE 9 */
+}

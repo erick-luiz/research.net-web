@@ -1,0 +1,359 @@
+/* Configurações Gerais */
+*{
+	box-sizing: border-box;
+	padding:0;
+}
+body {
+	color:#222;
+	margin:0;
+	font-family: Georgia, serif;
+}
+/* classes para formatação do corpo */
+.corpo {
+  padding: 2%; 
+}
+/* Estilização de menu responsivo */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  position: relative;
+  vertical-align: middle;
+}
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  height: auto;
+}
+.topnav a td{
+  color: #f2f2f2;
+}
+.login{
+	position: absolute;
+	right:0;
+}
+.topnav a:hover {
+  background-color: #a22;
+  transition:background .3s;
+}
+.active{
+	background-color: #a22;
+	color: black;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+@media screen and (max-width: 741px) {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 741px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}
+#link-logo{
+	padding:4px;
+}
+/* Fim do Menu */
+
+
+/* Sistema de Colunas com resposividade */
+*[class*="coluna-"]{ 
+  float:left;
+  padding: 1%;
+  height: 100%;
+  margin: auto;
+}
+
+/* Configuração da tela para tamanho menor que 600 px */
+@media screen and (max-width: 600px){
+  div[class*="coluna-"]{
+    float:none;
+    width: 100%;
+    margin: 0;
+    padding: 0%;
+  }
+}
+
+.coluna-1{ width: 100%; display: block;}
+.coluna-2{ width: 50%;	display: block;}
+.coluna-3{ width: 33.33%; display: block;}
+.coluna-4{ width: 25%; display: block;}
+.coluna-67{ width:67%; display: block;}
+.coluna-33{ width:33%; display: block;}
+.coluna-10{ width: 10%; display: block;}
+.coluna-90{ width: 90%; display: block; float:none;}
+/* Tira a flutuação das colunas */
+.linha:after {
+    content: "";
+    display: table;
+	  clear:both;
+}
+
+/* Ajusta Responsividade da coluna */
+@media (max-width: 600px) {
+    .coluna {
+        width: 100%;
+    }
+}
+
+/* Fim do sistema de colunas */
+
+/* Estrutura de Login */
+/* Full-width input fields */
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+input[type=submit]{
+  float:right;
+}
+#pubs_xml{
+    margin: auto;
+    display: block;
+}
+table{
+  width:100%;
+  padding: 2%;
+}
+table td{
+  padding: 0.4%;
+}
+/* Set a style for all buttons */
+button {
+    background-color: #aa2222;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: auto;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+/* Extra styles for the cancel button */
+.cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #f44336;
+}
+
+/* Center the image and position the close button */
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+
+img.avatar {
+    width: 40%;
+    border-radius: 50%;
+}
+
+.container {
+    padding: 16px;
+}
+
+span.psw {
+    float: right;
+    padding-top: 16px;
+}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+    padding-top: 60px;
+}
+
+/* Modal Content/Box */
+.modal-content {
+    background-color: #fefefe;
+    margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button (x) */
+.close {
+    position: absolute;
+    right: 25px;
+    top: 0;
+    color: #000;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: red;
+    cursor: pointer;
+}
+
+/* Add Zoom Animation */
+.animate {
+    -webkit-animation: animatezoom 0.6s;
+    animation: animatezoom 0.6s
+}
+
+@-webkit-keyframes animatezoom {
+    from {-webkit-transform: scale(0)} 
+    to {-webkit-transform: scale(1)}
+}
+    
+@keyframes animatezoom {
+    from {transform: scale(0)} 
+    to {transform: scale(1)}
+}
+
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+    span.psw {
+       display: block;
+       float: none;
+    }
+    .cancelbtn {
+       width: 100%;
+    }
+}
+/* Fim do estilo do login */
+
+
+
+.logo{
+	float: left;
+	vertical-align: middle;
+}
+.logo td{
+	padding-left: 5%;
+}
+.logo{ 
+	margin-right:2%;
+	display: block;
+	width:30px;
+	height: 30px;
+}
+.logo td:nth-child(1){
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 5%;
+}
+.espacamento-topo{
+	margin-top: 5%;
+}
+.div-imagem{
+	margin-top: 3%;
+	position:relative;
+	text-align:center;
+	bottom:90px;
+}
+.imagem-login {
+	position:relative;
+	top:0;
+	right:0;
+	width:300px;
+	border: 1px solid #222;
+}
+.painel-login{
+	padding: auto;
+	color:#222;
+	background: rgba(1,1,1,0.2);
+	text-align: center;
+}
+.painel-login img{
+}
+.aviso {
+	font-style: italic;
+	font-family: "Open Sans Condensed", sans-serif;
+	font-size:13px;
+	color:orange;
+}
+/*Estilo do Filtro */
+
+#myInput {
+    /*background-image: url('/css/searchicon.png'); /* Add a search icon to input */
+    background-position: 10px 12px; /* Position the search icon */
+    background-repeat: no-repeat; /* Do not repeat the icon image */
+    width: 100%; /* Full-width */
+    font-size: 16px; /* Increase font-size */
+    padding: 12px 20px 12px 40px; /* Add some padding */
+    border: 1px solid #ddd; /* Add a grey border */
+    margin-bottom: 12px; /* Add some space below the input */
+}
+
+#myTable {
+    border-collapse: collapse; /* Collapse borders */
+    width: 100%; /* Full-width */
+    border: 1px solid #ddd; /* Add a grey border */
+    font-size: 18px; /* Increase font-size */
+}
+
+#myTable th, #myTable td {
+    text-align: left; /* Left-align text */
+    padding: 12px; /* Add padding */
+}
+
+#myTable tr {
+    /* Add a bottom border to all table rows */
+    border-bottom: 1px solid #ddd; 
+}
+
+#myTable tr.header, #myTable tr:hover {
+    /* Add a grey background color to the table header and on hover */
+    background-color: #f1f1f1;
+}
+.titulo-geral{
+  text-align: center;
+  margin:auto;
+  margin-bottom: 2%;
+  width:90%;
+  border: solid 1px;
+  margin-top: 2%;
+}
+.lista-de-selecionados:before{
+  content: "Lista de selecionados:";
+}
+.lista-de-selecionados{
+  padding-left:5%; 
+  position: fixed;
+  bottom: 2pt; 
+  left: 0;
+  border: solid 1px;
+  width: 100%;
+  height: 100px;
+  overflow: auto;
+}

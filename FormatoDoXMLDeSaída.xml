@@ -1,0 +1,47 @@
+<grafo>
+	<titulo>rede de teste</titulo>
+	<numeroDeProducoesUnicas>60</numeroDeProducoesUnicas>
+	<numeroDeNodos>4</numeroDeNodos>
+	<numeroDeArestas>14</numeroDeArestas>
+	<anos>
+		<ano>2001</ano>
+		     [...]
+	</anos>
+	<nodos>
+		<nodo>
+			<id>7849163598734846</id>
+			<label>Suzi Samá Pinto</label>
+			<dataAtualizacao>29062017</dataAtualizacao>
+			<numeroDeProducoes>60</numeroDeProducoes>
+			<numeroDeProducoesPorAno>
+				<ano value=2001>1</ano>
+					         [...]
+			</numeroDeProducoesPorAno>
+			<producoes>
+				<producao>
+					<titulo>PINTO, Suzi Samá;KRUSCHE, Nisia;PICCOLI, H. C..Análise de Componentes Principais de Observações Meteorológicas de Superfície em Rio Grande, RS, em 1998.. In: IX Congreso Latinoamericano e Iberico de Meteorologia, 2001, Buenos Aires.IX Congreso Latinoamericano e Iberico de Meteorologia, CD, 5.4.11, 249. 2001.</titulo>
+					<ano>2001</ano>
+					<idAresta>1</idAresta>
+				</producao>
+				                 [...]
+			</producoes>
+		</nodo>
+		[...]
+	</nodos>
+	<ano value=2002>
+		<producoesUnicasDoAno>2</producoesUnicasDoAno>
+		<arestas>
+			<aresta>
+				<autor1>7849163598734846</autor1>
+				<autor2>7849163598734846</autor2>
+				<ano>2002</ano>
+				<peso>2</peso>
+				<duplicatas>
+					<duplicata>2</duplicata>
+					<duplicata>3</duplicata>
+				</duplicatas>
+			</aresta>
+		</arestas>
+	</ano>
+	[...]
+</grafo>

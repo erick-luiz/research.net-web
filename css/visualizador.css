@@ -1,0 +1,9 @@
+#area-de-apresentacao {
+	border: solid 1px #ccc;
+	margin:auto;
+}
+#apresentacao-grafo{
+	width: 100%;
+	text-align:center;
+	height: 400px;
+}

@@ -1,0 +1,28 @@
+/*Sistema de paginação para tabelas grandes serem divididas em páginas */
+.pagination { display: inline-block; }
+
+.pagination button {
+    color: black;
+    padding: 8px 16px;
+    text-decoration: none;
+    border: none;
+    width:auto;
+    background-color: #277;
+}
+
+.pagination button.active { background-color: #4CAF50; color: white;}
+
+.pagination button:hover:not(.active):not(.desabilitado) {background-color: #ddd;}
+
+.inviisivel{
+  display: none;
+}
+
+.desabilitado{ background-color:#ddd; filter:opacity(0.5);}
+
+div[id*=pagina-]:before-end{
+  content: "<br>";
+}
+
+
+/* Fim de estilo para o sistema de páginação */

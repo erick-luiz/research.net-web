@@ -1,0 +1,553 @@
+<?xml version='1.0' encoding='UTF-8'?><grafo>
+	<titulo>Grupo de Pesquisa Agronomia e Território do Pampa</titulo>
+	<numeroDeProducoesUnicas>56</numeroDeProducoesUnicas>
+	<numeroDeNodos>2</numeroDeNodos>
+	<numeroDeArestas>1</numeroDeArestas>
+	<anos>
+		<ano valor="2001">
+			<numero-producoes>1</numero-producoes>
+		</ano>
+		<ano valor="2002">
+			<numero-producoes>9</numero-producoes>
+		</ano>
+		<ano valor="2003">
+			<numero-producoes>3</numero-producoes>
+		</ano>
+		<ano valor="2004">
+			<numero-producoes>1</numero-producoes>
+		</ano>
+		<ano valor="2005">
+			<numero-producoes>1</numero-producoes>
+		</ano>
+		<ano valor="2006">
+			<numero-producoes>1</numero-producoes>
+		</ano>
+		<ano valor="2007">
+			<numero-producoes>6</numero-producoes>
+		</ano>
+		<ano valor="2008">
+			<numero-producoes>4</numero-producoes>
+		</ano>
+		<ano valor="2009">
+			<numero-producoes>3</numero-producoes>
+		</ano>
+		<ano valor="2010">
+			<numero-producoes>4</numero-producoes>
+		</ano>
+		<ano valor="2011">
+			<numero-producoes>2</numero-producoes>
+		</ano>
+		<ano valor="2012">
+			<numero-producoes>11</numero-producoes>
+		</ano>
+		<ano valor="2013">
+			<numero-producoes>1</numero-producoes>
+		</ano>
+		<ano valor="2014">
+			<numero-producoes>2</numero-producoes>
+		</ano>
+		<ano valor="2015">
+			<numero-producoes>1</numero-producoes>
+		</ano>
+		<ano valor="2017">
+			<numero-producoes>5</numero-producoes>
+		</ano>
+		<ano valor="2018">
+			<numero-producoes>1</numero-producoes>
+		</ano>
+	</anos>
+	<nodos>
+		<nodo>
+			<id>0243625998325831</id>
+			<label>Andre Prisco Vargas</label>
+			<dataAtualizacao>04112016</dataAtualizacao>
+			<numeroDeProducoes>34</numeroDeProducoes>
+			<numeroDeProducoesPorAno>
+				<ano value="2002">9</ano>
+				<ano value="2003">3</ano>
+				<ano value="2001">1</ano>
+				<ano value="2005">1</ano>
+				<ano value="2006">1</ano>
+				<ano value="2004">1</ano>
+				<ano value="2012">9</ano>
+				<ano value="2011">5</ano>
+				<ano value="2013">4</ano>
+			</numeroDeProducoesPorAno>
+			<producoes>
+				<producao>
+					<titulo>MENDES, D. C.;MADSEN, C. A.;VARGAS, A. P.Desenvolvimento de um Sistema para Automatização da Avaliação do Docente pelo Discente da Furg. In: I Mostra da Produção Universitária, 2002, Rio Grande.I Mostra da Produção Universitária / Furg. 2002.</titulo>
+					<ano>2002</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>VARGAS, A. P.;MADSEN, C. A.;FERREIRA, C.;TIEMAMM, R.Sistema Integrado de Prescrição de Enfermagem. In: I Mostra da Produção Universitária, 2002, Rio Grande.I Mostra da Produção Universitária / Furg. 2002.</titulo>
+					<ano>2002</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>VARGAS, A. P.;MADSEN, C. A.Uma Ferramenta CASE para Ambientes Virtuais de Aprendizagem Baseados na Web. In: XVII Congresso Regional de Iniciação Científica e Tecnológica em Engenharia, 2002, Passo Fundo.XVII Congresso Regional de Iniciação Científica e Tecnológica em Engenharia. 2002.</titulo>
+					<ano>2002</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>VARGAS, A. P.;MADSEN, C. A.Desenvolvimento de um Sistema de Visão Subaquática para Navegação e Geração de Mosaicos em AUVs. In: II Mostra da Produção Universitária, 2003, Rio Grande.II Mostra da Produção Universitária. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>VARGAS, A. P.;MADSEN, C. A.Sistema de Gerenciamento do Processo Seletivo da Furg. In: 10° Congresso de Iniciação Científica, 2001, Rio Grande.10° Congresso de Iniciação Cientídica e 3° Encontro de Pós-Graduação. 2001.</titulo>
+					<ano>2001</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>VARGAS, A. P.;MADSEN, C. A.AVATool - Uma Ferramenta de Desenvolvimento de Ambientes Virtuais de Aprendizagem. In: I Mostra da Produção Universitária, 2002, Rio Grande.I Mostra da Produção Universitária / Furg. 2002.</titulo>
+					<ano>2002</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>VARGAS, A. P.;MADSEN, C. A.;MENDIZABAL, O. M.Desenvolvimento de Software de Modelagem Semiquantitativa utilizando Java. In: I Mostra da Produção Universitária, 2002, Rio Grande.I Mostra da Produção Universitária / Furg. 2002.</titulo>
+					<ano>2002</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MENDIZABAL, O. M.;MADSEN, C. A.;VARGAS, A. P.Modelciências - Portal para Formação de Professores Através da Modelagem Computacional. In: I Mostra da Produção Universitária, 2002, Rio Grande.I Mostra da Produção Universitária / Furg. 2002.</titulo>
+					<ano>2002</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MADSEN, C. A.;VARGAS, A. P.Mecanismos Interativos para um Ambiente Virtual de Aprendizagem. In: I Mostra da Produção Universitária, 2002, Rio Grande.I Mostra da Produção Universitária / Furg. 2002.</titulo>
+					<ano>2002</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>VARGAS, A. P.;MENDIZABAL, O. M.;MADSEN, C. A.Modelciências - Sistema para Formação de Professores Através da Modelagem Computacional Semiquantitativa e Quantitativa na Educação. In: XVII Congresso Regional de Iniciação Científica e Tecnológica em Engenharia, 2002, Passo Fundo.XVII Congresso Regional de Iniciação Científica e Tecnológica em Engenharia. 2002.</titulo>
+					<ano>2002</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>VARGAS, A. P.;MADSEN, C. A.;MACHADO, A. J.AVACircuitos - Ambiente Virtual de Análise de Circuitos. In: XV Salão de Iniciação Científica e XII Feira de Iniciação Científica, 2003, Porto Alegre.XV Salão de Iniciação Científica e XII Feira de Iniciação Científica. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>VARGAS, A. P.;BRAGANHOLO, V. P.;CA Heuser.Suporte a Transções Longas em Atualizações Através de Visões XML. In: WorkShop de Teses e Dissertações em Bancos de Dados (SBBD), 2005, Uberlândia.WTDBD - Simpósio Brasileiro de Bancos de Dados. 2005.</titulo>
+					<ano>2005</ano>
+					<idAresta>1</idAresta>
+				</producao>
+				<producao>
+					<titulo>VARGAS, A. P.;BRAGANHOLO, V. P.;CA Heuser.Conflict Resolution and Delta Detection in Updates through XML views. In: Database Technologies for Handling XML Information on the Web (DATAX), 2006, Munique.Current Trends in Database Technology EDBT. 2006.</titulo>
+					<ano>2006</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>VARGAS, A. P.;MADSEN, C. A.;BOTELHO, S. S. C.NAVision - Sistema de Visão Subaquático para Navegação e Montagem de Mosaicos em AUVs. In: Seminário e Workshop em Eng. Oceânica, 2004, Rio Grande.Seminário e Workshop em Eng. Oceânica. 2004.</titulo>
+					<ano>2004</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>VARGAS, A. P.;MENDES, D. C.;MADSEN, C. A.Sistema para Automatização da Avaliação Docente pelo Discente da FURG. In: I Mostra da Produção Universitária, 2002, Rio Grande.I Mostra da Produção Universitária. 2002.</titulo>
+					<ano>2002</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>GIL, J. P. S;MENDIZABAL, O. M.;VARGAS, A. P.Suporte a Comunicação em Grupo para Dispositivos Móveis Utilizando Wi-F. In: MPU - Mostra da Produção Universitária, 2012, Rio Grande.MPU - Mostra da Produção Universitária. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FARIAS, Lucas R.;VARGAS, A. P.;Borges, Eduardo N.Um sistema para análise de redes de pesquisa baseado na Plataforma Lattes. In: Escola Regional de Banco de Dados, 2012, Curitiba - PR.Anais da VIII Escola Regional de Banco de Dados. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>OTERO, Tiago F.;VARGAS, A. P.;FARIAS, Lucas R.;Borges, Eduardo N.Uma ferramenta para coleta e análise de dados do segmento naval. In: Escola Regional de Banco de Dados, 2012, Curitiba - PR.Anais da VIII Escola Regional de Banco de Dados. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Borges, Eduardo N.;VARGAS, A. P.;PEREIRA, Igor A.;TOMASINI, C.ARGOsearch: an information retrieval system based on text similarity and extensible relevance criteria. In: XXXI International Conference of the Chilean Computer Science Society (SCCC), 2012, Valparaíso - Chile.Proceedings of the International Conference of the Chilean Computer Science Society. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>PEREIRA, Igor A.;VARGAS, A. P.;Borges, Eduardo N.;TOMASINI, C.Um mecanismo de busca para sistemas de gerenciamento de bibliotecas baseado em critérios de relevância extensíveis. In: V Conferência Sul em Modelagem Computacional (MCSUL), 2012, Rio Grande - RS.Anais da V Conferência Sul em Modelagem Computacional. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>TOMASINI, C.;PEREIRA, Igor A.;VARGAS, A. P.;Borges, Eduardo N.Módulo de critérios de relevância para o ARGOsearch. In: XI Mostra de Produção Universitária da FURG, 2012, Rio Grande - RS.Anais da XI MPU / FURG. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta>4</idAresta>
+				</producao>
+				<producao>
+					<titulo>FARIAS, Lucas R.;Borges, Eduardo N.;VARGAS, A. P.;LOPES, G. R.;LUCCA, G.Um componente de software para análise de redes de colaboração acadêmica. In: XI Mostra de Produção Universitária da FURG, 2012, Rio Grande - RS.Anais da XI MPU / FURG. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>TOMASINI, C.;Borges, Eduardo N.;PEREIRA, Igor A.;VARGAS, A. P.Validação do mecanismo de busca ARGOsearch para o sistema de gerenciamento de bibliotecas da FURG. In: XI Mostra de Produção Universitária da FURG, 2012, Rio Grande - RS.Anais da XI MPU / FURG. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FARIAS, Lucas R.;Borges, Eduardo N.;VARGAS, A. P.;LOPES, G. R.Uma ferramenta para visualização e análise de redes de pesquisa. In: XI Mostra de Produção Universitária da FURG, 2012, Rio Grande - RS.Anais da XI MPU / FURG. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>VARGAS, A. P.;PEREIRA, Igor A.;Borges, Eduardo N.Uma arquitetura para pesquisa por relevância baseada em critérios. In: X Mostra de Produção Universitária da FURG, 2011, Rio Grande - RS.Anais da X MPU / FURG. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta>2</idAresta>
+				</producao>
+				<producao>
+					<titulo>FARIAS, Lucas R.;VARGAS, A. P.;Borges, Eduardo N.Rede de pesquisa da FURG. In: X Mostra de Produção Universitária da FURG, 2011, Rio Grande - RS.Anais da X MPU / FURG. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta>2</idAresta>
+				</producao>
+				<producao>
+					<titulo>OTERO, Tiago F.;Borges, Eduardo N.;VARGAS, A. P.;Adamatti, Diana.Uma ferramenta para coleta e análise de dados do segmento naval. In: X Mostra de Produção Universitária da FURG, 2011, Rio Grande - RS.Anais da X MPU / FURG. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta>2</idAresta>
+				</producao>
+				<producao>
+					<titulo>FOGACA, M.;VARGAS, A. P.;Meinhardt, Cristina.Proposta de Ferramenta para o Auxílio no Aprendizado de Memória Cache em Arquitetura de Computadores. In: Computer on the Beach, 2013, Florianópolis.Computer on the Beach - ANAIS 2013. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta>5</idAresta>
+				</producao>
+				<producao>
+					<titulo>SALVA, T.;SILVA, R. S.;VARGAS, A. P.;MENDIZABAL, O. M.BlueGroups: Middleware para Construção de Aplicações Distribuídas em Dispositivos Móveis. In: Computer on the Beach, 2013, Florianópolis.Computer on the Beach - ANAIS 2013. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta>5</idAresta>
+				</producao>
+				<producao>
+					<titulo>LIBARDONI, M.;MENDIZABAL, O. M.;VARGAS, A. P.Estudo de Tecnologias para Dispositivos Móveis. In: 10ª Mostra de Produção Universitária, 2011, Rio Grande.10ª Mostra de Produção Universitária -Anais. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta>3</idAresta>
+				</producao>
+				<producao>
+					<titulo>FARIAS, Lucas R.;VARGAS, A. P.;PEREIRA, Igor A.;Borges, Eduardo N.Uma implementação do algoritmo Naïve Bayes para classificação de texto. In: Escola Regional de Banco de Dados, 2013, Camboriú.Anais da IX Escola Regional de Banco de Dados. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta>5</idAresta>
+				</producao>
+				<producao>
+					<titulo>TOMASINI, C.;VARGAS, A. P.;Borges, Eduardo N.Uma implementação de feedback da relevância utilizando o algoritmo Rocchio. In: Escola Regional de Banco de Dados, 2013, Camboriú.Anais da IX Escola Regional de Banco de Dados. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta>5</idAresta>
+				</producao>
+				<producao>
+					<titulo>GELATTI, G.;CASSALES, V. A.;VARGAS, A. P.;FELIPPE, C. I.;MACHADO, K.SIGNUM: tradutor Português-Libras baseado em mineração de texto como extensão para navegador web. In: Proceedings of the 13th Brazilian Symposium on Human Factors in Computing Systems, 2014, .Proceedings of the 13th Brazilian Symposium on Human Factors in Computing Systems. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta>2</idAresta>
+				</producao>
+				<producao>
+					<titulo>VARGAS, A. P.;MADSEN, C. A.AVATool - Uma Ferramenta de Desenvolvimento de Ambienctes Virtuais de Aprendizagem na Educação à Distância. In: II Mostra da Produção Universitária, 2003, Rio Grande.II Mostra da Produção Universitária / Furg. 2003.</titulo>
+					<ano>2003</ano>
+					<idAresta></idAresta>
+				</producao>
+			</producoes>
+		</nodo>
+		<nodo>
+			<id>7497320738069454</id>
+			<label>Edimar Manica</label>
+			<dataAtualizacao>20052018</dataAtualizacao>
+			<numeroDeProducoes>35</numeroDeProducoes>
+			<numeroDeProducoesPorAno>
+				<ano value="2007">6</ano>
+				<ano value="2008">4</ano>
+				<ano value="2005">1</ano>
+				<ano value="2009">3</ano>
+				<ano value="2010">4</ano>
+				<ano value="2011">3</ano>
+				<ano value="2012">3</ano>
+				<ano value="2013">2</ano>
+				<ano value="2014">2</ano>
+				<ano value="2015">1</ano>
+				<ano value="2017">5</ano>
+				<ano value="2018">1</ano>
+			</numeroDeProducoesPorAno>
+			<producoes>
+				<producao>
+					<titulo>CERVI, C. R.;MANICA, Edinei;MANICA, Edimar;DORNELES, C. F.;PAVAN, W.BDTC ? Uma Biblioteca Digital para Trabalhos de Conclusão de Curso. In: Simpósio de Informática do Planalto Médio, 2007, Passo Fundo.VII SIMPÓSIO DE INFORMÁTICA DO PLANALTO MÉDIO. 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MANICA, Edimar;CERVI, C. R.;DORNELES, C. F.Um Mecanismo Semi-automático de Auto-Arquivamento de Documentos em uma Biblioteca Digital. In: Brazillian Symposium on Multimedia and the Web, 2007, Gramado, RS.anais do III Workshop on Digital Libraries (WDL - em conjunto com WebMedia). 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MANICA, Edimar;CERVI, C. R.;DORNELES, C. F.Extraindo metadados de Documentos PDF usando um template XML. In: Mostra de Iniciação Científica da Universidade de Passo Fundo, 2007, Passo Fundo.anais da XVII Mostra de Iniciação Científica. 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MANICA, Edimar;CUNHA, Alison Sebben da;CERVI, C. R.;DORNELES, C. F.Um processo de submissão, validação e publicação de documentos PDF na BDTC. In: Mostra de Iniciação Científica da Universidade de Passo Fundo, 2007, Passo Fundo.anais da XVII Mostra de Iniciação Científica. 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>CUNHA, Alison Sebben da;MANICA, Edimar;CERVI, C. R.;DORNELES, C. F.Bibliotecas Digitais Como Meio de Disseminação de Conhecimento e Preservação Cultural e Científica. In: Mostra de Iniciação Científica da Universidade de Passo Fundo, 2007, Passo Fundo.Anais da XVII Mostra de Iniciação Científica. 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MANICA, Edimar;CERVI, C. R.;GALANTE, R.Um processo automático para extração de metadados de documentos PDF usando um template XML. In: ESCOLA REGIONAL DE BANCO DE DADOS, 2008, Florianópolis, SC.Anais da IV Escola Regional de Banco de Dados. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MANICA, Edimar;CERVI, C. R.;DORNELES, C. F.;GALANTE, R.Mapeamento de um Modelo Lógico Temporal para um Modelo Físico de um SGBD. In: Simpósio Brasileiro de Banco de Dados, 2008, Campinas.II Sessão de Pôsters do SBBD. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MANICA, Edimar;CERVI, C. R.;DORNELES, C. F.Mapeamento da Linguagem de Consulta Temporal TSQL2 para a Extensão Temporal do PostgreSQL. In: Mostra de Iniciação Científica da Universidade de Passo Fundo, 2008, Passo Fundo.Anais da XVIII Mostra de Iniciação Científica. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>CERVI, C. R.;MANICA, Edimar;DORNELES, C. F.Mapeamento de uma Linguagem de Consulta Temporal para o Banco de Dados PostgreSQL. In: Simpósio de Informática do Planalto Médio, 2008, Passo Fundo.Anais do VIII Simpósio de Informática do Planalto Médio. 2008.</titulo>
+					<ano>2008</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MALAGGI, Vitor;CERVI, C. R.;PREDIGER, Jonas Augusto;MANICA, Edimar;SILVA, Juliano Tonezer da;PAVAN, W.E-Case - Ferramenta Case Educacional para Modelagem Relacional. In: Mostra de Iniciação Científica da Universidade de Passo Fundo, 2005, Passo Fundo.Anais da XV Mostra de Iniciação Científica. 2005.</titulo>
+					<ano>2005</ano>
+					<idAresta>1</idAresta>
+				</producao>
+				<producao>
+					<titulo>SILVEIRA, L. S.;KALIL, F.;MANICA, Edimar;CERVI, C. R.;DORNELES, C. F.Gerenciamento de Perfil de Usuários Para Uso em Bibliotecas Digitais. In: Congresso Regional de Iniciação Científica e Tecnológica em Engenharia, 2007, Passo Fundo.Anais XXII Congresso Regional de Iniciação Científica e Tecnológica em Engenharia. 2007.</titulo>
+					<ano>2007</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MANICA, Edimar;CERVI, C. R.;DORNELES, C. F.;GALANTE, R.Ferramenta para Suporte a Consultas Temporais em SGBDs convencionais. In: Escola Regional de Banco de Dados, 2009, Ijuí.V Escola Regional de Banco de Dados. 2009.</titulo>
+					<ano>2009</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MANICA, Edimar;GALANTE, R.Suporte a Consultas Temporais por Palavras-chave em XML. In: Simpósio Brasileiro de Banco de Dados, 2009, Fortaleza.Sessão de Posteres do Simpósio Brasileiro de Banco de Dados. 2009.</titulo>
+					<ano>2009</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MANICA, Edimar;GALANTE, R.;DORNELES, C. F.Mapeamento Automático de Modelos de Dados XML Temporais Ad-hoc para um Modelo de Dados XML Temporal Padrão (Best Paper). In: Escola Regional de Banco de Dados, 2010, Joinville.VI Escola Regional de Banco de Dados. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>LICHTNOW, D.;Ana Marilza Pernas;MANICA, Edimar;KALIL, F.;OLIVEIRA, J. P. M.;LEITHARDT, V. R. Q.Automatic Collection of Authorship Information for Web Publications. In: International Conference on Web Information Systems and Technologies, 2010, Valencia.Proceedings of 6th International Conference on Web Information Systems and Technologies. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MANICA, Edimar;GALANTE, R.;DORNELES, C. F.Two-Phase Interception (2PI): Uma Abordagem para Suporte a Consultas Temporais por Palavras-chave em XML. In: Simpósio Brasileiro de Banco de Dados, 2010, Belo Horizonte.Anais do IX Workshop de Teses e Dissertações em Banco de Dados (WTDBD) - XXV SBBD. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>Frozi, A.;MANICA, Edimar;GALANTE, R.;DORNELES, Carina Friedrich.Chronos - Um motor de busca temporal. In: Simpósio Brasileiro de Banco de Dados, 2010, Belo Horizonte.Anais da VII Sessão de Demos - XXIV SBBD. 2010.</titulo>
+					<ano>2010</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MANICA, Edimar;DORNELES, Carina Friedrich;GALANTE, R.Um panorama do uso do tempo em motores de busca Web. In: Escola Regional de Banco de Dados, 2011, Novo hamburgo.Anais da VII ERBD. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta>2</idAresta>
+				</producao>
+				<producao>
+					<titulo>Jaisson Duarte;Julio Alexander Sieg;MANICA, Edimar.PROTÓTIPO DE INTEGRAÇÃO DE UMA BIBLIOTECA DIGITAL COM UMA REDE SOCIAL. In: Seminário de Iniciação Científica e Tecnológica, 2012, Bento Gonçalves.Anais do I SICT - Seminário de Iniciação Científica e Tecnológica. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta>4</idAresta>
+				</producao>
+				<producao>
+					<titulo>Jaisson Duarte;MANICA, Edimar.Protótipo de uma Biblioteca Digital para Disseminação do Conhecimento. In: Mostra Técnica do IFRS - Campus Bento Gonçalves, 2011, Bento Gonçalves.VII Mostra Técnica do IFRS - Campus Bento Gonçalves. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta>3</idAresta>
+				</producao>
+				<producao>
+					<titulo>Julio Alexander Sieg;MANICA, Edimar.Protótipo de uma Rede Social Educacional. In: Mostra Técnica do IFRS - Campus Bento Gonçalves, 2011, Bento Gonçalves.VII Mostra Técnica do IFRS - Campus Bento Gonçalves. 2011.</titulo>
+					<ano>2011</ano>
+					<idAresta>2</idAresta>
+				</producao>
+				<producao>
+					<titulo>LOPES, A. I.;SILVA, L. F.;MANICA, Edimar.USO DE TECNOLOGIAS PARA CONSCIENTIZAÇÃO AMBIENTAL. In: Mostra de Ensino, Pesquisa e Extensão do IFRS - Campus Porto alegre, 2012, Porto Alegre.Anais da 13ª Mostratec: Mostra de Ensino, Pesquisa e Extensão do IFRS - Campus Porto alegre. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>SILVA, L. F.;LOPES, A. I.;MANICA, Edimar.LIXO ELETRÔNICO: PROBLEMA OU SOLUÇÃO?. In: Mostra de Pesquisa e Extensão do IFRS - Campus Ibirubá, 2012, Ibirubá.Anais da I MoPEx Mostra de Pesquisa e Extensão do IFRS - Campus Ibirubá. 2012.</titulo>
+					<ano>2012</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>COLPO, M. P.;MANICA, Edimar;GALANTE, R.OPIS: Um método para identificação e busca de páginas-objeto apoiado por realimentação de relevância e classificação de páginas web. In: Simpósio Brasileiro de Banco de Dados, 2013, Recife, PE.Anais do XII WTDBD - XXVIII SBBD. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta>5</idAresta>
+				</producao>
+				<producao>
+					<titulo>COLPO, M. P.;MANICA, Edimar;GALANTE, R.Um Método para a Identificação e a Busca de Páginas-Objeto. In: Simpósio Brasileiro de Banco de Dados, 2013, Recife, PE.Anais do XXVIII SBBD. 2013.</titulo>
+					<ano>2013</ano>
+					<idAresta>5</idAresta>
+				</producao>
+				<producao>
+					<titulo>CORREA, A. B.;MANICA, Edimar;GALANTE, R.;Dorneles, Carina F.Uso de Expressões Temporais em Busca na Web: Uma análise através das sugestões de consulta. In: Escola Regional de Banco de Dados, 2014, São Francisco do Sul.X ERBD. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MANICA, Edimar;GALANTE, R.;Dorneles, Carina F.SSUP - A URL-based method to entity-page discovery. In: International Conference on Web Engineering, 2014, Toulouse.Web Engineering 14th International Conference, ICWE 2014. 2014.</titulo>
+					<ano>2014</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MANICA, Edimar;GALANTE, R.;Dorneles, Carina F.A framework for entity-page discovery and attribute extraction. In: Simpósio Brasileiro de Banco de Dados, 2015, Petrópolis.Anais do XIV WTDBD - XXX SBBD. 2015.</titulo>
+					<ano>2015</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MANICA, Edimar;Dorneles, Carina F.;GALANTE, R.R-Extractor - a method for data extraction from template-based entity-pages. In: The 41st Annual IEEE Computer Software and Applications Conference (COMPSAC 2017), 2017, Itália.Proceedings of the 41st Annual IEEE Computer Software and Applications Conference (COMPSAC 2017). 2017.</titulo>
+					<ano>2017</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MANICA, Edimar;DORNELES, C. F.;GALANTE, R.Orion: a Cypher-based Web Data Extractor. In: Database and Expert Systems Applications (DEXA), 2017, Lyon, France.Proceedings of the 28th Database and Expert Systems Applications. 2017.</titulo>
+					<ano>2017</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>KUHN, D. M.;MANICA, Edimar;Cervi, C.R.Avaliação da eficácia da extração de texto em imagens. In: 6ª MOEPEX, 2017, Ibirubá.Anais da 6ª Mostra de Ensino, Pesquisa e Extensão. 2017.</titulo>
+					<ano>2017</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>REIPS, L.;FERRARI, F. S.;GRENZEL, V. H. S.;MANICA, Edimar.A informatização do controle de assiduidade dos projetos de ensino, pesquisa e extensão. In: MOEPEX, 2017, Ibirubá.Anais da 6ª MOEPEX. 2017.</titulo>
+					<ano>2017</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>FISS, G.;HENRICH, M. L. P.;MANICA, Edimar.Informatização da emissão de certificados no IFRS - Campus Ibirubá. In: MOEPEX, 2017, Ibirubá.Anais da 6ª MOEPEX. 2017.</titulo>
+					<ano>2017</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>KUHN, D. M.;CERVI, C. R.;MANICA, Edimar.Extração de elementos textuais em imagens capturadas por smartphones : análise da relação entre as características das imagens e a eficácia da extração. In: Escola Regional de Banco de Dados, 2018, Rio Grande / RS.Anais da XIV Escola Regional de Banco de Dados. 2018.</titulo>
+					<ano>2018</ano>
+					<idAresta></idAresta>
+				</producao>
+				<producao>
+					<titulo>MANICA, Edimar;CERVI, C. R.;DORNELES, C. F.;GALANTE, R.EMap - Uma Interface de Consultas Temporais em SGBDs Relacionais. In: Simpósio Brasileiro de Banco de Dados, 2009, Fortaleza.Sessão de Demos do XXIV Simpósio Brasileiro de Banco de Dados. 2009.</titulo>
+					<ano>2009</ano>
+					<idAresta></idAresta>
+				</producao>
+			</producoes>
+		</nodo>
+	</nodos>
+		<arestas>
+			<aresta>
+				<autor1>0243625998325831</autor1>
+				<autor2>7497320738069454</autor2>
+				<anos>
+				<ano valor="2005">
+					<duplicatas>
+						<duplicata>
+						<id>1</id>
+						<indice>0.17</indice>
+						<titulo1>VARGAS, A. P.;BRAGANHOLO, V. P.;CA Heuser.Suporte a Transções Longas em Atualizações Através de Visões XML. In: WorkShop de Teses e Dissertações em Bancos de Dados (SBBD), 2005, Uberlândia.WTDBD - Simpósio Brasileiro de Bancos de Dados. 2005.</titulo1>
+						<titulo2>MALAGGI, Vitor;CERVI, C. R.;PREDIGER, Jonas Augusto;MANICA, Edimar;SILVA, Juliano Tonezer da;PAVAN, W.E-Case - Ferramenta Case Educacional para Modelagem Relacional. In: Mostra de Iniciação Científica da Universidade de Passo Fundo, 2005, Passo Fundo.Anais da XV Mostra de Iniciação Científica. 2005.</titulo2>
+						</duplicata>
+					</duplicatas>
+					<peso>1</peso>
+				</ano>
+				<ano valor="2011">
+					<duplicatas>
+						<duplicata>
+						<id>2</id>
+						<indice>0.24</indice>
+						<titulo1>VARGAS, A. P.;PEREIRA, Igor A.;Borges, Eduardo N.Uma arquitetura para pesquisa por relevância baseada em critérios. In: X Mostra de Produção Universitária da FURG, 2011, Rio Grande - RS.Anais da X MPU / FURG. 2011.</titulo1>
+						<titulo2>MANICA, Edimar;DORNELES, Carina Friedrich;GALANTE, R.Um panorama do uso do tempo em motores de busca Web. In: Escola Regional de Banco de Dados, 2011, Novo hamburgo.Anais da VII ERBD. 2011.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>2</id>
+						<indice>0.18</indice>
+						<titulo1>FARIAS, Lucas R.;VARGAS, A. P.;Borges, Eduardo N.Rede de pesquisa da FURG. In: X Mostra de Produção Universitária da FURG, 2011, Rio Grande - RS.Anais da X MPU / FURG. 2011.</titulo1>
+						<titulo2>MANICA, Edimar;DORNELES, Carina Friedrich;GALANTE, R.Um panorama do uso do tempo em motores de busca Web. In: Escola Regional de Banco de Dados, 2011, Novo hamburgo.Anais da VII ERBD. 2011.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>2</id>
+						<indice>0.27</indice>
+						<titulo1>OTERO, Tiago F.;Borges, Eduardo N.;VARGAS, A. P.;Adamatti, Diana.Uma ferramenta para coleta e análise de dados do segmento naval. In: X Mostra de Produção Universitária da FURG, 2011, Rio Grande - RS.Anais da X MPU / FURG. 2011.</titulo1>
+						<titulo2>MANICA, Edimar;DORNELES, Carina Friedrich;GALANTE, R.Um panorama do uso do tempo em motores de busca Web. In: Escola Regional de Banco de Dados, 2011, Novo hamburgo.Anais da VII ERBD. 2011.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>3</id>
+						<indice>0.35</indice>
+						<titulo1>LIBARDONI, M.;MENDIZABAL, O. M.;VARGAS, A. P.Estudo de Tecnologias para Dispositivos Móveis. In: 10ª Mostra de Produção Universitária, 2011, Rio Grande.10ª Mostra de Produção Universitária -Anais. 2011.</titulo1>
+						<titulo2>Jaisson Duarte;MANICA, Edimar.Protótipo de uma Biblioteca Digital para Disseminação do Conhecimento. In: Mostra Técnica do IFRS - Campus Bento Gonçalves, 2011, Bento Gonçalves.VII Mostra Técnica do IFRS - Campus Bento Gonçalves. 2011.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>2</id>
+						<indice>0.27</indice>
+						<titulo1>GELATTI, G.;CASSALES, V. A.;VARGAS, A. P.;FELIPPE, C. I.;MACHADO, K.SIGNUM: tradutor Português-Libras baseado em mineração de texto como extensão para navegador web. In: Proceedings of the 13th Brazilian Symposium on Human Factors in Computing Systems, 2014, .Proceedings of the 13th Brazilian Symposium on Human Factors in Computing Systems. 2011.</titulo1>
+						<titulo2>MANICA, Edimar;DORNELES, Carina Friedrich;GALANTE, R.Um panorama do uso do tempo em motores de busca Web. In: Escola Regional de Banco de Dados, 2011, Novo hamburgo.Anais da VII ERBD. 2011.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>2</id>
+						<indice>0.24</indice>
+						<titulo1>VARGAS, A. P.;PEREIRA, Igor A.;Borges, Eduardo N.Uma arquitetura para pesquisa por relevância baseada em critérios. In: X Mostra de Produção Universitária da FURG, 2011, Rio Grande - RS.Anais da X MPU / FURG. 2011.</titulo1>
+						<titulo2>Julio Alexander Sieg;MANICA, Edimar.Protótipo de uma Rede Social Educacional. In: Mostra Técnica do IFRS - Campus Bento Gonçalves, 2011, Bento Gonçalves.VII Mostra Técnica do IFRS - Campus Bento Gonçalves. 2011.</titulo2>
+						</duplicata>
+					</duplicatas>
+					<peso>6</peso>
+				</ano>
+				<ano valor="2012">
+					<duplicatas>
+						<duplicata>
+						<id>4</id>
+						<indice>0.14</indice>
+						<titulo1>TOMASINI, C.;PEREIRA, Igor A.;VARGAS, A. P.;Borges, Eduardo N.Módulo de critérios de relevância para o ARGOsearch. In: XI Mostra de Produção Universitária da FURG, 2012, Rio Grande - RS.Anais da XI MPU / FURG. 2012.</titulo1>
+						<titulo2>Jaisson Duarte;Julio Alexander Sieg;MANICA, Edimar.PROTÓTIPO DE INTEGRAÇÃO DE UMA BIBLIOTECA DIGITAL COM UMA REDE SOCIAL. In: Seminário de Iniciação Científica e Tecnológica, 2012, Bento Gonçalves.Anais do I SICT - Seminário de Iniciação Científica e Tecnológica. 2012.</titulo2>
+						</duplicata>
+					</duplicatas>
+					<peso>1</peso>
+				</ano>
+				<ano valor="2013">
+					<duplicatas>
+						<duplicata>
+						<id>5</id>
+						<indice>0.26</indice>
+						<titulo1>FOGACA, M.;VARGAS, A. P.;Meinhardt, Cristina.Proposta de Ferramenta para o Auxílio no Aprendizado de Memória Cache em Arquitetura de Computadores. In: Computer on the Beach, 2013, Florianópolis.Computer on the Beach - ANAIS 2013. 2013.</titulo1>
+						<titulo2>COLPO, M. P.;MANICA, Edimar;GALANTE, R.OPIS: Um método para identificação e busca de páginas-objeto apoiado por realimentação de relevância e classificação de páginas web. In: Simpósio Brasileiro de Banco de Dados, 2013, Recife, PE.Anais do XII WTDBD - XXVIII SBBD. 2013.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>5</id>
+						<indice>0.21</indice>
+						<titulo1>SALVA, T.;SILVA, R. S.;VARGAS, A. P.;MENDIZABAL, O. M.BlueGroups: Middleware para Construção de Aplicações Distribuídas em Dispositivos Móveis. In: Computer on the Beach, 2013, Florianópolis.Computer on the Beach - ANAIS 2013. 2013.</titulo1>
+						<titulo2>COLPO, M. P.;MANICA, Edimar;GALANTE, R.OPIS: Um método para identificação e busca de páginas-objeto apoiado por realimentação de relevância e classificação de páginas web. In: Simpósio Brasileiro de Banco de Dados, 2013, Recife, PE.Anais do XII WTDBD - XXVIII SBBD. 2013.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>5</id>
+						<indice>0.33</indice>
+						<titulo1>FARIAS, Lucas R.;VARGAS, A. P.;PEREIRA, Igor A.;Borges, Eduardo N.Uma implementação do algoritmo Naïve Bayes para classificação de texto. In: Escola Regional de Banco de Dados, 2013, Camboriú.Anais da IX Escola Regional de Banco de Dados. 2013.</titulo1>
+						<titulo2>COLPO, M. P.;MANICA, Edimar;GALANTE, R.OPIS: Um método para identificação e busca de páginas-objeto apoiado por realimentação de relevância e classificação de páginas web. In: Simpósio Brasileiro de Banco de Dados, 2013, Recife, PE.Anais do XII WTDBD - XXVIII SBBD. 2013.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>5</id>
+						<indice>0.26</indice>
+						<titulo1>TOMASINI, C.;VARGAS, A. P.;Borges, Eduardo N.Uma implementação de feedback da relevância utilizando o algoritmo Rocchio. In: Escola Regional de Banco de Dados, 2013, Camboriú.Anais da IX Escola Regional de Banco de Dados. 2013.</titulo1>
+						<titulo2>COLPO, M. P.;MANICA, Edimar;GALANTE, R.OPIS: Um método para identificação e busca de páginas-objeto apoiado por realimentação de relevância e classificação de páginas web. In: Simpósio Brasileiro de Banco de Dados, 2013, Recife, PE.Anais do XII WTDBD - XXVIII SBBD. 2013.</titulo2>
+						</duplicata>
+						<duplicata>
+						<id>5</id>
+						<indice>0.22</indice>
+						<titulo1>FOGACA, M.;VARGAS, A. P.;Meinhardt, Cristina.Proposta de Ferramenta para o Auxílio no Aprendizado de Memória Cache em Arquitetura de Computadores. In: Computer on the Beach, 2013, Florianópolis.Computer on the Beach - ANAIS 2013. 2013.</titulo1>
+						<titulo2>COLPO, M. P.;MANICA, Edimar;GALANTE, R.Um Método para a Identificação e a Busca de Páginas-Objeto. In: Simpósio Brasileiro de Banco de Dados, 2013, Recife, PE.Anais do XXVIII SBBD. 2013.</titulo2>
+						</duplicata>
+					</duplicatas>
+					<peso>5</peso>
+				</ano>
+				</anos>
+			</aresta>
+		</arestas>
+</grafo>
