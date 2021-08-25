@@ -5,6 +5,13 @@ Acesse uma das publicações do projeto: https://sol.sbc.org.br/index.php/erbd/a
 
 Este projeto teve como orientação o [Professor Dr. Eduardo Borges](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4511893E3&tokenCaptchar=03AGdBq26L1iiIskQLMayRP7ts-e0lc0-qaGy57J6kzhk7NF8DQbNd5ZuS8bYx9Fp482mgyCCENBgTGR5y1SRcLkBONdex1xiu5xDB77k2z251a7Qskwq8DRxdwxjqyVvRvAkCgRCtCPcEeA_j645EU3Ka0mkT_KlfIkeBA-ql6EnSQsx7cw9_hMsjBZoMf3J4mduP0BTaoC0J0sIC6nk83K9jIK49Y5Zu9MnVUDLClAHWNZNcKOSKfc_2qke2FuXxLZ6eoENc2TsNxsgRQl1MnQUp0PCDzxGP-eFatngfDU8MS14tDLeMH5P6J56tI6JAGSpFmy_FmZt983WPiHpxbrHh5beB0zc_fmU1Wu_vVEsZNN1-X0Pr3JPhw78X-_P1glldqeVWFF-LofTXDTe5bX-QXZjw1C2nHDgP373GhiXjgRALek8lH8aZOov898MxM8RAz_NSAWdaB9hTHpnyjz9xJWtiHmTomBmIhtakkARS6nGp-e2eSeh6k1a4XboQafN1vJlYuYxlc0-AJF_qwaeRcVEr8n_YvA)
 
+
+<!-- Inclusão de imagem na descrição do projeto -->
+<center>
+<img src="https://github.com/erick-luiz/research.net-web/blob/master/doc/image/research.jpg" alt="Imagem de apresentação da solução" />
+</center>
+<!--fim da inclusão de imagem -->
+
 # Tecnologias do projeto 
 
 1. PHP (Linguagem de programação principal do backend) 
